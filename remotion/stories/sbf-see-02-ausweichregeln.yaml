@@ -1,0 +1,454 @@
+id: sbf-see-02-ausweichregeln
+fps: 30
+voice: nova
+jingle: audio/jingle-intro.wav
+jingle_voice: audio/jingle-voice-02.mp3
+jingle_voice_script: Klar zum Entern! Sportbootführerschein See. Episode 2. Ausweichregeln.
+scenes:
+  - id: intro
+    type: intro
+    duration_ms: 7000
+    certificate: SBF See
+    topic: Ausweichregeln
+    episode: 2
+    question_count: 5
+    transition:
+      type: fade
+      duration_ms: 400
+  - id: q01-setup
+    type: explanation
+    duration_ms: 9984
+    background: images/generated/sbf-see-02-ausweichregeln/q01-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of two motorboats on a direct collision course, facing each other head-on, bows pointing straight
+      at each other, viewed from the side so both vessels are clearly aimed toward one another, open sea, blue water,
+      sunny day, photorealistic, no text, no watermarks
+    script: >-
+      Zwei Motorboote, volle Fahrt, entgegengesetzte Kurse – sie rasen direkt aufeinander zu. Beide Skipper sehen
+      einander. Was müssen jetzt beide tun?
+    audio: audio/generated/sbf-see-02/q01-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q01-frage
+    type: question
+    duration_ms: 18264
+    background: images/generated/sbf-see-02-ausweichregeln/q01-setup.png
+    catalog_number: 14
+    question_number: 1
+    question_total: 5
+    question: Wie weichen zwei Motorboote aus, die sich auf entgegengesetzten Kursen nähern?
+    answers:
+      - Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern.
+      - Jedes Fahrzeug muss seinen Kurs nach Backbord ändern.
+      - Das luvwärtige Fahrzeug muss dem leewärtigen Fahrzeug ausweichen.
+      - Das leewärtige Fahrzeug muss dem luvwärtigen Fahrzeug ausweichen.
+    correct: 0
+    reveal_ms: 18064
+    script: >-
+      Wie weichen beide aus? A: Jedes Fahrzeug ändert seinen Kurs nach Steuerbord. B: Jedes Fahrzeug ändert seinen Kurs
+      nach Backbord. C: Das Luv wärtige Fahrzeug muss dem Lee wärtigen ausweichen. Oder D: Das Lee wärtige Fahrzeug muss
+      dem Luv wärtigen ausweichen. Was ist richtig?
+    audio: audio/generated/sbf-see-02/q01-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q01-erklaerung
+    type: explanation
+    duration_ms: 27572
+    background: images/generated/sbf-see-02-ausweichregeln/q01-setup.png
+    image_duration_ms: 1
+    question: Wie weichen zwei Motorboote aus, die sich auf entgegengesetzten Kursen nähern?
+    answers:
+      - Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern.
+      - Jedes Fahrzeug muss seinen Kurs nach Backbord ändern.
+      - Das luvwärtige Fahrzeug muss dem leewärtigen Fahrzeug ausweichen.
+      - Das leewärtige Fahrzeug muss dem luvwärtigen Fahrzeug ausweichen.
+    correct: 0
+    headline: Beide nach Steuerbord – wie Gegenverkehr auf der Straße
+    body: |
+      - 🚢 Bei entgegengesetzten Kursen ändern beide Boote ihren Kurs nach Steuerbord (rechts)
+      - ↔️ Steuerbord ist immer rechts in Fahrtrichtung – nicht Backbord (links)
+      - 🪞 Die Regel gilt für beide gleich – nicht nur für eines der Boote
+      - 🚗 Wie im Straßenverkehr: Gegenverkehr hält rechts
+      💡 Entgegen = Steuerbord. Immer beide.
+    body_scripts:
+      - Bei entgegengesetzten Kursen ändern beide Boote ihren Kurs nach Steuerbord – also nach rechts.
+      - Steuerbord ist immer rechts in Fahrtrichtung – nicht verwechseln mit Backbord, das ist links.
+      - Beide müssen ausweichen – nicht nur das langsamere oder kleinere Boot. Die Regel gilt symmetrisch.
+      - 'Wie im Straßenverkehr: Gegenverkehr hält rechts. Auf dem Wasser gilt dieselbe Intuition.'
+      - 'Merkhilfe: Entgegen heißt Steuerbord. Immer beide.'
+    script: Richtig ist A.
+    audio: audio/generated/sbf-see-02/q01-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1836
+      - 7650
+      - 12624
+      - 18918
+      - 24348
+  - id: q02-setup
+    type: explanation
+    duration_ms: 8952
+    background: images/generated/sbf-see-02-ausweichregeln/q02-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic aerial-ish shot of two motorboats on crossing paths at sea, one approaching from the right side of the
+      other, clear blue water, sunny, open sea, sense of imminent decision, photorealistic, no text, no watermarks
+    script: >-
+      Diesmal kreuzen sich die Wege. Zwei Motorboote auf Kollisionskurs – aber nicht Kopf an Kopf. Irgendwer muss
+      ausweichen. Wer? Und warum?
+    audio: audio/generated/sbf-see-02/q02-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q02-frage
+    type: question
+    duration_ms: 16848
+    background: images/generated/sbf-see-02-ausweichregeln/q02-setup.png
+    catalog_number: 15
+    question_number: 2
+    question_total: 5
+    question: >-
+      Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht Zusammenstoßgefahr. Welches Fahrzeug ist
+      ausweichpflichtig?
+    answers:
+      - Das Fahrzeug, das das andere an seiner Backbordseite hat.
+      - Das luvwärtige Fahrzeug muss dem leewärtigen ausweichen.
+      - Das Fahrzeug, das das andere an seiner Steuerbordseite hat.
+      - Das leewärtige Fahrzeug muss dem luvwärtigen ausweichen.
+    correct: 2
+    reveal_ms: 16648
+    script: >-
+      Kreuzende Kurse, Zusammenstoßgefahr – wer muss ausweichen? A: Das Fahrzeug, das das andere an seiner Backbordseite
+      hat. B: Das Luv wärtige Fahrzeug. C: Das Fahrzeug, das das andere an seiner Steuerbordseite hat. Oder D: Das Lee
+      wärtige Fahrzeug. Was ist richtig?
+    audio: audio/generated/sbf-see-02/q02-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q02-erklaerung
+    type: explanation
+    duration_ms: 29660
+    background: images/generated/sbf-see-02-ausweichregeln/q02-setup.png
+    image_duration_ms: 1
+    question: >-
+      Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht Zusammenstoßgefahr. Welches Fahrzeug ist
+      ausweichpflichtig?
+    answers:
+      - Das Fahrzeug, das das andere an seiner Backbordseite hat.
+      - Das luvwärtige Fahrzeug muss dem leewärtigen ausweichen.
+      - Das Fahrzeug, das das andere an seiner Steuerbordseite hat.
+      - Das leewärtige Fahrzeug muss dem luvwärtigen ausweichen.
+    correct: 2
+    headline: Steuerbord hat Vorrecht – wer rechts sieht, weicht aus
+    body: |
+      - 👁️ Wer das andere Boot an seiner Steuerbordseite (rechts) sieht, ist ausweichpflichtig
+      - ⛵ Das andere Boot ist der Kurshalter – es behält Kurs und Geschwindigkeit bei
+      - 🔄 Steuerbord = rechts. Rechts sehen = ausweichen.
+      - 🚦 Wie an einer Kreuzung ohne Ampel: rechts hat Vorfahrt
+      💡 Rechts sehen = ausweichen. Immer.
+    body_scripts:
+      - Dasjenige Fahrzeug muss ausweichen, welches das andere Boot an seiner Steuerbordseite – also rechts – sieht.
+      - >-
+        Das andere Boot ist der Kurshalter. Es behält Kurs und Geschwindigkeit bei – solange der Ausweichpflichtige
+        handelt.
+      - Steuerbord ist rechts in Fahrtrichtung. Wer rechts eine Gefahr sieht, muss als Erstes handeln.
+      - 'Das ist wie an einer Kreuzung: rechts hat Vorfahrt. Auf dem Wasser gilt dieselbe Grundregel.'
+      - 'Merkhilfe: Rechts sehen gleich ausweichen. Immer.'
+    script: Richtig ist C.
+    audio: audio/generated/sbf-see-02/q02-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1836
+      - 8418
+      - 15000
+      - 20982
+      - 26484
+  - id: q03-setup
+    type: explanation
+    duration_ms: 10104
+    background: images/generated/sbf-see-02-ausweichregeln/q03-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic close-up shot of a boat skipper urgently steering hard to avoid another vessel at the last possible
+      moment, two boats dangerously close on open water, dramatic tension, spray, photorealistic, no text, no watermarks
+    script: >-
+      Worst case. Der Ausweichpflichtige hat nicht reagiert – ein Zusammenstoß scheint unvermeidlich. Was muss jetzt
+      passieren? Und wer muss handeln?
+    audio: audio/generated/sbf-see-02/q03-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q03-frage
+    type: question
+    duration_ms: 28272
+    background: images/generated/sbf-see-02-ausweichregeln/q03-setup.png
+    catalog_number: 80
+    question_number: 3
+    question_total: 5
+    question: Wann ist das "Manöver des letzten Augenblicks" durchzuführen?
+    answers:
+      - Wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann.
+      - Wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden kann.
+      - Wenn ein Zusammenstoß von jedem der Beteiligten nicht mehr vermieden werden kann.
+      - >-
+        Kurz vor der Kollision, wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden
+        kann.
+    correct: 1
+    reveal_ms: 28072
+    script: >-
+      Wann ist das Manöver des letzten Augenblicks durchzuführen? A: Wenn ein Zusammenstoß durch Manöver des Kurshalters
+      allein nicht mehr vermieden werden kann. B: Wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein
+      nicht mehr vermieden werden kann. C: Wenn ein Zusammenstoß von jedem nicht mehr vermieden werden kann. Oder D:
+      Kurz vor der Kollision, wenn der Kurshalter allein es nicht mehr verhindern kann. Was ist richtig?
+    audio: audio/generated/sbf-see-02/q03-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q03-erklaerung
+    type: explanation
+    duration_ms: 31628
+    background: images/generated/sbf-see-02-ausweichregeln/q03-setup.png
+    image_duration_ms: 1
+    question: Wann ist das "Manöver des letzten Augenblicks" durchzuführen?
+    answers:
+      - Wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann.
+      - Wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden kann.
+      - Wenn ein Zusammenstoß von jedem der Beteiligten nicht mehr vermieden werden kann.
+      - >-
+        Kurz vor der Kollision, wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden
+        kann.
+    correct: 1
+    headline: Letzter Ausweg für den Kurshalter
+    body: |
+      - ⚓ Normalerweise: Kurshalter hält Kurs, Ausweichpflichtiger handelt allein
+      - ⚠️ Ausnahme: Wenn der Ausweichpflichtige allein nicht mehr rechtzeitig handeln kann
+      - 🛟 Dann greift der Kurshalter ein – das ist das Manöver des letzten Augenblicks
+      - 📏 Auslöser: Ausweichpflichtiger allein reicht nicht mehr – nicht erst wenn es "knapp wird"
+      💡 Kurshalter wartet – aber nicht bis zur Kollision.
+    body_scripts:
+      - Normalerweise hält der Kurshalter seinen Kurs, und der Ausweichpflichtige handelt allein.
+      - >-
+        Ausnahme: Wenn ein Zusammenstoß durch das Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden
+        kann.
+      - In diesem Moment greift der Kurshalter ein. Das ist das Manöver des letzten Augenblicks.
+      - 'Der Auslöser ist präzise definiert: der Ausweichpflichtige reicht allein nicht mehr. Nicht: es wird ungemütlich.'
+      - 'Merkhilfe: Kurshalter wartet lange – aber nicht bis zur Kollision.'
+    script: Richtig ist B.
+    audio: audio/generated/sbf-see-02/q03-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1764
+      - 7362
+      - 14640
+      - 19926
+      - 26844
+  - id: q04-setup
+    type: explanation
+    duration_ms: 10296
+    background: images/generated/sbf-see-02-ausweichregeln/q04-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of one fast motorboat overtaking another from behind on open sea, viewed from the stern quarter,
+      the overtaking boat clearly coming from the rear sector, sunny day, blue water, photorealistic, no text, no
+      watermarks
+    script: >-
+      Ihr holt ein anderes Boot von hinten ein. Aber ab welchem Winkel gilt ihr rechtlich als überholendes Fahrzeug –
+      und seid damit ausweichpflichtig?
+    audio: audio/generated/sbf-see-02/q04-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q04-frage
+    type: question
+    duration_ms: 36504
+    background: images/generated/sbf-see-02-ausweichregeln/q04-setup.png
+    catalog_number: 81
+    question_number: 4
+    question_total: 5
+    question: Wann gilt ein Fahrzeug als überholendes Fahrzeug?
+    answers:
+      - >-
+        Wenn es an einem anderen Fahrzeug aus einer achterlichen Richtung von mehr als 22,5° querab (Bereich des
+        Topplichtes) vorbeifährt.
+      - >-
+        Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 112,5° achterlicher als querab (Bereich der
+        Seitenlichter) nähert.
+      - >-
+        Wenn es sich einem anderen Fahrzeug gegenüber in einer Richtung von mehr als 22,5° achterlicher als querab
+        (Bereich des Hecklichtes) befindet.
+      - >-
+        Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des
+        Hecklichtes) nähert.
+    correct: 3
+    reveal_ms: 36304
+    script: >-
+      Wann gilt ein Fahrzeug als überholendes Fahrzeug? A: Wenn es vorbeifährt aus einer achterlichen Richtung von mehr
+      als 22,5° querab, im Bereich des Topplichtes. B: Wenn es sich nähert aus einer Richtung von mehr als 112,5°
+      achterlicher als querab, im Bereich der Seitenlichter. C: Wenn es sich befindet in einer Richtung von mehr als
+      22,5° achterlicher als querab, im Bereich des Hecklichtes. Oder D: Wenn es sich nähert aus einer Richtung von mehr
+      als 22,5° achterlicher als querab, im Bereich des Hecklichtes. Was ist richtig?
+    audio: audio/generated/sbf-see-02/q04-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q04-erklaerung
+    type: explanation
+    duration_ms: 33692
+    background: images/generated/sbf-see-02-ausweichregeln/q04-setup.png
+    image_duration_ms: 1
+    question: Wann gilt ein Fahrzeug als überholendes Fahrzeug?
+    answers:
+      - >-
+        Wenn es an einem anderen Fahrzeug aus einer achterlichen Richtung von mehr als 22,5° querab (Bereich des
+        Topplichtes) vorbeifährt.
+      - >-
+        Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 112,5° achterlicher als querab (Bereich der
+        Seitenlichter) nähert.
+      - >-
+        Wenn es sich einem anderen Fahrzeug gegenüber in einer Richtung von mehr als 22,5° achterlicher als querab
+        (Bereich des Hecklichtes) befindet.
+      - >-
+        Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des
+        Hecklichtes) nähert.
+    correct: 3
+    headline: 22,5° hinter querab – der Hecklichtbereich entscheidet
+    body: |
+      - 💡 Überholend heißt: man nähert sich von mehr als 22,5° hinter querab
+      - 🔦 Das ist der Bereich, in dem das weiße Hecklicht des anderen Bootes sichtbar ist
+      - 🔄 Wer aus diesem Bereich kommt, ist ausweichpflichtig – egal wer schneller ist
+      - 📐 "Nähert sich" ist entscheidend – nicht "befindet sich" oder "vorbeifährt"
+      💡 Hecklicht des anderen sehen = du überholst. Weich aus.
+    body_scripts:
+      - >-
+        Als überholendes Fahrzeug gilt, wer sich dem anderen aus einer Richtung von mehr als 22,5° achterlicher als
+        querab nähert.
+      - Das entspricht genau dem Bereich, in dem das weiße Hecklicht des vorausfahrenden Bootes sichtbar ist.
+      - Wer aus diesem Bereich kommt, ist ausweichpflichtig – unabhängig von Größe oder Geschwindigkeit.
+      - >-
+        Das Schlüsselwort ist "nähert sich" – nicht "befindet sich" oder "vorbeifährt". Der Zeitpunkt des Annäherns
+        zählt.
+      - 'Merkhilfe: Hecklicht des anderen sehen bedeutet – du überholst. Weich aus.'
+    script: Richtig ist D.
+    audio: audio/generated/sbf-see-02/q04-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1836
+      - 10002
+      - 16296
+      - 22254
+      - 29172
+  - id: q05-setup
+    type: explanation
+    duration_ms: 10728
+    background: images/generated/sbf-see-02-ausweichregeln/q05-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of a motorboat slowing down carefully in busy marina traffic with other vessels nearby, skipper
+      alert and looking around, realistic maritime setting, calm water, photorealistic, no text, no watermarks
+    script: >-
+      Letzte Frage. Auf See gibt es keine Temposchilder – aber trotzdem eine klare Geschwindigkeitspflicht. Was genau
+      bedeutet "sichere Geschwindigkeit" nach dem Gesetz?
+    audio: audio/generated/sbf-see-02/q05-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q05-frage
+    type: question
+    duration_ms: 21336
+    background: images/generated/sbf-see-02-ausweichregeln/q05-setup.png
+    catalog_number: 90
+    question_number: 5
+    question_total: 5
+    question: Was bedeutet "sichere Geschwindigkeit"?
+    answers:
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein, und es muss
+        jederzeit aufgestoppt werden können.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein, und der
+        Verkehr darf nicht behindert werden.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen und dem Treibstoffverbrauch
+        angepasst sein.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, dem Verkehrsaufkommen, den Seegangs- und Windverhältnissen angepasst
+        sein, so dass kein Sog und Wellenschlag entsteht.
+    correct: 0
+    reveal_ms: 21136
+    script: >-
+      Was bedeutet sichere Geschwindigkeit? A: Der Verkehrslage und den Sicht- und Witterungsverhältnissen angepasst,
+      und jederzeit aufstoppbar. B: Angepasst und Verkehr darf nicht behindert werden. C: Angepasst inklusive
+      Treibstoffverbrauch. Oder D: Angepasst an Verkehrsaufkommen und Seegangsbedingungen, kein Sog. Was ist richtig?
+    audio: audio/generated/sbf-see-02/q05-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q05-erklaerung
+    type: explanation
+    duration_ms: 33284
+    background: images/generated/sbf-see-02-ausweichregeln/q05-setup.png
+    image_duration_ms: 1
+    question: Was bedeutet "sichere Geschwindigkeit"?
+    answers:
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein, und es muss
+        jederzeit aufgestoppt werden können.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein, und der
+        Verkehr darf nicht behindert werden.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen und dem Treibstoffverbrauch
+        angepasst sein.
+      - >-
+        Die Geschwindigkeit muss der Verkehrslage, dem Verkehrsaufkommen, den Seegangs- und Windverhältnissen angepasst
+        sein, so dass kein Sog und Wellenschlag entsteht.
+    correct: 0
+    headline: Jederzeit anhalten können – das ist der Kern
+    body: |
+      - 🚦 Keine feste Höchstgeschwindigkeit auf See – stattdessen eine situationsabhängige Pflicht
+      - 🛑 Kernbedingung: jederzeit aufstoppbar sein – nicht einfach "langsam fahren"
+      - 🌫️ Maßgeblich sind Verkehrslage, Sicht und Witterung – alle drei zusammen
+      - ❌ "Verkehr nicht behindern" und "kein Sog" sind echte Pflichten – aber nicht die Definition von "sicher"
+      💡 Sicher heißt nicht langsam – es heißt jederzeit stoppen können.
+    body_scripts:
+      - Es gibt keine feste Höchstgeschwindigkeit auf See. Stattdessen gilt die Pflicht zur sicheren Geschwindigkeit.
+      - Der Kern der Regel ist das Aufstoppenkönnen – nicht einfach langsam fahren.
+      - Maßgeblich sind Verkehrslage, Sicht und Witterungsverhältnisse – alle drei zusammen.
+      - >-
+        Antworten wie "Verkehr nicht behindern" oder "kein Sog erzeugen" sind echte Pflichten auf dem Wasser – aber sie
+        definieren nicht, was sichere Geschwindigkeit bedeutet.
+      - 'Merkhilfe: Sicher heißt nicht langsam. Es heißt jederzeit stoppen können.'
+    script: Richtig ist A.
+    audio: audio/generated/sbf-see-02/q05-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1788
+      - 8274
+      - 12504
+      - 17958
+      - 28140
+  - id: outro
+    type: outro
+    duration_ms: 8000
+    topic: Ausweichregeln
+    summary_points:
+      - Bei entgegengesetzten Kursen ändern beide Boote ihren Kurs nach Steuerbord
+      - Bei kreuzenden Kursen weicht aus, wer das andere Boot an seiner Steuerbordseite hat
+      - >-
+        Das Manöver des letzten Augenblicks wird vom Kurshalter ausgeführt, wenn der Ausweichpflichtige allein nicht
+        mehr reicht
+      - Ein Fahrzeug gilt als überholend, wenn es sich von mehr als 22,5° achterlicher als querab nähert
+      - Sichere Geschwindigkeit bedeutet, jederzeit aufstoppbar zu sein

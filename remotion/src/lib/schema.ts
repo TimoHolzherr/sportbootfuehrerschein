@@ -91,6 +91,7 @@ export const EpisodeSchema = z.object({
   voice: z.string().default("nova"),       // OpenAI TTS voice
   jingle: z.string().optional(),           // path relative to public/, plays over intro
   jingle_voice: z.string().optional(),     // TTS voice-over played over jingle
+  jingle_voice_script: z.string().optional(), // source text to generate jingle_voice via TTS
   music: z.string().optional(),
   music_volume: z.number().min(0).max(1).default(0.08),
   scenes: z.array(SceneSchema).min(1),

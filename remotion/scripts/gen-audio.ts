@@ -78,6 +78,20 @@ async function generateAudio(text: string, voice: string): Promise<Buffer> {
   const voice = episode.voice ?? "nova";
   console.log(`Episode: ${episode.id} | Voice: ${voice}`);
 
+  // ── Jingle voice-over ────────────────────────────────────────────────────────
+  if (episode.jingle_voice_script && episode.jingle_voice) {
+    const jingleVoicePath = path.resolve(__dirname, "../public", episode.jingle_voice);
+    if (fs.existsSync(jingleVoicePath)) {
+      console.log(`Jingle voice: exists, skipping`);
+    } else {
+      console.log(`Jingle voice: generating...`);
+      fs.mkdirSync(path.dirname(jingleVoicePath), { recursive: true });
+      const buf = await generateAudio(episode.jingle_voice_script, voice);
+      fs.writeFileSync(jingleVoicePath, buf);
+      console.log(`  → ${path.relative(process.cwd(), jingleVoicePath)} (${(buf.length / 1024).toFixed(1)} KB)`);
+    }
+  }
+
   for (const scene of episode.scenes) {
     // ── Main scene audio ──────────────────────────────────────────────────────
     if (scene.script) {

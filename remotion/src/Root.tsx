@@ -6,10 +6,11 @@ import { computeTotalFrames } from "./lib/storyUtils";
 
 // Import episode YAML files — webpack yaml-loader converts them to JS objects
 import sbfSee01 from "../stories/sbf-see-01-schiffsfuehrer.yaml";
+import sbfSee02 from "../stories/sbf-see-02-ausweichregeln.yaml";
 
 const RAW_EPISODES: unknown[] = [
   sbfSee01,
-  // Add new episodes here
+  sbfSee02,
 ];
 
 const episodes: Episode[] = RAW_EPISODES.map((raw) => EpisodeSchema.parse(raw));
