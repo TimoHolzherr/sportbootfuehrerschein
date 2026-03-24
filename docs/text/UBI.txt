@@ -1,0 +1,3380 @@
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+1
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+GESAMTFRAGENKATALOG UBI
+I.
+II.
+III.
+IV.
+V.
+
+Binnenschifffahrtsfunk ……………………………………………………… Fragen
+Funkeinrichtungen und Schiffsfunkstellen…………………………. Fragen
+Verkehrskreise………………………………………………………………….. Fragen
+Sprechfunk………………………………………………………………………… Fragen
+Betriebsverfahren und Rangfolgen…………………………………….. Fragen
+
+1 - 24
+25 - 54
+55 - 79
+80 - 108
+108 - 130
+
+ Richtig ist immer die Antwort a)
+
+I. Binnenschifffahrtsfunk
+
+1.
+
+Was ist Binnenschifffahrtsfunk?
+
+a)
+
+Internationaler mobiler UKW/VHF- Sprechfunkdienst auf
+Binnenschifffahrtsstraßen
+
+b)
+
+Nationaler mobiler UKW/VHF-Sprechfunkdienst auf Binnenschifffahrtsstraßen
+
+c)
+
+Internationales UKW/VHF-Sprechfunkverfahren im Binnenbereich
+
+d)
+
+Nationales UKW/VHF-Sprechfunkverfahren im Binnenbereich
+
+2.
+
+Wozu dient der Binnenschifffahrtsfunk?
+
+a)
+
+Funkverkehr für bestimmte Zwecke auf vereinbarten Kanälen (Verkehrskreise)
+und nach einem festgelegten Betriebsverfahren
+
+b)
+
+Funkverkehr für Schiffsfunkstellen zu bestimmten Zwecken auf vereinbarten
+Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren
+
+c)
+
+Funkverkehr zu Landfunkstellen für bestimmte Zwecke auf vereinbarten Kanälen
+(Verkehrskreise) und nach einem festgelegten Betriebsverfahren
+
+d)
+
+Funkverkehr für Schiffsfunkstellen über Landfunkstellen auf vereinbarten
+Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren
+
+[1]
+
+[2]
+
+2
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+3.
+
+Wo findet man Angaben über die grundsätzlichen Regelungen für den
+Binnenschifffahrtsfunk in Europa?
+
+a)
+
+Regionale Vereinbarung über den Binnenschifffahrtsfunk (RAINWAT)
+
+b)
+
+International Convention for the Safety of Life at Sea (SOLAS)
+
+c)
+
+Verwaltungsvereinbarung über die Koordinierung von Frequenzen (HCM)
+
+d)
+
+Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)
+
+4.
+
+Was ist eine „ortsfeste Funkstelle”?
+
+a)
+
+Funkstelle, die an Land betrieben wird
+
+b)
+
+Funkstelle, die von der Fernmeldebehörde betrieben wird
+
+c)
+
+Funkstelle, die an Bord eines nicht dauernd festgemachten Binnenschiffes
+betrieben wird
+
+d)
+
+Funkstelle, die im Verkehrskreis Funkverkehr an Bord betrieben wird
+
+5.
+
+Was ist eine „Revierzentrale”?
+
+a)
+
+Zentrale Landfunkstelle des Verkehrskreises Nautische Information
+
+b)
+
+Zentrale Schiffsfunkstelle der Wasserstraßen- und Schifffahrtsverwaltung
+
+c)
+
+Zentrale Telematikdienste zur Datenübermittlung von AIS
+
+d)
+
+Zentrale Seefunkstelle zur Schiffslenkung
+
+[3]
+
+[4]
+
+[5]
+
+3
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+6.
+
+Was ist ein „Verkehrsposten”?
+
+a)
+
+Zentrale ortsfeste Funkstelle in den Niederlanden
+
+b)
+
+Zentrale mobile Funkstelle in den Niederlanden
+
+c)
+
+Zentrale ortsfeste Funkstelle in den Niederlanden und in Frankreich
+
+d)
+
+Zentrale mobile Funkstelle in den Niederlanden und in Frankreich
+
+7.
+
+Was ist ein „Blockkanal”?
+
+a)
+
+Funkkanal für sicherheitsrelevante Meldungen der Verkehrsposten und
+Schiffsfunkstellen in den Niederlanden
+
+b)
+
+Funkkanal für Routinegespräche der Verkehrsposten und Schiffsfunkstellen
+in den Niederlanden
+
+c)
+
+Gesperrter Funkkanal der Verkehrsposten und Verkehrszentralen
+in den Niederlanden
+
+d)
+
+Funkkanal für öffentlichen Nachrichtenaustausch zwischen den
+Verkehrsposten in den Niederlanden
+
+8.
+
+Was bedeutet „MIB”?
+
+a)
+
+Melde- und Informationssystem in der Binnenschifffahrt
+
+b)
+
+Maritimes Identifikationssystem in der Binnenschifffahrt
+
+c)
+
+Mobiles Informationssystem in der Binnenschifffahrt
+
+d)
+
+Melde- und Identifikationssystem in der Binnenschifffahrt
+
+[6]
+
+[7]
+
+[8]
+
+4
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+9.
+
+Wo darf der Inhaber eines in Deutschland erworbenen UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk am Funkverkehr teilnehmen?
+
+a)
+
+In allen Ländern, die der Regionalen Vereinbarung über den
+Binnenschifffahrtsfunk beigetreten sind
+
+b)
+
+In allen Mitgliedstaaten der EU
+
+c)
+
+In allen Staaten, die die Vollzugsordnung für den Funkdienst ratifiziert haben
+
+d)
+
+In allen deutschsprachigen Ländern
+
+10.
+
+Wo berechtigt das UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+(UBI) auch zur Teilnahme am mobilen Seefunkdienst?
+
+a)
+
+Wasserstraßen der Zonen 1 bis 2
+
+b)
+
+Wasserstraßen der Zonen 2 bis 4
+
+c)
+
+Wasserstraßen der Zonen 1 bis 4
+
+d)
+
+Wasserstraßen der Zonen 2 bis 3
+
+11.
+
+Wer erteilt neben der zuständigen Stelle des Bundes das
+UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)?
+
+a)
+
+Prüfungsausschüsse des Deutschen Motoryachtverbandes e. V. (DMYV)
+und des Deutschen Segler-Verbandes e. V. (DSV)
+
+b)
+
+Bundesnetzagentur (BNetzA) und das Bundesamt für Seeschifffahrt
+und Hydrographie (BSH)
+
+c)
+
+Zentrale Verwaltungsstelle (ZVST) und Generaldirektion Wasserstraßen
+und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA) und Bundesnetzagentur (BNetzA)
+
+[9]
+
+[10]
+
+[11]
+
+5
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+12.
+
+Welches Funkzeugnis berechtigt nicht zur Teilnahme
+am Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS)?
+
+a)
+
+UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)
+
+b)
+
+Beschränkt Gültiges Funkbetriebszeugnis (SRC)
+
+c)
+
+Allgemeines Funkbetriebszeugnis (LRC)
+
+d)
+
+Allgemeines Betriebszeugnis für Funker (GOC)
+
+13.
+
+Welches Funkzeugnis berechtigt nicht zur Teilnahme
+am Binnenschifffahrtsfunk?
+
+a)
+
+Amateurfunkzeugnis
+
+b)
+
+UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)
+
+c)
+
+Allgemeines Sprechfunkzeugnis für den Seefunkdienst
+
+d)
+
+Beschränkt gültiges Betriebszeugnis für Funker I (BZ I)
+
+14.
+
+Worauf ist bei der Teilnahme am Binnenschifffahrtsfunk in anderen Ländern
+zu achten?
+
+a)
+
+Die Bestimmungen im Regionalen Teil des Handbuchs Binnenschifffahrtsfunk
+sind zu beachten
+
+b)
+
+Die Bestimmungen der Binnenschifffahrt-Sprechfunkverordnung
+sind zu beachten
+
+c)
+
+Die Bestimmungen der EU-Kommission sind zu beachten
+
+d)
+
+Die Bestimmungen der Binnenschifffahrtsstraßenordnung sind zu beachten
+
+[12]
+
+[13]
+
+[14]
+
+6
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+15.
+
+Wo findet man grundsätzliche Bestimmungen über den Sprechfunk auf den
+jeweiligen Bundeswasserstraßen?
+
+a)
+
+Schifffahrtspolizeiverordnungen
+
+b)
+
+Binnenschifffahrtspatentverordnung
+
+c)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+d)
+
+Binnenschiffsuntersuchungsordnung
+
+16.
+
+Wo findet man z. B. Angaben über die Ausrüstungspflicht
+mit Funkanlagen auf Binnenschiffen?
+
+a)
+
+Binnenschifffahrtstraßenordnung
+
+b)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+c)
+
+Binnenschifferpatentverordnung
+
+d)
+
+Schiffssicherheitsverordnung
+
+17.
+
+Wo findet man Angaben über die Funkbenutzungspflicht für Fahrzeuge auf
+bestimmten Binnenschifffahrtsstraßen?
+
+a)
+
+Regionale Teile des Handbuchs Binnenschifffahrtsfunk
+
+b)
+
+Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk
+
+c)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+d)
+
+Binnenschifferpatentverordnung
+
+[15]
+
+[16]
+
+[17]
+
+7
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+18.
+
+Das Abhörverbot und das Fernmeldegeheimnis sind geregelt…
+
+a)
+
+im Telekommunikationsgesetz (TKG)
+
+b)
+
+in der Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)
+
+c)
+
+in der Schiffssicherheitsverordnung (SchSV)
+
+d)
+
+im Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen (FTEG)
+
+19.
+
+Was unterliegt dem Fernmeldegeheimnis?
+
+a)
+
+Inhalt des Funkverkehrs und seine näheren Umstände, insbesondere die
+Tatsache, ob jemand an der Abwicklung des Funkverkehrs beteiligt ist oder war
+
+b)
+
+Inhalt des Funkverkehrs und seine näheren Umstände, insbesondere konkrete
+Daten wie z. B. der ATIS-Code
+
+c)
+
+Inhalt des Funkverkehrs und seine näheren Umstände, sofern es sich um
+Nachrichtenaustausch mit einer Revierzentrale handelt
+
+d)
+
+Inhalt des Funkverkehrs und seine näheren Umstände, sofern es sich um
+Nachrichtenaustausch im Rahmen des Not-, Dringlichkeits- und
+Sicherheitsverkehrs handelt
+
+20.
+
+Welche Nachrichten dürfen uneingeschränkt aufgenommen und
+verbreitet werden?
+
+a)
+
+Aussendungen, die „An alle Funkstellen“ gerichtet sind
+
+b)
+
+Aussendungen des Öffentlichen Nachrichtenaustauschs
+
+c)
+
+Aussendungen im Verkehrskreis Funkverkehr an Bord
+
+d)
+
+Aussendungen im Binnenschifffahrtsfunk dürfen uneingeschränkt
+aufgenommen und verbreitet werden
+
+[18]
+
+[19]
+
+[20]
+
+8
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+21.
+
+Welche Folgen kann die Verletzung des Fernmeldegeheimnisses haben?
+
+a)
+
+Strafrechtliche Verfolgung
+
+b)
+
+Ordnungswidrigkeitsverfahren
+
+c)
+
+Schriftliche Verwarnung
+
+d)
+
+Einzug der Funkanlage
+
+22.
+
+Welchen Frequenzbereich nutzt der Binnenschifffahrtsfunk?
+
+a)
+
+Ultrakurzwelle (UKW/VHF)
+
+b)
+
+Kurzwelle (KW/HF)
+
+c)
+
+Grenzwelle (GW/MF)
+
+d)
+
+Langwelle (LW/LF)
+
+23.
+
+Wie breiten sich Ultrakurzwellen aus?
+
+a)
+
+Geradlinig und quasioptisch
+
+b)
+
+Abhängig von der Tageszeit
+
+c)
+
+Der Erdkrümmung folgend bis weit hinter den Horizont
+
+d)
+
+In der Ionosphäre reflektiert
+
+[21]
+
+[22]
+
+[23]
+
+9
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+24.
+
+Welche Faktoren können die Ausbreitung der Ultrakurzwellen beeinflussen?
+
+a)
+
+Hindernisse, z. B. Berge oder hohe Bauwerke
+
+b)
+
+Niederschläge, z. B. Schnee- oder Regenschauer
+
+c)
+
+Tag- und Nachtschwankungen
+
+d)
+
+Kurs und Geschwindigkeit des Schiffes
+
+[24]
+
+10
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+II. Funkeinrichtungen und Schiffsfunkstellen
+
+25.
+
+Was ist eine „Schiffsfunkstelle”?
+
+a)
+
+Mobile Funkstelle des Binnenschifffahrtsfunks
+
+b)
+
+Mobile Funkstelle des mobilen Seefunkdienstes
+
+c)
+
+Ortsfeste Funkstelle des Binnenschifffahrtsfunks
+
+d)
+
+Ortsfeste Funkstelle des mobilen Seefunkdienstes
+
+26.
+
+Was ist eine „Seefunkstelle”?
+
+a)
+
+Funkstelle des Mobilen Seefunkdienstes an Bord eines nicht dauernd
+verankerten Seefahrzeuges
+
+b)
+
+Funkstelle des Mobilen Seefunkdienstes, die an Land als Küstenfunkstelle
+betrieben wird
+
+c)
+
+Funkstelle des Binnenschifffahrtsfunks, die im Seebereich an Bord eines
+Seeschiffes betrieben wird
+
+d)
+
+Funkstelle des Mobilen Seefunkdienstes, die im Verkehrskreis
+Nautische Information betrieben wird
+
+27.
+
+Wer darf eine Schiffsfunkstelle bedienen?
+
+a)
+
+Inhaber eines gültigen Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
+(UBI) oder eines gleichwertigen Zeugnisses
+
+b)
+
+Personen, die ohne Aufsicht eines Funkzeugnisinhabers am Funkverkehr
+teilnehmen, sofern sie älter als 16 Jahre sind
+
+c)
+
+Nur der Schiffsführer, sofern er über ein gültiges Sprechfunkzeugnis für den
+Binnenschifffahrtsfunk (UBI) verfügt
+
+d)
+
+Personen, die über einen gültigen Sportbootführerschein-Binnen und über die
+Erlaubnis des Schiffsführers verfügen
+
+[25]
+
+[26]
+
+[27]
+
+11
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+28.
+
+Wer stellt in Deutschland die Zuteilungsurkunde (Ship Station Licence)
+für eine Schiffsfunkstelle aus?
+
+a)
+
+Bundesnetzagentur (BNetzA)
+
+b)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+c)
+
+Generaldirektion Wasserstraßen und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA)
+
+29.
+
+Der Betrieb einer Schiffsfunkstelle ohne Zuteilungsurkunde
+(Ship Station Licence) verstößt gegen Vorschriften…
+
+a)
+
+des Telekommunikationsgesetzes (TKG)
+
+b)
+
+der Binnenschifffahrtstraßenordnung (BinSchStrO)
+
+c)
+
+des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen
+(FTEG)
+
+d)
+
+der Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)
+
+30.
+
+Die Bedienung einer Schiffsfunkstelle ohne Erlaubnis
+(UKW-Sprechfunkzeugnis) verstößt gegen Vorschriften…
+
+a)
+
+der Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)
+
+b)
+
+der Binnenschifffahrtstraßenordnung (BinSchStrO)
+
+c)
+
+des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen
+(FTEG)
+
+d)
+
+des Telekommunikationsgesetzes (TKG)
+
+[28]
+
+[29]
+
+[30]
+
+12
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+31.
+
+Welches amtliche Dokument für eine Schiffsfunkstelle muss sich
+an Bord befinden?
+
+a)
+
+Zuteilungsurkunde (Ship Station Licence)
+
+b)
+
+UKW-Sprechfunkzeugnis (UBI)
+
+c)
+
+UKW-Betriebszeugnis
+
+d)
+
+Zulassungsurkunde
+
+32.
+
+Die telekommunikationsrechtliche Überprüfung einer Schiffsfunkstelle
+wird durchgeführt von...
+
+a)
+
+Bundesnetzagentur (BNetzA)
+
+b)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+c)
+
+Generaldirektion Wasserstraßen und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA)
+
+33.
+
+Wer ist bei Eignerwechsel eines Binnenschiffes in Bezug auf die
+Schiffsfunkstelle zu benachrichtigen?
+
+a)
+
+Bundesnetzagentur (BNetzA)
+
+b)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+c)
+
+Generaldirektion Wasserstraßen und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA)
+
+[31]
+
+[32]
+
+[33]
+
+13
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+34.
+
+Wer ist bei technischen Änderungen an einer Schiffsfunkstelle, z. B. bei
+Änderung des Gerätebestands, schriftlich zu informieren?
+
+a)
+
+Bundesnetzagentur (BNetzA)
+
+b)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+c)
+
+Generaldirektion Wasserstraßen und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA)
+
+35.
+
+Wer kann die Einstellung des Betriebes einer Schiffsfunkstelle anordnen?
+
+a)
+
+Bundesnetzagentur (BNetzA)
+
+b)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+c)
+
+Generaldirektion Wasserstraßen und Schifffahrt (GDWS)
+
+d)
+
+Wasserstraßen- und Schifffahrtsamt (WSA)
+
+36.
+
+Welche Teile des Handbuchs Binnenschifffahrtsfunk müssen bei einer
+Schiffsfunkstelle mitgeführt werden?
+
+a)
+
+Allgemeiner Teil sowie Regionale Teile für die Strecken, in denen
+die Schiffsfunkstelle am Binnenschifffahrtsfunk teilnimmt
+
+b)
+
+Regionale Teile für die Strecke, in der sich die Schiffsfunkstelle gerade befindet
+
+c)
+
+Regionale Teile für alle europäischen Wasserstraßen
+
+d)
+
+Allgemeiner Teil sowie Regionale Teile des Landes,
+in dem die Schiffsfunkstelle angemeldet wurde
+
+[34]
+
+[35]
+
+[36]
+
+14
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+37.
+
+Woraus besteht das Rufzeichen für eine deutsche Schiffsfunkstelle?
+
+a)
+
+Zwei Buchstaben der Rufzeichenreihe für Deutschland, gefolgt von vier Ziffern
+
+b)
+
+Vier Buchstaben der Rufzeichenreihe für Deutschland, gefolgt von vier Ziffern
+
+c)
+
+Zwei Buchstaben der Rufzeichenreihe für Deutschland, gefolgt von zwei Ziffern
+
+d)
+
+Vier Buchstaben der Rufzeichenreihe für Deutschland, gefolgt von zwei Ziffern
+
+38.
+
+Welches der nachfolgend angegebenen Rufzeichen
+kennzeichnet eine Schiffsfunkstelle?
+
+a)
+
+DA 5005
+
+b)
+
+DABC 55
+
+c)
+
+DA5 0BC
+
+d)
+
+DA 505B
+
+39.
+
+Was bedeutet „ATIS”?
+
+a)
+
+Automatisches Senderidentifizierungssystem
+
+b)
+
+Automatisches Schiffsidentifizierungssystem
+
+c)
+
+Automatisches Verkehrsinformationssystem
+
+d)
+
+Automatisches Transponderabfragesystem
+
+[37]
+
+[38]
+
+[39]
+
+15
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+40.
+
+Welchem Zweck dient die Aussendung eines ATIS-Codes?
+
+a)
+
+Identifizierung einer Schiffsfunkstelle
+
+b)
+
+Identifizierung einer Seefunkstelle
+
+c)
+
+Identifizierung des Bedieners der Schiffsfunkstelle
+
+d)
+
+Identifizierung des Verkehrskreises
+
+41.
+
+Wie setzt sich der ATIS-Code zusammen?
+
+a)
+
+Aus 10 Ziffern: der Ziffer 9, der dreistelligen Seefunkkennzahl (MID)
+und 6 Ziffern
+
+b)
+
+Aus 10 Ziffern: der dreistelligen Seefunkkennzahl (MID),
+und 6 Ziffern
+
+c)
+
+Aus 10 Ziffern: der Ziffer 9, zwei Nullen,
+der dreistelligen Seefunkkennzahl (MID) und 4 Ziffern
+
+d)
+
+Aus 10 Ziffern: zwei Nullen,
+der dreistelligen Seefunkkennzahl (MID) und 5 Ziffern
+
+42.
+
+Wann wird das ATIS-Signal ausgesendet?
+
+a)
+
+Automatisch nach dem Loslassen der Sprechtaste
+
+b)
+
+Automatisch beim Drücken der Sprechtaste
+
+c)
+
+Automatisch alle 10 Minuten
+
+d)
+
+Automatisch beim Kanalwechsel
+
+[40]
+
+[41]
+
+[42]
+
+16
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+43.
+
+Welchen ATIS-Code sendet eine tragbare Funkanlage aus?
+
+a)
+
+ATIS-Code der Schiffsfunkstelle, zu der sie gehört
+
+b)
+
+ATIS-Code, der ihr gesondert mit der Zuteilungsurkunde (Ship Station Licence)
+zugewiesen wurde
+
+c)
+
+ATIS-Code der ortsfesten Funkstelle
+
+d)
+
+ATIS-Code der Schiffsfunkstelle und die Gerätenummer
+
+44.
+
+Was ist ein „ATIS-Killer”?
+
+a)
+
+Zusatzeinrichtung in der Funkanlage zur akustischen Unterdrückung
+des empfangenen ATIS-Signals
+
+b)
+
+Zusatzeinrichtung in der Funkanlage zur optischen Unterdrückung
+des empfangenen ATIS-Signals
+
+c)
+
+Zusatzeinrichtung in der Funkanlage zur Unterdrückung der versehentlichen
+Aussendung des ATIS-Signals
+
+d)
+
+Zusatzeinrichtung in der Funkanlage zur Unterdrückung der Aussendung
+des ATIS-Signals
+
+45.
+
+Was versteht man unter „AIS“?
+
+a)
+
+Automatisches Schiffsidentifizierungs- und Überwachungssystem, das statische,
+dynamische und reisebezogene Informationen auf UKW überträgt
+
+b)
+
+Allgemeines Informationssystem für die Binnenschifffahrt
+
+c)
+
+Automatische Aussendung der Kennung eines Binnenschiffes
+beim Loslassen der Sprechtaste
+
+d)
+
+Identifizierung eines Schiffes mit Hilfe von Radarpeilungen und
+deren Weitergabe an die Schifffahrt zur Kollisionsverhütung
+
+[43]
+
+[44]
+
+[45]
+
+17
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+46.
+
+Welche Informationen werden bei AIS automatisch ausgetauscht?
+
+a)
+
+Statische Informationen (z. B. Schiffsname), dynamische Informationen
+(z. B. Kurs) und reisebezogene Informationen (z. B. Bestimmungsort)
+
+b)
+
+Statische Informationen (z. B. Schiffsname), notfallbezogene Informationen (z.
+B. Notalarme) und reisebezogene Informationen (z. B. Bestimmungsort)
+
+c)
+
+Statische Informationen (z. B. Schiffsname), reisebezogene Informationen (z.
+B. Bestimmungsort) und dringende Informationen (z. B. Treibstoffmangel)
+
+d)
+
+Statische Informationen (z. B. Schiffsname), dynamische Informationen (z.
+B. Kurs) und notfallbezogene Informationen (z. B. Notalarme)
+
+47.
+
+Was ist beim Betrieb einer Amateurfunkstelle an Bord eines Binnenschiffes,
+das mit einer Schiffsfunkstelle ausgerüstet ist, zu beachten?
+
+a)
+
+b)
+
+c)
+
+d)
+
+[46]
+
+[47]
+
+Die Amateurfunkstelle darf nur mit Zustimmung des Schiffsführers betrieben
+werden und keine schädlichen Störungen bei der Schiffsfunkstelle oder bei
+sonstigen nautischen und technischen Einrichtungen des Fahrzeugs verursachen.
+Die Amateurfunkstelle darf nur mit Zustimmung des Schiffsführers und zur
+Vermeidung von schädlichen Störungen nur mit einer Leistung von bis zu 5 Watt
+betrieben werden
+Die Amateurfunkstelle darf nur mit Zustimmung der Revierzentrale betrieben
+werden und keine schädlichen Störungen bei der Schiffsfunkstelle oder bei
+sonstigen nautischen und technischen Einrichtungen des Fahrzeugs verursachen
+Die Amateurfunkstelle darf nur nach Eintragung in die Zuteilungsurkunde (Ship
+Station Licence) der Schiffsfunkstelle betrieben werden und keine schädlichen
+Störungen bei der Schiffsfunkstelle oder bei sonstigen nautischen und
+technischen Einrichtungen des Fahrzeugs verursachen
+
+48.
+
+Was bedeutet die Angabe „Betriebsspannung 10,8 – 14,6 V=“
+in der Bedienungsanleitung für eine Funkanlage?
+
+a)
+
+Es ist eine Gleichspannung zwischen 10,8 und 14,6 Volt für den Betrieb
+erforderlich
+
+b)
+
+Es ist eine Wechselspannung zwischen 10,8 und 14,6 Volt für den Betrieb
+erforderlich
+
+c)
+
+Es ist eine Gleichspannung von 12,7 Volt (Mittelwert zwischen 10,8 und 14,6
+Volt) für den Betrieb erforderlich.
+
+d)
+
+Es ist eine Wechselspannung von 12,7 Volt (Mittelwert zwischen 10,8 und 14,6
+Volt) für den Betrieb erforderlich
+
+[48]
+
+18
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+49.
+
+Was ist beim Kauf eines UKW-Sprechfunkgerätes für den
+Binnenschifffahrtsfunk zu beachten?
+
+a)
+
+Das Funkgerät muss zugelassen oder für die Teilnahme am Binnenschifffahrtsfunk
+in Verkehr gebracht worden sein
+
+b)
+
+Das Funkgerät muss funktionsfähig und für die Teilnahme am
+Binnenschifffahrtsfunk TÜV-geprüft sein
+
+c)
+
+Das Funkgerät muss für die Teilnahme am Binnenschifffahrtsfunk eine
+ATIS Schnittstelle besitzen und Wetterberichte empfangen können
+
+d)
+
+Das Funkgerät muss gemäß der Binnenschifffahrt-Sprechfunkverordnung
+für die Teilnahme am Binnenschifffahrtsfunk zugelassen sein
+
+50.
+
+Je höher die Antenne angebracht ist, desto…
+
+a)
+
+größer ist die Reichweite
+
+b)
+
+größer ist die erforderliche Sendeleistung
+
+c)
+
+wetterunabhängiger ist der Funkverkehr
+
+d)
+
+größer wird die Gefährdung von Personen in elektromagnetischen Feldern
+
+51.
+
+Bei einer Beschädigung der äußeren Isolierung (Mantel) des Antennenkabels
+sollte das Antennenkabel…
+
+a)
+
+umgehend erneuert werden
+
+b)
+
+bei Gelegenheit erneuert werden
+
+c)
+
+umgehend hilfsweise durch ein Stromkabel ersetzt werden
+
+d)
+
+bei Gelegenheit gegen eindringende Feuchtigkeit gesichert werden
+
+[49]
+
+[50]
+
+[51]
+
+19
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+52.
+
+Eine Schiffsfunkstelle empfängt auf allen UKW-Kanälen nur starkes Rauschen.
+Was könnte die mögliche Ursache für die Störung sein?
+
+a)
+
+Die Antenne oder das Antennenkabel ist möglicherweise beschädigt
+
+b)
+
+Der Empfang wird durch atmosphärische Störungen beeinträchtigt
+
+c)
+
+Eine unbeabsichtigte Aussendung einer anderen Schiffsfunkstelle blockiert die
+UKW-Kanäle
+
+d)
+
+Die Funkantenne wurde in zu geringer Nähe zur Radarantenne angebracht
+
+53.
+
+Worauf ist beim Austausch einer defekten UKW-Antenne bei einer
+Schiffsfunkstelle durch eine Ersatzantenne zu achten?
+
+a)
+
+Die Ersatzantenne muss für den Frequenzbereich des Binnenschifffahrtsfunks
+ausgelegt sein
+
+b)
+
+Die Ersatzantenne muss wettergeschützt angebracht werden
+
+c)
+
+Die Ersatzantenne muss außerhalb des Abdeckungsbereichs des Radars
+angebracht werden
+
+d)
+
+Die Ersatzantenne muss am höchsten Punkt des Fahrzeugs angebracht werden
+
+54.
+
+Wozu dient am UKW-Gerät die Rauschsperre (Squelch)?
+
+a)
+
+Die Wiedergabe des Empfängers wird nur bei einem brauchbaren
+Empfangssignal aktiviert
+
+b)
+
+Das Rauschen kann stufenlos auf einen angenehmen Wert eingestellt werden
+
+c)
+
+Die Rauschsperre verbessert die Wiedergabe von schwachen Empfangssignalen
+
+d)
+
+Die Wiedergabe des Empfängers wird nur beim Empfang von Notsignalen
+aktiviert
+
+[52]
+
+[53]
+
+[54]
+
+20
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+III. Verkehrskreise
+
+55.
+
+Wozu dient ein „Verkehrskreis” im Binnenschifffahrtsfunk?
+
+a)
+
+Zuordnung von Sprechfunk-Kanälen für bestimmte Zwecke
+
+b)
+
+Zuordnung von Sprechfunk-Kanälen für bestimmte Schiffsfunkstellen
+
+c)
+
+Zuordnung der Rangfolge von bestimmten Arten von Funkgesprächen
+
+d)
+
+Zuordnung von Sprechfunk-Rufzeichen für bestimmte Funkstellen
+
+56.
+
+Welche Verkehrskreise werden im Binnenschifffahrtsfunk betrieben?
+
+a)
+
+Schiff – Schiff, Nautische Information, Schiff – Hafenbehörde,
+Funkverkehr an Bord
+
+b)
+
+Schiff – Schiff, Schiff - Verkehrszentrale, Schiff – Hafenbehörde,
+Funkverkehr an Bord
+
+c)
+
+Schiff – Schiff, Nautische Information, Schiff – Hafenbehörde,
+Schiff – Verkehrsposten
+
+d)
+
+Schiff – Schiff, Nautische Information, Schiff – Hafenbehörde,
+Schiff - Landfunkstelle
+
+57.
+
+Wo findet man Angaben über die Verkehrskreise des Binnenschifffahrtsfunks?
+
+a)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+b)
+
+Regionaler Teil Deutschland des Handbuchs Binnenschifffahrtsfunk
+
+c)
+
+Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen (FTEG)
+
+d)
+
+Binnenschifffahrtsstraßenordnung
+
+[55]
+
+[56]
+
+[57]
+
+21
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+58.
+
+Die Verkehrskreise „Nautische Information” und „Schiff – Hafenbehörde”
+werden...
+
+a)
+
+nicht auf allen Bundeswasserstraßen angeboten
+
+b)
+
+auf allen Bundeswasserstraßen angeboten
+
+c)
+
+in Häfen und ausgewiesenen Liegestellen angeboten
+
+d)
+
+auf dem Rhein, auf der Donau und auf der Mosel angeboten
+
+59.
+
+Wozu dient der Verkehrskreis „Schiff – Schiff”?
+
+a)
+
+Funkverkehr zwischen Schiffsfunkstellen
+
+b)
+
+Funkverkehr zwischen Schiffsfunkstellen und Funkstellen der Behörden,
+die für die Betriebsdienste auf Binnenwasserstraßen zuständig sind
+
+c)
+
+Funkverkehr von Schiffsfunkstellen über Landfunkstellen mit dem öffentlichen
+Telekommunikationsnetz
+
+d)
+
+Funkverkehr zwischen Handfunkgeräten auf einem Schiff
+
+60.
+
+Welche Nachrichten werden im Verkehrskreis „Schiff – Schiff” übermittelt?
+
+a)
+
+Nachrichten, die sich auf den Schutz von Personen oder auf die Fahrt oder
+auf die Sicherheit von Schiffen beziehen
+
+b)
+
+Nachrichten über den Zustand der Wasserstraßen, über Verkehrsberatung
+und zur Verkehrslenkung zwischen Schiffsfunkstellen und Landfunkstellen
+
+c)
+
+Nachrichten über die Zuweisung von Liegeplätzen oder über die Fahrt in
+den Häfen
+
+d)
+
+Nachrichten über schiffsbetriebliche Angelegenheiten, die sich auf die
+Sicherheit von Schiffen beziehen
+
+[58]
+
+[59]
+
+[60]
+
+22
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+61.
+
+Welche Funkstelle ist nicht dem Verkehrskreis „Schiff-Schiff“ zugeordnet?
+
+a)
+
+Duisburg Hafen
+
+b)
+
+Segelyacht Robbe DA 5005
+
+c)
+
+Spey Fähre
+
+d)
+
+MS Mainz
+
+62.
+
+Welche Funkstelle kann am Verkehrskreis „Schiff-Schiff“ teilnehmen?
+
+a)
+
+Segelyacht Robbe DA 5005
+
+b)
+
+Lauenburg Schleuse
+
+c)
+
+Duisburg Hafen
+
+d)
+
+Minden Revierzentrale
+
+63.
+
+Wozu dient der Verkehrskreis „Nautische Information“?
+
+a)
+
+Funkverkehr zwischen Schiffsfunkstellen und Funkstellen der Behörden,
+denen der Betrieb der Bundeswasserstraßen obliegt
+
+b)
+
+Funkverkehr von Schiffsfunkstellen über Landfunkstellen mit dem
+öffentlichen Telekommunikationsnetz
+
+c)
+
+Funkverkehr zwischen Schiffsfunkstellen
+
+d)
+
+Funkverkehr zwischen Schiffsfunkstellen und Landfunkstellen
+von Hafenbehörden
+
+[61]
+
+[62]
+
+[63]
+
+23
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+64.
+
+Welche Nachrichten werden im Verkehrskreis „Nautische Information”
+übermittelt?
+
+a)
+
+Nachrichten über den Zustand der Wasserstraßen, über Verkehrsberatung
+und zur Verkehrslenkung
+
+b)
+
+Nachrichten über die Zuweisung von Liegeplätzen oder über die Fahrt
+in den Häfen
+
+c)
+
+Nachrichten, die sich auf Funkverkehr zwischen Schiffsfunkstellen beziehen
+
+d)
+
+Nachrichten über schiffsbetriebliche Angelegenheiten
+
+65.
+
+Wodurch kann bei einem nicht funkausrüstungspflichtigen Fahrzeug die
+ununterbrochene Teilnahme am Verkehrskreis „Nautische Information”
+sichergestellt werden?
+
+a)
+
+Zusätzliche UKW-Funkanlage für den Binnenschifffahrtsfunk
+
+b)
+
+Zweikanalüberwachung (Dual Watch)
+
+c)
+
+Ununterbrochene Empfangsbereitschaft auf Kanal 10
+
+d)
+
+Einschalten des Kanals der Funkstelle der zuständigen Hafenbehörde
+
+66.
+
+Welche Funkstelle ist nicht dem Verkehrskreis „Nautische Information“
+zugeordnet?
+
+a)
+
+Neuss Hafen
+
+b)
+
+Iffezheim Schleuse
+
+c)
+
+Gerstheim Ecluse
+
+d)
+
+Oberwesel Revierzentrale
+
+[64]
+
+[65]
+
+[66]
+
+24
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+67.
+
+Welche Funkstelle ist dem Verkehrskreis „Nautische Information“ zugeordnet?
+
+a)
+
+Iffezheim Schleuse
+
+b)
+
+Neuss Hafen
+
+c)
+
+Diffenébrücke Mannheim
+
+d)
+
+Mannheim Hafenschleuse
+
+68.
+
+Wozu dient der Verkehrskreis „Schiff – Hafenbehörde”?
+
+a)
+
+Funkverkehr zwischen Schiffsfunkstellen und Landfunkstellen von
+Hafenbehörden
+
+b)
+
+Funkverkehr von Schiffsfunkstellen über Landfunkstellen mit dem öffentlichen
+Telekommunikationsnetz
+
+c)
+
+Funkverkehr zwischen Schiffsfunkstellen in Häfen
+
+d)
+
+Funkverkehr an Bord eines Schiffes oder innerhalb einer Gruppe von
+Fahrzeugen, die geschleppt oder geschoben werden
+
+69.
+
+Welche Nachrichten werden im Verkehrskreis „Schiff – Hafenbehörde”
+übermittelt?
+
+a)
+
+Nachrichten über die Zuweisung von Liegeplätzen oder über die Fahrt in den
+Häfen
+
+b)
+
+Nachrichten über den Zustand der Wasserstraßen, über Verkehrsberatung und
+zur Verkehrslenkung
+
+c)
+
+Nachrichten, die sich auf Funkverkehr zwischen Schiffsfunkstellen beziehen
+
+d)
+
+Nachrichten über schiffsbetriebliche Angelegenheiten.
+
+[67]
+
+[68]
+
+[69]
+
+25
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+70.
+
+Welchem Verkehrskreis ist die Landfunkstelle Düsseldorf Marina zugeordnet?
+
+a)
+
+Schiff – Hafenbehörde
+
+b)
+
+Schiff – Schiff
+
+c)
+
+Nautische Information
+
+d)
+
+Funkverkehr an Bord
+
+71.
+
+Welche Funkstelle ist nicht dem Verkehrskreis „Schiff-Hafenbehörde“
+zugeordnet?
+
+a)
+
+Gerstheim Ecluse
+
+b)
+
+Mannheim Hafenschleuse
+
+c)
+
+Segelyacht Robbe DA 5005
+
+d)
+
+Duisburg Hafen
+
+72.
+
+Welche Funkstelle ist dem Verkehrskreis „Schiff-Hafenbehörde“ zugeordnet?
+
+a)
+
+Duisburg Hafen
+
+b)
+
+Gerstheim Ecluse
+
+c)
+
+Rothensee Hebewerk
+
+d)
+
+Lauenburg Schleuse
+
+[70]
+
+[71]
+
+[72]
+
+26
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+73.
+
+Wozu dient der Verkehrskreis „Funkverkehr an Bord“?
+
+a)
+
+Funkverkehr an Bord eines Schiffes oder innerhalb einer Gruppe von
+Fahrzeugen, die geschleppt oder geschoben werden
+
+b)
+
+Funkverkehr zwischen Schiffsfunkstellen und Landfunkstellen von
+Hafenbehörden
+
+c)
+
+Funkverkehr von Schiffsfunkstellen über Landfunkstellen mit dem öffentlichen
+Telekommunikationsnetz
+
+d)
+
+Funkverkehr zwischen Schiffsfunkstellen in Häfen
+
+74.
+
+Welche Nachrichten werden im Verkehrskreis „Funkverkehr an Bord“
+übermittelt?
+
+a)
+
+Nachrichten über schiffsbetriebliche Angelegenheiten
+sowie bei Anweisungen für das Arbeiten mit Leinen und für das Ankern
+
+b)
+
+Nachrichten über die Zuweisung von Liegeplätzen
+oder über die Fahrt in den Häfen
+
+c)
+
+Nachrichten über den Zustand der Wasserstraßen, über Verkehrsberatung
+und zur Verkehrslenkung zwischen Schiffsfunkstellen und Landfunkstellen
+
+d)
+
+Nachrichten, die sich auf den Schutz von Personen und auf die Fahrt
+oder auf die Sicherheit von Schiffen beziehen
+
+75.
+
+Welche UKW-Kanäle dürfen im Verkehrskreis „Funkverkehr an Bord”
+benutzt werden?
+
+a)
+
+15 und 17
+
+b)
+
+72 und 77
+
+c)
+
+06 und 16
+
+d)
+
+18 und 22
+
+[73]
+
+[74]
+
+[75]
+
+27
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+76.
+
+In welchem Verkehrskreis dürfen tragbare Funkanlagen in Deutschland
+benutzt werden?
+
+a)
+
+Funkverkehr an Bord
+
+b)
+
+Schiff - Hafenbehörde
+
+c)
+
+Nautische Informationen
+
+d)
+
+Schiff - Schiff
+
+77.
+
+Welche Fahrzeuge / Schiffe mit Schiffsfunkstellen dürfen nicht am
+Verkehrskreis „Funkverkehr an Bord” teilnehmen?
+
+a)
+
+Kleinfahrzeuge
+
+b)
+
+Schlepp- und Schubschiffe
+
+c)
+
+Behördenfahrzeuge
+
+d)
+
+Fahrgastschiffe
+
+78.
+
+Welche Kennung müssen Schiffsfunkstellen in den Verkehrskreisen
+„Schiff - Schiff“, „Nautische Information“ und „Schiff - Hafenbehörde“
+im Sprechfunkverkehr verwenden?
+
+a)
+
+Schiffsname und Rufzeichen
+
+b)
+
+ATIS-Kennung
+
+c)
+
+Rufnummer im Seefunkdienst (MMSI)
+
+d)
+
+Heimathafen
+
+[76]
+
+[77]
+
+[78]
+
+28
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+79.
+
+In welchen Verkehrskreisen müssen Schiffsfunkstellen, außer auf
+Kleinfahrzeugen, während der Fahrt empfangsbereit sein?
+
+a)
+
+Mindestens in zwei der Verkehrskreise Schiff - Schiff, Nautische
+Information oder Schiff - Hafenbehörde
+
+b)
+
+Mindestens in drei der Verkehrskreise Schiff - Schiff,
+Nautische Information, Funkverkehr an Bord oder Schiff - Hafenbehörde
+
+c)
+
+Mindestens in einem der Verkehrskreise Schiff - Schiff, Nautische
+Information oder Schiff - Hafenbehörde
+
+d)
+
+Mindestens abwechselnd in einem der Verkehrskreise Schiff - Schiff,
+Nautische Information, Funkverkehr an Bord oder Schiff - Hafenbehörde
+
+80.
+
+Wo findet man Regelungen über die Abwicklung des Binnenschifffahrtsfunks?
+
+a)
+
+Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk
+
+b)
+
+Regionaler Teil Deutschland des Handbuchs Binnenschifffahrtsfunk
+
+c)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+d)
+
+Binnenschifffahrtsstraßenordnung
+
+[79]
+
+[80]
+
+29
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+IV. Sprechfunk
+
+81.
+
+Wo findet man die empfohlenen fremdsprachlichen Redewendungen
+für die Abwicklung des Binnenschifffahrtsfunks?
+
+a)
+
+Regionale Teile des Handbuchs Binnenschifffahrtsfunk
+
+b)
+
+Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk
+
+c)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+d)
+
+Binnenschifffahrtsstraßenordnung
+
+82.
+
+Wozu dient die Internationale Buchstabiertafel im Binnenschifffahrtsfunk?
+
+a)
+
+Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen
+innerhalb von Meldungen, um Übermittlungsfehler zu vermeiden
+
+b)
+
+Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen,
+um die Vorschriften der Binnenschifffahrt-Sprechfunkverordnung zu erfüllen
+
+c)
+
+Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen,
+um die Wichtigkeit der buchstabierten Begriffe zu betonen
+
+d)
+
+Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen,
+um Informationen zu verschlüsseln
+
+83.
+
+Wo findet man Angaben über die UKW-Kanäle, die im Binnenschifffahrtsfunk
+in bestimmten Regionen benutzt werden sollen?
+
+a)
+
+Regionale Teile des Handbuchs Binnenschifffahrtsfunk
+
+b)
+
+Schifffahrtspolizeiverordnungen, z.B. Rheinschifffahrtspolizeiverordnung
+
+c)
+
+Binnenschifffahrtsstraßenordnung
+
+d)
+
+Binnenschifffahrt-Sprechfunkverordnung
+
+[81]
+
+[82]
+
+[83]
+
+30
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+84.
+
+Was bedeutet die Betriebsart „Simplex”?
+
+a)
+
+Wechselsprechen
+
+b)
+
+Gegensprechen
+
+c)
+
+Sprechen über Ober- und Unterband
+
+d)
+
+Sprechen mit einem Funkgerät
+
+85.
+
+Wie erfolgt die Verkehrsabwicklung in der Betriebsart „Simplex”?
+
+a)
+
+Jeder Gesprächspartner kann entweder senden oder empfangen
+
+b)
+
+Beide Gesprächspartner können gleichzeitig senden und empfangen
+
+c)
+
+Nach den Vorgaben der Revierzentrale
+
+d)
+
+Der Funkverkehr kann nur in Richtung Landfunkstelle-Schiffsfunkstelle
+betrieben werden
+
+86.
+
+Was bedeutet die Betriebsart „Duplex”?
+
+a)
+
+Gegensprechen
+
+b)
+
+Wechselsprechen
+
+c)
+
+Sprechen mit zwei Funkgeräten
+
+d)
+
+Sprechen auf einer Frequenz
+
+[84]
+
+[85]
+
+[86]
+
+31
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+87.
+
+Was bedeutet Semi-Duplex?
+
+[87]
+
+a)
+
+Wechselsprechen auf einem Duplex-Kanal
+
+b)
+
+Wechselsprechen auf einem Simplex-Kanal
+
+c)
+
+Gegensprechen auf einem Duplex-Kanal
+
+d)
+
+Gegensprechen auf einem Simplex-Kanal
+
+88.
+
+Warum kann die Hörbereitschaft auf zwei Kanälen im Binnenschifffahrtsfunk
+[88]
+nicht durch die Zweikanalüberwachung (Dual Watch) wahrgenommen werden?
+
+a)
+
+Die Zweikanalüberwachung ermöglicht nicht den gleichzeitigen Empfang
+auf zwei Funkkanälen
+
+b)
+
+Die Zweikanalüberwachung vermindert die Empfangsreichweite
+der Funkanlage
+
+c)
+
+Die Zweikanalüberwachung wertet die ATIS-Kennungen anderer
+Funkstellen nicht aus
+
+d)
+
+Die Zweikanalüberwachung funktioniert nur in bestimmten Verkehrskreisen
+
+89.
+
+Wie erfolgt die Leistungsreduzierung beim Sendebetrieb einer Schiffsfunkstelle
+[89]
+auf dem UKW-Kanal 10?
+
+a)
+
+Automatisch
+
+b)
+
+Manuell
+
+c)
+
+Durch die Revierzentrale
+
+d)
+
+Durch längeres Drücken der Sendetaste
+
+32
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+90.
+
+Mit welcher Leistung sendet eine Schiffsfunkstelle auf UKW-Kanal 10?
+
+a)
+
+0,5 bis 1 Watt
+
+b)
+
+2 bis 5 Watt
+
+c)
+
+0,5 bis 25 Watt
+
+d)
+
+10 bis 25 Watt
+
+91.
+
+Auf welchem UKW-Kanal müssen Schiffsfunkstellen – unabhängig von dem
+befahrenen Streckenabschnitt – während der Fahrt ständig empfangsbereit
+sein?
+
+a)
+
+10
+
+b)
+
+72
+
+c)
+
+20
+
+d)
+
+13
+
+92.
+
+Welcher UKW-Kanal darf im Binnenschifffahrtsfunk auf den
+Bundeswasserstraßen der Zonen 3 und 4 nicht benutzt werden?
+
+a)
+
+16
+
+b)
+
+72
+
+c)
+
+10
+
+d)
+
+77
+
+[90]
+
+[91]
+
+[92]
+
+33
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+93.
+
+Wozu dienen im Binnenschifffahrtsfunk die UKW-Kanäle 72 und 77?
+
+a)
+
+Funkverkehr sozialer Art
+
+b)
+
+Nautische Absprachen
+
+c)
+
+Funkverkehr mit einer Revierzentrale
+
+d)
+
+Anrufe an eine Schleuse
+
+94.
+
+Welche UKW-Kanäle dürfen für „Nachrichten sozialer Art” benutzt werden?
+
+a)
+
+72 und 77
+
+b)
+
+15 und 17
+
+c)
+
+06 und 16
+
+d)
+
+20 und 22
+
+95.
+
+Welche Fahrzeuge unterliegen auf bestimmten Wasserstraßen und an
+bestimmten Stellen einer Meldepflicht?
+
+a)
+
+Gefahrgutschiffe und Sondertransporte
+
+b)
+
+Motorfahrzeuge mit einer Gesamtlänge von mehr als 20 Metern
+
+c)
+
+Fahrgastschiffe mit mehr als 20 Passagieren
+
+d)
+
+Sportboote unter Segel
+
+[93]
+
+[94]
+
+[95]
+
+34
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+96.
+
+Vor jeder Aussendung ist durch kurzzeitiges Öffnen der Rauschsperre
+sicherzustellen, dass…
+
+a)
+
+kein anderer Funkverkehr gestört wird
+
+b)
+
+die Sendeleistung auf 25 Watt eingestellt ist
+
+c)
+
+die ATIS-Kennung zuvor ausgesendet wird
+
+d)
+
+der DSC-Controller ausgeschaltet ist
+
+97.
+
+Die längere Aussendung einer anderen Schiffsfunkstelle auf Kanal 10 kann...
+
+a)
+
+nicht unterbrochen werden
+
+b)
+
+jederzeit unterbrochen werden
+
+c)
+
+durch Schiffsfunkstellen desselben Verkehrskreises unterbrochen werden
+
+d)
+
+jederzeit durch Landfunkstellen unterbrochen werden
+
+98.
+
+Längere Aussendungen auf Kanal 10 sollen vermieden werden, weil sie...
+
+a)
+
+nicht durch andere Schiffsfunkstellen unterbrochen werden können
+
+b)
+
+durch Landfunkstellen nur im Notfall unterbrochen werden können
+
+c)
+
+den Empfang des ebenfalls im UKW-Bereich arbeitenden AIS stören können
+
+d)
+
+in der Nähe von Landesgrenzen andere Funkdienste im Ausland stören können
+
+[96]
+
+[97]
+
+[98]
+
+35
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+99.
+
+Was hat eine Schiffsfunkstelle im Verkehr mit einer Funkstelle des
+Verkehrskreises Nautische Information zu beachten?
+
+a)
+
+Anweisungen der Funkstelle des Verkehrskreises Nautische Information sind zu
+befolgen
+
+b)
+
+Nachrichten mit der Funkstelle des Verkehrskreises Nautische Information sind
+auf Kanal 16 auszutauschen
+
+c)
+
+Sendeleistung ist zu reduzieren
+
+d)
+
+Hörbereitschaft auf Kanal 13 ist sicherzustellen
+
+100.
+
+Was kann die Funkverbindung zwischen einer Schiffsfunkstelle und einer
+Seefunkstelle beeinträchtigen?
+
+a)
+
+Die Schiffsfunkstelle sendet auf bestimmten UKW-Kanälen nur mit
+automatisch reduzierter Leistung
+
+b)
+
+Die Seefunkstelle sendet auf bestimmten UKW-Kanälen nur mit
+automatisch reduzierter Leistung
+
+c)
+
+Die Schiffsfunkstelle kann die AIS-Aussendung der Seefunkstelle
+auf bestimmten UKW-Kanälen nicht auswerten
+
+d)
+
+Die Seefunkstelle kann die ATIS-Aussendung der Schiffsfunkstelle
+auf bestimmten UKW-Kanälen nicht auswerten
+
+101.
+
+Warum dürfen Seefunkstellen mit ihrer Seefunkanlage nicht am
+Binnenschifffahrtsfunk teilnehmen?
+
+a)
+
+Seefunkanlagen verfügen weder über eine automatische
+Sendeleistungsreduzierung auf bestimmten UKW-Kanälen
+noch können sie einen ATIS-Code aussenden
+
+b)
+
+Seefunkanlagen nutzen ein anderes Frequenzband als
+Binnenschifffahrtsfunkanlagen
+
+c)
+
+Seefunkanlagen verfügen über einen DSC-Controller,
+der mit dem ATIS-System nicht kompatibel ist
+
+d)
+
+Seefunkanlagen ermöglichen die Hörbereitschaft auf den
+UKW-Kanälen 16 und 70
+
+[99]
+
+[100]
+
+[101]
+
+36
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+102.
+
+Die Verwendung des Digitalen Selektivrufs (DSC) ist …
+
+a)
+
+im Binnenschifffahrtsfunk nicht zulässig
+
+b)
+
+eingeführt zur Verbindungsaufnahme mit anderen Schiffsfunkstellen
+
+c)
+
+eingeführt zur Identifizierung von Schiffsfunkstellen
+
+d)
+
+im Binnenschifffahrtsfunk zulässig für Notalarme
+
+103.
+
+Welche Sprache muss bei Verbindungen zwischen deutschen Schiffsfunkstellen und ausländischen Landfunkstellen benutzt werden?
+
+a)
+
+Sprache des Landes, in dem sich die Landfunkstelle befindet
+
+b)
+
+Heimatsprache des Funkers
+
+c)
+
+Vorrangig Englisch
+
+d)
+
+Vorrangig Deutsch
+
+104.
+
+Was ist bei Testsendungen im Binnenschifffahrtsfunk zu beachten?
+
+a)
+
+Die Aussendungen dürfen 10 Sekunden nicht überschreiten; sie müssen den
+Rufnamen der aussendenden Funkstelle enthalten, gefolgt von dem Wort „Test“
+
+b)
+
+Die Aussendungen dürfen 20 Sekunden nicht überschreiten
+und müssen mit einer Kennung des Schiffes ausgestrahlt werden
+
+c)
+
+Die Aussendungen dürfen nur einmal nach Einbau des Gerätes ohne
+Antenne erfolgen und müssen mit dem Wort „Test“ gekennzeichnet werden
+
+d)
+
+Die Aussendungen dürfen nur außerhalb der Hoheitsgewässer erfolgen
+
+[102]
+
+[103]
+
+[104]
+
+37
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+105.
+
+Wann müssen Meldungen grundsätzlich bestätigt werden?
+
+a)
+
+Auf Verlangen
+
+b)
+
+Immer
+
+c)
+
+Nie
+
+d)
+
+Bei Verständigungsschwierigkeiten
+
+106.
+
+Woran erkennt man beim Befahren von Binnenwasserstraßen,
+welcher UKW-Kanal im Schleusenbereich zu benutzen ist?
+
+a)
+
+Tafelzeichen
+
+b)
+
+Schwimmende Schifffahrtszeichen
+
+c)
+
+Durchsage der Revierzentrale
+
+d)
+
+Lichtzeichen der Schleuse
+
+107.
+
+Welche Bedeutung hat ein weißes Tafelzeichen mit rotem Rand und
+der schwarzen Aufschrift „UKW 20“ oder „VHF 20“?
+
+a)
+
+Gebot, UKW-Kanal 20 zu benutzen
+
+b)
+
+Gebot, eine Sendeleistung von 20 Watt zu gewährleisten
+
+c)
+
+Hinweis, dass der Verkehrskreis Schiff-Schiff auf UKW-Kanal 20 abzuwickeln ist
+
+d)
+
+Hinweis, dass der UKW-Kanal 20 für die Nutzung durch die Berufsschifffahrt
+vorgesehen ist
+
+[105]
+
+[106]
+
+[107]
+
+38
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+108.
+
+Welche Bedeutung hat ein blaues Tafelzeichen mit der weißen Aufschrift
+„UKW 18“ oder „VHF 18“?
+
+a)
+
+Hinweis auf den Nautischen Informationsfunk (NIF) auf UKW-Kanal 18
+
+b)
+
+Gebot, UKW-Kanal 18 statt 10 für die Verkehrsabwicklung zu benutzen
+
+c)
+
+Hinweis, dass der Verkehrskreis Schiff-Schiff auf UKW-Kanal 18 abzuwickeln ist
+
+d)
+
+Hinweis, dass der UKW-Kanal 18 für die Nutzung durch die Sportschifffahrt
+vorgesehen ist
+
+[108]
+
+39
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+V. Betriebsverfahren und Rangfolgen
+
+109.
+
+Welche Landfunkstellen sind zur Einleitung von Rettungsmaßnahmen
+vorzugsweise anzurufen?
+
+a)
+
+Revierzentralen
+
+b)
+
+Rettungsleitstellen
+
+c)
+
+Schiffsfunkstellen
+
+d)
+
+Polizeifunkstellen
+
+110.
+
+Wie ist die Rangfolge des Funkverkehrs im Binnenschifffahrtsfunk?
+
+a)
+
+Notverkehr, Dringlichkeitsverkehr, Sicherheitsverkehr, Routineverkehr
+
+b)
+
+Dringlichkeitsverkehr, Notverkehr, Sicherheitsverkehr, Routineverkehr
+
+c)
+
+Sicherheitsverkehr, Dringlichkeitsverkehr, Notverkehr, Routineverkehr
+
+d)
+
+Notverkehr, Dringlichkeitsverkehr, Routineverkehr, Sicherheitsverkehr
+
+111.
+
+Wie heißt das Notzeichen im Sprechfunk?
+
+a)
+
+MAYDAY
+
+b)
+
+PAN PAN
+
+c)
+
+SOS
+
+d)
+
+SECURITE
+
+[109]
+
+[110]
+
+[111]
+
+40
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+112.
+
+Ein Notverkehr im Binnenschifffahrtsfunk muss eingeleitet werden, wenn
+eine unmittelbare Gefährdung von Mensch oder Schiff gegeben ist oder…
+
+a)
+
+eine Gefahrenabwehr an Land notwendig ist
+
+b)
+
+das Schiff manövrierunfähig ist
+
+c)
+
+gefährliche Wetterlagen auftreten
+
+d)
+
+eine Behinderung der Schifffahrt droht
+
+113.
+
+Welcher Funkverkehr ist einzuleiten, wenn sich an Bord eine lebensgefährlich
+verletzte Person befindet?
+
+a)
+
+Notverkehr
+
+b)
+
+Dringlichkeitsverkehr
+
+c)
+
+Sicherheitsverkehr
+
+d)
+
+Routineverkehr
+
+114.
+
+Welcher Funkverkehr ist einzuleiten, wenn eine Person über Bord
+gefallen ist?
+
+a)
+
+Notverkehr
+
+b)
+
+Dringlichkeitsverkehr
+
+c)
+
+Sicherheitsverkehr
+
+d)
+
+Routineverkehr
+
+[112]
+
+[113]
+
+[114]
+
+41
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+115.
+
+Welcher Funkverkehr ist einzuleiten, wenn das Fahrzeug in gefährlicher
+Weise zu kentern droht?
+
+a)
+
+Notverkehr
+
+b)
+
+Dringlichkeitsverkehr
+
+c)
+
+Sicherheitsverkehr
+
+d)
+
+Routineverkehr
+
+116.
+
+Wer bestätigt eine Notmeldung im Verkehrskreis „Nautische Information“?
+
+a)
+
+Ortsfeste Funkstelle
+
+b)
+
+Behördenfahrzeug
+
+c)
+
+In der Nähe befindliche Schiffsfunkstelle
+
+d)
+
+Der Schiffsführer
+
+117.
+
+Wer bestätigt eine Notmeldung im Verkehrskreis „Schiff-Schiff“?
+
+a)
+
+In der Nähe befindliche Schiffsfunkstelle
+
+b)
+
+Ortsfeste Funkstelle
+
+c)
+
+Verkehrsposten
+
+d)
+
+Der Schiffsführer
+
+[115]
+
+[116]
+
+[117]
+
+42
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+118.
+
+Was bedeuten die Worte MAYDAY RELAY?
+
+a)
+
+Aussendung einer Notmeldung durch eine Funkstelle, die sich selbst nicht
+in Not befindet
+
+b)
+
+Beendigung einer Notmeldung durch die Funkstelle, die den Notverkehr leitet
+
+c)
+
+Bestätigung des Empfangs einer Notmeldung
+
+d)
+
+Notmeldung an eine Landstation mit der Bitte um Leitung des Notverkehrs
+
+119.
+
+Was bedeuten die Worte SILENCE FINI?
+
+a)
+
+Der Notverkehr ist beendet
+
+b)
+
+Einer Funkstelle, die den Notverkehr stört, wird Funkstille geboten
+
+c)
+
+Dringlichkeits- und Sicherheitsverkehr darf wieder aufgenommen werden
+
+d)
+
+Alle Funkstellen müssen Funkstille einhalten
+
+120.
+
+Was bedeuten die Worte SILENCE MAYDAY?
+
+a)
+
+Die Funkstelle in Not gebietet den nicht am Notverkehr beteiligten
+Funkstellen Funkstille
+
+b)
+
+Der Notverkehr ist beendet
+
+c)
+
+Die am Notverkehr beteiligten Funkstellen genießen Vorrang
+
+d)
+
+Eine Notmeldung folgt
+
+[118]
+
+[119]
+
+[120]
+
+43
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+121.
+
+Woraus besteht das Dringlichkeitszeichen im Sprechfunk?
+
+a)
+
+PAN PAN
+
+b)
+
+MAYDAY
+
+c)
+
+SECURITE
+
+d)
+
+URGENT
+
+122.
+
+Wann liegt ein Dringlichkeitsfall vor?
+
+a)
+
+Wenn dringende Nachrichten übermittelt werden sollen, welche
+die Besatzung und/oder das Schiff betreffen, ohne dass eine unmittelbare
+Gefährdung gegeben ist
+
+b)
+
+Wenn eine unmittelbare Gefährdung von Mensch oder Schiff gegeben ist
+oder eine Gefahrenabwehr an Land notwendig ist
+
+c)
+
+Wenn dringende Nachrichten übermittelt werden sollen, welche den Empfang
+eines Notzeichens betreffen
+
+d)
+
+Wenn dringende Nachrichten übermittelt werden sollen, welche
+die Unterstützung durch die Wasserschutzpolizei betreffen
+
+123.
+
+Welche Meldungen können beispielsweise mit dem Dringlichkeitszeichen
+angekündigt werden?
+
+a)
+
+Meldungen, die sich auf Krankheiten beziehen, die keine Lebensgefahr
+bedeuten, oder auf Schäden an Fahrzeugen, ohne dass davon eine
+unmittelbare Gefahr ausgeht
+
+b)
+
+Meldungen, die sich auf eine unmittelbare Gefährdung von Mensch oder
+Schiff oder eine Gefahrenabwehr an Land beziehen
+
+c)
+
+Meldungen, die sich auf Krankheiten beziehen, die keine Lebensgefahr
+bedeuten, oder auf Schäden an Fahrzeugen, von denen eine unmittelbare
+Gefahr ausgeht
+
+d)
+
+Meldungen, die sich auf lebensgefährliche Krankheiten oder auf Schäden
+an Fahrzeugen oder Anlagen beziehen
+
+[121]
+
+[122]
+
+[123]
+
+44
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+124.
+
+Welcher Funkverkehr ist einzuleiten, wenn bei einer Person an Bord eine nicht
+lebensbedrohliche Verletzung festgestellt wurde, die kurzfristig ärztlicher
+Versorgung bedarf?
+
+a)
+
+Dringlichkeitsverkehr
+
+b)
+
+Notverkehr
+
+c)
+
+Sicherheitsverkehr
+
+d)
+
+Routineverkehr
+
+125.
+
+Welcher Funkverkehr ist grundsätzlich einzuleiten, wenn das Fahrzeug einen
+Maschinenschaden hat, der die Sicherheit des Schiffsverkehrs gefährden
+könnte?
+
+a)
+
+Dringlichkeitsverkehr
+
+b)
+
+Notverkehr
+
+c)
+
+Sicherheitsverkehr
+
+d)
+
+Routineverkehr
+
+126.
+
+Wie lautet das Sicherheitszeichen im Sprechfunk?
+
+a)
+
+SECURITE
+
+b)
+
+MAYDAY
+
+c)
+
+PAN PAN
+
+d)
+
+SOS
+
+[124]
+
+[125]
+
+[126]
+
+45
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+127.
+
+Welche Meldungen werden mit dem Sicherheitszeichen SECURITE
+angekündigt?
+
+a)
+
+Nachrichten, die eine wichtige nautische Warnnachricht oder eine
+wichtige Wetterwarnung beinhalten
+
+b)
+
+Nachrichten, die eine wichtige nautische Warnnachricht oder den
+Radareinsatz bei unsichtigem Wetter beinhalten
+
+c)
+
+Nachrichten, die eine wichtige Wetterwarnung oder eine Warnung
+zur Vermeidung von Umweltschäden beinhalten
+
+d)
+
+Nachrichten, die eine wichtige nautische Warnnachricht oder eine
+dringende medizinische Meldung beinhalten
+
+128.
+
+Welche Meldung ist zu verbreiten, wenn ein treibender Baumstamm
+beobachtet wird, der eine Gefahr für den Verkehr darstellt?
+
+a)
+
+Sicherheitsmeldung
+
+b)
+
+Notmeldung
+
+c)
+
+Dringlichkeitsmeldung
+
+d)
+
+keine Meldung
+
+129.
+
+Welche Meldung ist zu verbreiten, wenn eine vertriebene Tonne
+beobachtet wird?
+
+a)
+
+Sicherheitsmeldung
+
+b)
+
+Notmeldung
+
+c)
+
+Dringlichkeitsmeldung
+
+d)
+
+keine Meldung
+
+[127]
+
+[128]
+
+[129]
+
+46
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+FRAGENKATALOG FÜR DAS UKW-SPRECHFUNKZEUGNIS (UBI) / STAND: 08/23
+
+130.
+
+Wer entscheidet über die Art der auszusendenden Sprechfunkmeldung?
+
+a)
+
+Schiffsführer
+
+b)
+
+Bediener der Funkanlage
+
+c)
+
+Wasserschutzpolizei
+
+d)
+
+Revierzentrale
+
+[130]
+
+47
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung – auch auszugsweise –
+nur mit ausdrücklicher Genehmigung des ABVT Koblenz
+
+

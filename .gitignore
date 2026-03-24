@@ -1,0 +1,5 @@
+.DS_Store
+remotion/node_modules/
+remotion/out/
+remotion/audio/
+.claude/

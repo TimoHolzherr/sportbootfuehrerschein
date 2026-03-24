@@ -1,0 +1,5051 @@
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Fragen- und Antwortenkatalog für den amtlichen Sportküstenschifferschein
+(Antriebsmaschine und unter Segel)
+Stand: 01. Juli 2006
+
+Herausgegeben vom:
+
+Bundesministerium für Verkehr, Bau und Stadtentwicklung
+in Zusammenarbeit mit
+der Wasser- und Schifffahrtsverwaltung des Bundes,
+dem Deutschen Motoryachtverband,
+dem Deutschen Segler-Verband.
+
+Präambel
+Dieser Katalog stellt eingedenk des Ziels der Sportseeschifferscheinverordnung, einen Beitrag zur Sicherheit und Leichtigkeit des
+Verkehrs in den Küstengewässern, küstennahen Seegewässern und auf der hohen See zu leisten, eine Hilfe zur Ausbildung und
+Prüfung zum Sportküstenschifferschein dar.
+
+Der Fragenkatalog enthält verbindliche Fragen mit Musterantworten.
+
+Die Antwort des Bewerbers braucht nicht wörtlich mit dem Antwortvorschlag übereinzustimmen.
+
+Die Bewertung der Beantwortung der Frage richtet sich danach, in welchem Umfang die gegebene Antwort mit dem sachlichen
+Inhalt, der Vollständigkeit und der fachlichen Terminologie der Musterantwort übereinstimmt.
+
+Der Rahmen des Inhalts der Prüfungsfächer bestimmt sich nach Anlage 1 zu den Durchführungsrichtlinien
+Sportküstenschifferschein.
+
+Fragen- und Antwortenkatalog Sportküstenschifferschein (SKS)
+Navigation (Interner Link) (Frage 1 bis 118)
+
+Seekarten und weitere nautische Publikationen
+Ortsbestimmung, Navigieren
+Gezeiten
+Elektronische Navigation
+Allgemeines (Ausrüstung, Gerätekunde)
+
+Schifffahrtsrecht (Interner Link) (Frage 1 bis 110)
+KVR
+SeeSchStrO
+Allgemeines (Schiffspapiere, SUG, Flaggen-/Hoheitsrecht)
+
+MARPOL, besondere Verkehrs- und Befahrensregeln
+Wetterkunde (Interner Link) (Frage 1 bis 101)
+
+Allgemeine Begriffe aus der Wetterkunde
+Wolken
+Druckgebilde
+Land- und Seewind
+Anwenden von Seewetterberichten
+Wichtige Wetterregeln
+Nebel
+Seegang
+Meteorologische Messinstrumente
+
+Seemannschaft I (Interner Link) (Frage 1 bis 163)
+Antriebsmaschine und unter Segel
+
+Yacht- und Bootsbau
+Takelung, stehendes und laufendes Gut
+Segel
+Ausrüstung (allgemein)
+Kenntnisse über Segelstellung, Stabilität und Rumpfgeschwindigkeit
+Antriebsmaschine (Betrieb und Wartung)
+Umgang mit Tauwerk
+Bootspflege, Instandhaltung
+Führen einer Segelyacht, Vorbereitung, Allgemeines
+Manöver im Hafen und auf See
+Manöver bei schwerem Wetter
+Manöver in strömenden Gewässern
+Mensch-über-Bord-Manöver
+Sicherheitsausrüstung
+Seetüchtigkeit
+Maßnahmen bei Notfällen
+Ankern
+Seeschiffe, Manövrierverhalten/Eingeschränkte Sicht
+
+Seemannschaft II (Interner Link) (Frage 1 bis 146)
+Antriebsmaschine
+
+Yacht- und Bootsbau
+Ausrüstung (allgemein)
+Kenntnisse über Stabilität, Trimm und Rumpfgeschwindigkeit
+Antriebsmaschine (Betrieb und Wartung)
+Umgang mit Tauwerk
+Bootspflege, Instandhaltung
+Führen einer Motoryacht, Vorbereitung, Allgemeines
+Manöver im Hafen und auf See
+Manöver bei schwerem Wetter
+Manöver in strömenden Gewässern
+
+Mensch-über-Bord-Manöver
+Sicherheitsausrüstung
+Seetüchtigkeit
+Maßnahmen bei Notfällen
+Ankern
+Seeschiffe, Manövrierverhalten/Eingeschränkte Sicht
+
+Download Fragen- und Antwortenkatalog (PDF, intern) für den amtlichenSportküstenschifferschein
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Navigation
+
+Navigation
+Nummer 1:
+
+Worauf müssen Sie als Schiffsführer vor Reiseantritt hinsichtlich der Seekarten und Seebücher achten?
+Auf Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand.
+
+Nummer 2:
+
+Warum muss in der GPS-Navigation das jeweilige Kartendatum unbedingt berücksichtigt werden?
+Weil sich das von GPS verwendete Bezugssystem WGS 84 (World Geodetic System 1984) von anderen verwendeten
+Bezugssystemen (Kartendatum) unterscheiden kann.
+
+Nummer 3:
+
+Welche Differenzen können zwischen WGS 84 und anderen Bezugssystemen auftreten?
+Die Differenzen von φ und λ liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es
+können größere Unterschiede auftreten.
+
+Nummer 4:
+
+Wo finden Sie in der Seekarte Angaben über das benutzte Bezugssystem und ggf. entsprechende
+Korrekturhinweise?
+Am Kartenrand unter dem Titel.
+
+Nummer 5:
+
+Wie lautet ggf. der Korrekturhinweis bezüglich GPS in der Seekarte, wenn das benutzte Kartendatum (z.
+
+B. ED 50) und WGS 84 nicht übereinstimmen?
+Durch Satellitennavigation (z. B. GPS) erhaltene Positionen im WGS 84 sind 0, ... Minuten nordwärts/südwärts und 0, ... Minuten
+westwärts/ostwärts zu verlegen, um mit dieser Karte übereinzustimmen.
+
+Nummer 6:
+
+Woran erkennen Sie, bis wann eine deutsche Seekarte "amtlich" berichtigt ist?
+Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtigungsstelle.
+
+Nummer 7:
+
+Woran erkennen Sie, bis wann eine britische Seekarte "amtlich" berichtigt ist?
+Am Berichtigungsstempel auf der Rückseite der Seekarte.
+
+Nummer 8:
+
+Was bedeutet der Stempel auf der britischen Seekarte: Corrected up to N.T.M. 3595 1998?
+Seekarte ist berichtigt bis zur Mitteilung Nummer 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998.
+
+Nummer 9:
+
+Welche Angaben enthalten die Nachrichten für Seefahrer (NfS)?
+In den NfS werden für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf den
+Seeschifffahrtsstraßen, auf der Hohen See sowie in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden
+Bereich bekannt gegeben.
+
+Nummer 10:
+
+In welcher Sprache werden die Nachrichten für Seefahrer (NfS) verfasst?
+Die Angaben erfolgen in deutscher und in englischer Sprache.
+
+Nummer 11:
+
+Welche Angaben enthalten deutsche und britische Leuchtfeuerverzeichnisse?
+Beschreibung der Leuchtfeuer, Feuerschiffe und Großtonnen sowie deren geographische Lage.
+
+Nummer 12:
+
+Welche schwimmenden Schifffahrtszeichen werden in der britischen List of Lights und in deutschen
+Leuchtfeuerverzeichnissen nicht angegeben?
+Tonnen kleiner als 8 m Höhe.
+
+Nummer 13:
+
+Wo finden Sie Angaben über die Merkmale der Schifffahrtszeichen?
+1. In den Leuchtfeuerverzeichnissen bzw. in der List of Lights sowie auszugsweise in den Seekarten.
+2. In der Karte 1/INTInternational Hydrographic 1 des BSH.
+3. Schwimmende Schifffahrtszeichen zusätzlich in der Anlage I zur SeeSchStrO (z. B. Tonnen des Lateral- bzw.
+Kardinalsystems).
+
+Nummer 14:
+
+Worauf beziehen sich die Höhenangaben der Leuchtfeuer in Leuchtfeuerverzeichnissen in der Nordund Ostsee?
+In Gewässern mit Gezeiten (z. B. Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren
+Wasserstand.
+
+Nummer 15:
+
+Wo finden Sie Angaben über Brückensignale?
+In den See- und Hafenhandbüchern und in den Seekarten.
+
+Nummer 16:
+
+Welche Themen (Grobgliederung) enthalten die Seehandbücher des BSH?
+
+1. Schifffahrtsangelegenheiten,
+2. Naturverhältnisse,
+3. Küstenkunde und Segelanweisungen.
+
+Nummer 17:
+
+Wie werden Richtungsangaben in nautischen Veröffentlichungen gemacht?
+
+1. Rechtweisend in Grad,
+2. im Uhrzeigersinn (rechtsherum) zählend.
+
+Nummer 18:
+
+In welchem Quadranten liegt der rote Warnsektor eines Leitfeuers mit der Angabe rot 030°-042°
+(Begründung!)
+Im Südwest-Quadranten. Angegeben sind die Peilungen zum Leuchtfeuer.
+
+Nummer 19:
+
+Was sind Leitfeuer (direction lights)?
+Leitfeuer sind Einzelfeuer, die durch Sektoren verschiedener Farbe oder Kennung (Leit- oder Warnsektoren) im Allgemeinen ein
+Fahrwasser, eine Hafeneinfahrt oder einen freien Seeraum zwischen Untiefen bezeichnen.
+
+Nummer 20:
+
+1. Was sind Richtfeuer (leading lights)?
+2. Wann befindet man sich in einer Richtlinie eines Richtfeuers?
+1. Richtfeuer sind Feuer, die als Unter- und Oberfeuer in Deckpeilung als Richtlinie beispielsweise einen Kurs im Fahrwasser, durch
+eine Hafeneinfahrt oder im freien Seeraum zwischen Untiefen bezeichnen.
+2. Ein Schiff befindet sich in der Richtlinie, wenn Unter- und Oberfeuer senkrecht unter-/übereinander erscheinen.
+
+Nummer 21:
+
+Was ist ein Torfeuer?
+
+Ein Torfeuer besteht aus zwei Feuern gleicher Höhe, gleicher Lichtstärke und gleicher Kennung, die zu beiden Seiten der
+Fahrwasserachse einander genau gegenüber (rechtwinklig zur Fahrwasserachse) und von der Fahrwasserachse gleich weit
+entfernt angeordnet sind.
+
+Nummer 22:
+
+Was ist die "Tragweite" eines Feuers?
+Unter Tragweite versteht man denjenigen Abstand, in dem ein Feuer einen eben noch deutlichen Lichteindruck im Auge des
+Beobachters hervorruft.
+
+Nummer 23:
+
+Was ist die "Nenntragweite" eines Feuers?
+Nenntragweite ist die Tragweite eines Feuers für einen definierten Wert bei einer meteorologischen Sichtweite am Tage von 10
+
+sm.
+
+Nummer 24:
+
+Wovon hängt die "Tragweite" eines Feuers ab?
+Sie hängt u. a. ab
+
+1. von der Lichtstärke (Helligkeit) des Feuers und
+2. vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre).
+
+Nummer 25:
+
+In der Seekarte finden Sie bei einem Leuchtfeuer die Eintragung: 18 M.
+Was bedeutet diese Angabe?
+Es ist die Nenntragweite, hier 18 Seemeilen.
+
+Nummer 26:
+
+Was ist die "Sichtweite" eines Feuers?
+Wovon hängt sie ab?
+Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden
+
+kann.
+
+Sie hängt ab
+
+1. von der Feuerhöhe und
+2. von der Augeshöhe des Beobachters.
+
+Nummer 27:
+
+Wie müssen sich Tragweite und Sichtweite zueinander verhalten, damit das Verfahren zur
+Ortsbestimmung "Feuer in der Kimm" angewandt werden kann?
+Die Tragweite muss mindestens gleich der Sichtweite sein.
+
+Nummer 28:
+
+Wo findet man Tabellen zur Ermittlung des Abstandes eines Feuers in der Kimm?
+In deutschen und britischen Leuchtfeuerverzeichnissen.
+
+Nummer 29:
+
+Wo sind die in Seekarten verwendeten Symbole und Abkürzungen erklärt?
+In der Karte 1/INT des BSH.
+
+Nummer 30:
+
+Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese
+Veröffentlichungen?
+1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder
+veröffentlicht.
+2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen
+Wirtschaftszone Deutschlands.
+
+Nummer 31:
+
+Wie werden die Bekanntmachungen für Seefahrer (BfS) der Sportschifffahrt zur Kenntnis gebracht?
+
+Die BfS werden an den amtlichen Aushangstellen (z. B. bei Wasser- und Schifffahrtsämtern, Hafenverwaltungen, WSPDienststellen, Schleusen, Yachthäfen) für das betreffende Seegebiet, in dem die Aushangstelle liegt, und für die angrenzenden
+Reviere und Gebiete sowie im Internet unter www.elwis.de zur Kenntnis gebracht.
+
+Nummer 32:
+
+Zählen Sie die am häufigsten vorkommenden Ereignisse und Maßnahmen auf, über die die
+Bekanntmachungen für Seefahrer (BfS) unterrichten.
+
+1. Änderungen an Befeuerung, Betonnung und Landmarken,
+2. veränderte Wassertiefen,
+3. Wracke, Schifffahrtshindernisse, Rohrleitungen usw.,
+4. Bauarbeiten, Baggerarbeiten, militärische Übungen und damit zusammenhängende Sperrungen oder Behinderungen.
+
+Nummer 33:
+
+Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?
+Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig
+besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der
+Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN.
+
+Nummer 34:
+
+Was bedeutet der Zusatz "vital" bei einer nautischen Warnnachricht (NWN)?
+Die NWN erhält den Zusatz "vital", wenn die Warnung auf eine lebensbedrohende Gefahr hinweist.
+
+Nummer 35:
+
+Welche Besonderheit bezüglich des Zusatzes "vital" bei einer nautischen Warnnachricht (NWN) gibt es
+für die Sportschifffahrt?
+Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom 1. April bis zum 31. Oktober zur
+Verbreitung über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten weitergeleitet.
+
+Nummer 36:
+
+Wer gibt die Nachrichten für Seefahrer (NfS) heraus und wie und wie oft erfolgt die Herausgabe?
+
+Die NfS werden vom BSH in Heftform und im Internet herausgegeben und erscheinen einmal wöchentlich.
+
+Nummer 37:
+
+Welche Unterlage steht Ihnen zur Verfügung zur Berichtigung von britischen Seekarten, die nicht von
+den NfS erfasst werden?
+Die britischen Notices to Mariners.
+
+Nummer 38:
+
+1. Was sind P-Nachrichten?
+2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)
+
+1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen.
+2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von
+amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen
+P-Nachrichten erfasst und in der Karte vermerkt werden.
+
+Nummer 39:
+
+1. Was sind T-Nachrichten?
+2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)
+
+1. T-Nachrichten sind solche, die über einen zeitweiligen (temporary) Zustand unterrichten.
+2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH bzw.
+amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen
+T-Nachrichten erfasst und in der Karte vermerkt werden.
+
+Nummer 40:
+
+Worauf muss beim Ansteuern einer Küste bei der Auswahl von Seekarten geachtet werden?
+Begründen Sie Ihre Antwort.
+Seekarten mit größtmöglichem Maßstab verwenden. Nur in diesen Karten sind alle Schifffahrtszeichen und weitere für die
+Navigation wichtigen Informationen eingetragen.
+
+Nummer 41:
+
+Was müssen Sie bei Kursberechnungen hinsichtlich der in der Seekarte angegebenen
+
+Ortsmissweisungen beachten?
+Die für ein bestimmtes Jahr angegebene Missweisung muss mittels der in der Seekarte angegebenen jährlichen Änderung für das
+aktuelle Jahr berichtigt werden.
+
+Nummer 42:
+
+Was müssen Sie bei der Benutzung von deutschen "Sportbootkarten" beachten?
+Sie werden nach dem Druck weder vom BSH noch von den Seekartenvertriebsstellen berichtigt. Sie müssen also vom Nutzer
+nach dem Kauf vor Benutzung über die NfS auf den aktuellen Stand berichtigt werden.
+
+Nummer 43:
+
+Nach welcher Faustregel können Sie m/s in Knoten umrechnen?
+"Doppelt so viele Knoten (kn) wie m/s" oder "m/s multipliziert mit 2 = kn".
+
+Nummer 44:
+
+Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z. B. für das Arbeiten in Seekarten
+berücksichtigen wollen?
+Die üblichen Logmethoden liefern ausschließlich die "Fahrt durchs Wasser (FdW)". Um die "Fahrt über Grund (FüG)" zu ermitteln,
+müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.
+
+Nummer 45:
+
+Welche Fahrt zeigen GPS-Geräte an?
+Die Fahrt über Grund (FüG).
+
+Nummer 46:
+
+Welchen Kurs zeigen GPS-Geräte an?
+Den Kurs über Grund (KüG).
+
+Nummer 47:
+
+Warum müssen Sie Ihre Position regelmäßig in die Seekarte eintragen?
+Um Abweichungen von der Kurslinie frühzeitig und sicher zu erkennen und um ggf. den Kurs zu berichtigen.
+
+Nummer 48:
+
+Was ist die Besteckversetzung (BV)?
+Richtung (rw) und Entfernung (in sm) vom Koppelort (Ok) zum beobachteten Ort (Ob), bezogen auf den gleichen Zeitpunkt.
+
+Nummer 49:
+
+Welche Ursachen kann die Besteckversetzung (BV) haben?
+Die BV kann folgende Ursachen haben:
+
+1. ungenaues Steuern und Koppeln,
+2. Kursfehler (z. B. ungenaue Steuertafel) und
+3. fehlende oder unvollständige Berücksichtigung von Strom und Wind.
+
+Nummer 50:
+
+Warum sollte der Winkel zwischen zwei Peilungen nicht kleiner als 30° und nicht größer als 150° sein?
+Damit der gefundene Standort eine ausreichend sichere Positionsbestimmung ergibt.
+
+Nummer 51:
+
+Warum sind regelmäßige Kompasskontrollen erforderlich?
+Zur Überprüfung der Funktionsfähigkeit des Kompasses und der Werte in der Ablenkungstabelle.
+
+Nummer 52:
+
+Wodurch können auch in gezeitenlosen Revieren erhebliche Wasserstandsschwankungen und
+Strömungen (z. B. Triftstrom) hervorgerufen werden?
+
+Durch Stärke, Dauer und Richtung des Windes oder "Zurückschwappen" aufgestauter Wassermassen (z. B. Ostsee).
+
+Nummer 53:
+
+Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?
+
+1. Kurse und Kursänderungspunkte möglichst vorausbestimmen,
+2. Untiefen und Hindernisse in der Karte besonders kennzeichnen,
+3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und
+4. Wegstrecke nach unbefeuerten Tonnen absuchen.
+
+Nummer 54:
+
+Welche Möglichkeiten der terrestrischen Ortsbestimmung muss man kennen?
+
+1. Kreuzpeilung,
+2. Peilung und Abstand (Feuer in der Kimm, Radarabstand),
+3. Peilung und Lotung.
+
+Nummer 55:
+
+Nennen Sie zwei Möglichkeiten der Ortsbestimmung, wenn Sie nur ein Objekt mit bekannten
+Merkmalen (z. B. Leuchtturm) in Sicht haben.
+
+1. Peilung und Abstand (Feuer in der Kimm, Radarabstand),
+2. Peilung und Lotung.
+
+Nummer 56:
+
+Welche Nordrichtungen werden in der Navigation unterschieden?
+Erläutern Sie diese kurz.
+1. rwN: rechtweisend Nord ist die Richtung eines Meridians zum geographischen Nordpol.
+2. mwN: missweisend Nord ist die Richtung des erdmagnetischen Feldes zum magnetischen Nordpol, abhängig von Schiffsort
+und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet-(Kompass-)nadel ein.
+3. MgN: ist die Richtung zu Magnetkompass-Nord. In diese Richtung zeigt die durch das schiffsmagnetische Feld beeinflusste
+Kompassnadel an Bord.
+
+Nummer 57:
+
+Nennen Sie die Winkel zwischen den Nordrichtungen rechtweisend Nord (rwN), missweisend Nord
+(mwN) und Magnetkompass-Nord (MgN).
+1. Mw: Missweisung ist der Winkel von rwN nach mwN.
+2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von mwN nach MgN.
+
+Nummer 58:
+
+Nennen Sie den Winkel zwischen den Nordrichtungen rwN und MgN.
+Der Winkel von rwN nach MgN ist die Fehlweisung (Fw; Abl + Mw = Fw).
+
+Nummer 59:
+
+Wo finden Sie die erforderlichen Werte der Missweisung?
+Worauf ist dabei zu achten?
+
+1. Die Missweisung findet sich in der Seekarte eingedruckt für ein bestimmtes Jahr.
+2. Dieser Wert muss mit der ebenfalls in der Seekarte angegebenen jährlichen Änderung auf das Jahr der Benutzung berichtigt
+werden.
+
+Nummer 60:
+
+Wo finden Sie die erforderlichen Werte der Ablenkung (Abl)?
+Worauf ist dabei zu achten?
+
+1. Die Abl wird einer Ablenkungstabelle entnommen.
+2. Die Abl ist abhängig vom anliegenden Kurs.
+
+Nummer 61:
+
+Warum muss für jedes Fahrzeug eine eigene Ablenkungstabelle (Steuertafel) erstellt werden?
+Die Ablenkungstabelle kann auf jedem Schiff andere Werte haben.
+
+Nummer 62:
+
+Worauf müssen Sie achten, wenn eine Magnetkompasspeilung (MgP) auf eine rechtweisende Peilung
+(rwP) beschickt werden soll?
+Abl für den anliegenden MgK (Magnetkompasskurs) aus der Steuertafel (Ablenkungstabelle) entnehmen; an den so erhaltenen
+
+mwK (missweisenden Kurs) die für das laufende Jahr der Seekarte entnommene Mw anbringen.
+
+Nummer 63:
+
+Unter welchen Voraussetzungen ergibt sich eine brauchbare Standlinie aus einer Lotung?
+Der Meeresgrund muss ausreichend regelmäßig und ausreichend steil ansteigen/abfallen.
+
+Nummer 64:
+
+Neben den Fahrwassertonnen liegen auf den Seeschifffahrtsstraßen weitere Tonnen aus, die für die
+Sportschifffahrt besonders wichtig sind.
+Welche Schifffahrtszeichen sind das?
+Sonderzeichen zur Bezeichnung von Sperrgebieten und Kardinalzeichen für allgemeine Gefahrenstellen.
+
+Nummer 65:
+
+Aus welchen nautischen Publikationen können Sie Sperr- und Verbotsgebiete mit ihren Grenzen
+ersehen?
+Aus den Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN).
+
+Nummer 66:
+
+Welche Sonderzeichen kennzeichnen Reeden, besondere Gebiete oder Stellen, z. B. Warngebiete?
+Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.
+
+Nummer 67:
+
+Welche Sonderzeichen kennzeichnen Sperrgebiete?
+Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten roten Band. Beschriftung auf Fasstonne oder
+
+Leuchttonne mit schwarzen Buchstaben: "Sperrgebiet" oder "Sperr-G".
+
+Nummer 68:
+
+Welche Farbe haben Feuer auf Sonderzeichen, wenn vorhanden?
+Farbe gelb.
+
+Nummer 69:
+
+Was bedeutet das Ausliegen der folgenden Schifffahrtszeichen:
+weiße Fasstonne, Kugeltonne oder Stange mit einem - von oben gesehen - rechtwinkligen gelben Kreuz
+bzw. bei Stangen mit einem breiten gelben Band?
+Fahrverbot für Maschinenfahrzeuge und Wassermotorräder auf wegen Badebetrieb gesperrten Wasserflächen.
+
+Nummer 70:
+
+Wie stehen Sonne und Mond winkelmäßig zur Erde bei Springzeit und bei Nippzeit (die
+Springverspätung soll hier unberücksichtigt bleiben)?
+Bei Springzeit befinden sich Mond und Sonne in einer Ebene mit der Erde, bei Nippzeit stehen die Verbindungslinien Erde/Sonne
+und Erde/Mond im rechten Winkel zueinander.
+
+Nummer 71:
+
+Erklären Sie den Begriff "Alter der Gezeit".
+Das Alter der Gezeit gibt an, in welcher Phase (Nippzeit, Mittzeit, Springzeit) sich das aktuelle Tidengeschehen befindet.
+
+Nummer 72:
+
+Warum findet man z. B. bei Bezugsorten in der Nordsee bzw. im Englischen Kanal zeitweise nur ein
+Hoch- bzw. Niedrigwasser pro Tag?
+Die Umlaufzeit des Mondes um die Erde dauert im Mittel 24 h 50 min. (Mondtag) gegenüber dem Sonnentag (= 24 h). Deshalb
+"rutscht" das letzte HW oder NW zeitweise in den nächsten Tag.
+
+Nummer 73:
+
+Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln
+teilweise erheblich abweichen?
+Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen.
+
+HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann füher oder später
+eintreten als angegeben.
+
+Nummer 74:
+
+Worauf beziehen sich die Tiefenangaben in Seekarten in den deutschen Gewässern der Ost- und
+Nordsee?
+Auf Kartennull (KN).
+
+Nummer 75:
+
+Was ist Kartennull?
+Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in einer Seekarte.
+
+Nummer 76:
+
+Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert?
+Wo finden Sie die entsprechenden Angaben zur Kartennullebene?
+
+In der Ostsee entspricht KN dem mittleren Wasserstand.
+In der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical
+Tide).
+In der jeweiligen Seekarte ist die Kartennullebene beschrieben.
+
+Nummer 77:
+
+Was müssen Sie bedenken, wenn Sie die Wassertiefe außerhalb der Niedrigwasserzeit loten?
+Beim folgenden Niedrigwasser wird die Wassertiefe geringer sein als zum Zeitpunkt der Lotung.
+
+Nummer 78:
+
+Was ist die Kartentiefe?
+Die Kartentiefe (KT) ist die auf Kartennull bezogene Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit.
+
+Nummer 79:
+
+Mit welcher Wassertiefe können Sie bei einer Lotung normalerweise mindestens rechnen?
+Mit der Kartentiefe.
+
+Nummer 80:
+
+Welche Bedeutung hat die Angabe "Springzeit" für die Wasserstände in Gezeitengebieten?
+Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zu erwarten.
+
+Nummer 81:
+
+Welche Bedeutung hat die Angabe "Nippzeit" für die Wasserstände in Gezeitengebieten?
+Zur Nippzeit sind besonders niedrige Hochwasser und besonders hohe Niedrigwasser zu erwarten.
+
+Nummer 82:
+
+Welche Bedeutung haben die Angaben "Nippzeit" bzw. "Springzeit" für die Gezeitenströme?
+Zur Springzeit setzen die Gezeitenströme z. T. deutlich stärker als zur Nippzeit.
+
+Nummer 83:
+
+Wo können Sie Informationen über Gezeitenströme in Küstengewässern finden?
+
+1. In Gezeitenstromatlanten, Seehandbüchern,
+2. in Seekarten aus Gezeitenstromtabellen, die bezogen sind auf die Hochwasserzeiten des dort genannten Bezugsortes.
+
+Nummer 84:
+
+Auf einer Seekarte finden Sie in Küstennähe die Tiefenangabe 23.
+Was bedeutet das?
+Der Ort der Zahl liegt 2,3 m über Kartennull und kann trockenfallen.
+
+Nummer 85:
+
+In welchem Zusammenhang stehen Kartentiefe (KT), Wassertiefe (WT) und Höhe der Gezeit (H)?
+WT - H = KT oder KT + H = WT (Lösung auch als Skizze möglich).
+
+Nummer 86:
+
+Warum ist es in Tidengewässern wichtig, die Uhrzeit einer Lotung festzuhalten?
+Um anhand der Gezeitentafel feststellen zu können, ob das Wasser steigt oder fällt.
+
+Nummer 87:
+
+Was ist ein Pegel?
+Eine Skala zur Anzeige des Wasserstandes.
+
+Nummer 88:
+
+Welchen Einfluss kann der Wind auf die Gezeiten haben?
+Der Wind kann Strömungen und Wasserstandsänderungen hervorrufen, die zu den Gezeitenströmen und den Gezeiten
+hinzutreten.
+
+Nummer 89:
+
+Nennen Sie drei wichtige Vorzüge von GPS.
+
+1. GPS arbeitet weltweit.
+2. Die Positionsanzeige ist jederzeit verfügbar.
+3. Der Positionsfehler ist gering.
+
+Nummer 90:
+
+Wie groß ist die typische und realistische Genauigkeit von Positionen, die mit GPS und DGPS ermittelt
+werden?
+
+1. GPS: 10 - 20 m bei einer Wahrscheinlichkeit von etwa 95 %.
+2. DGPS: 1 - 10 m bei einer Wahrscheinlichkeit von etwa 95 %.
+
+Nummer 91:
+
+Wo muss man mit ungenauen Anzeigen des GPS rechnen?
+
+1. Bei Abschattung der GPS-Antenne.
+2. In der Nähe von Flughäfen und in der Nähe von Fernsehsendern.
+3. In der Nähe von Marineeinrichtungen.
+4. Bei Nutzung von UKW-Geräten und anderen elektronischen/elektrischen Geräten an Bord.
+
+Nummer 92:
+
+Was bedeutet die Abkürzung GPS?
+Global Positioning System.
+
+Nummer 93:
+
+Was ist das Grundprinzip von GPS?
+Durch Laufzeitmessungen von GPS-Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den
+Satelliten wird die Ortsbestimmung ermöglicht.
+
+Nummer 94:
+
+Was bedeutet die Abkürzung DGPS und nach welchem Prinzip arbeitet DGPS?
+DGPS = Differential Global Positioning System.
+Hierbei handelt es sich um eine regionale Verbesserung der Ortsbestimmung. Dabei werden von Referenzstationen über Funk
+Korrekturwerte für die GPS-Messwerte an die Schiffe übertragen.
+
+Nummer 95:
+
+Was ist bei Anbringung einer GPS-Antenne zu beachten?
+
+1. Sie muss ringsum freie Sicht (ohne Abschattungen) haben.
+2. Einwandfreie Erdung.
+
+Nummer 96:
+
+Was bewirkt die Bedienung der MOB-Taste bei GPS-Geräten?
+
+1. Die Position zur Zeit des Tastendrucks wird gespeichert.
+2. Rechtweisende Peilung (rwP) und Distanz zu diesem Punkt werden angezeigt.
+
+Nummer 97:
+
+Was bedeutet die Aussage: "Die Ortsgenauigkeit beträgt 100 m mit einer Wahrscheinlichkeit von 95 %"?
+Das Schiff befindet sich mit einer Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius um den beobachteten Ort.
+Also: jede 20. Ortsbestimmung (5 %) ist ungenauer als ca. 100 m.
+
+Nummer 98:
+
+Wie kann man feststellen, ob die GPS-Position genau bzw. zuverlässig ist?
+
+1. Durch den vom Empfänger angezeigten HDOP (horizontal dilution of precision = Satellitenverteilung).
+2. Durch die vom Empfänger angezeigte Anzahl der getrackten Satelliten.
+3. Durch Vergleich mit anderen Navigationssystemen und der Koppelposition.
+
+Nummer 99:
+
+Was ist bei Eintragung eines GPS-Ortes in eine Seekarte zu beachten?
+Das Bezugssystem muss übereinstimmen. Dieses kann geschehen durch:
+
+1. Auswahl und Einstellung des Kartenbezugssystems im Empfänger.
+
+2. Manuelle Verschiebung des GPS-Ortes um die in der Seekarte angegebenen N/S- und E/W-Korrektur.
+3. Verwendung von Seekarten, die auf dem System WGS 84 beruhen.
+
+Nummer 100:
+
+Was ist ein Wegpunkt?
+Geographische Koordination eines anzusteuernden Punktes.
+
+Nummer 101:
+
+Was bedeutet WGS 84 und was wird damit erreicht?
+
+1. Globales Bezugssystem "World Geodetic System 1984".
+2. Mit diesem System (= Referenzellipsoid bei GPS) wird weltweit eine optimale Anpassung an die reale Form des gesamten
+Erdkörpers erreicht.
+
+Nummer 102:
+
+Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von
+Radargeräten "verschwinden"?
+
+1. Durch Seegang und/oder Niederschlag,
+2. durch falsche Bedienung,
+3. durch zu große Entfernung,
+4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).
+
+Nummer 103:
+
+Wie kann man mit Radar den eigenen Schiffsort bestimmen?
+
+1. Peilung des Objektes gibt einen Peilstrahl als Standlinie.
+2. Abstandsmessung mit dem VRM (Variable Range Marker) gibt einen Abstandskreis als Standlinie.
+
+Nummer 104:
+
+Wie kann man gegebenenfalls verhindern, dass sich Echoanzeigen von Zielen (z. B. 2 Tonnen, 2
+Molenköpfe) überlappen?
+
+1. Kurze Impulslänge wählen.
+2. Messbereich verkleinern.
+
+Nummer 105:
+
+Was bedeutet der Begriff AIS auf See?
+AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System).
+
+Nummer 106:
+
+Welche Aufgaben hat AIS?
+Alle ausgerüsteten Schiffe senden automatisch (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen
+Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten
+("safety related messages") von Bord oder von Landstationen gesendet werden.
+
+Nummer 107:
+
+Welche Reichweite hat ein AIS-Bordgerät und wovon ist sie abhängig?
+Die Reichweite und Ausbreitungsbedingungen entsprechen denen von UKW. Bei Handelsschiffen kann man von 20 bis 30 sm
+ausgehen. Die Reichweite ist abhängig von der Antennenhöhe.
+
+Nummer 108:
+
+Wie kann die Reichweite eines AIS-Bordgerätes landseitig erhöht werden und wie wirken sich dabei
+Hindernisse (z. B. Berge) aus?
+Unter bestimmten Umständen kann die Reichweite heraufgesetzt werden (z. B. mit Hilfe von "Relaisstationen"), wobei ggf. auch
+abschattende Hindernisse umgangen werden können.
+
+Nummer 109:
+
+Welche AIS-Daten werden von Schiffen aus der Berufsschifffahrt gesendet?
+Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes u. a.
+
+Dynamische Daten (i. W. Sensordaten): UTC, Position, Heading, Kurs und Fahrt über Grund, ggf. Rate-of-turn,
+Fahrtstatus (z. B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug).
+Reisebezogene Daten: Tiefgang, Zielort (Destinaton), ETA u. a.
+
+Nummer 110:
+
+Wann kann man sich auf die Verfügbarkeit und Anzeige vn AIS-Signalen anderer Fahrzeuge verlassen?
+Nennen Sie die wesentlichen Voraussetzungen!
+Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn
+
+1. das Fahrzeug mit AIS ausgerüstet ist,
+2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen),
+3. GPS aktiv ist und
+4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = "target overflow") keine Fahrzeuge ausgeschlossen
+werden.
+
+Nummer 111:
+
+Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?
+
+Position:
+Mit AIS wird zusätzlich zur GPS-Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPSOrt handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt.
+Manuell eingegebene Daten:
+Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie - z. B. aus Nachlässigkeit
+- nicht von der Schiffsführung aufdatiert werden.
+
+Nummer 112:
+
+Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf
+anderen Schiffen?
+Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im
+Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS-Daten zusätzlich im Radar dargestellt
+werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind.
+
+Nummer 113:
+
+Welche Navigationsgeräte sollten Sie auf einer Yacht auch bei Kurzfahrten nahe der Küste mindestens
+an Bord haben?
+Steuerkompass, Peilkompass, Lot, Log, Uhr.
+
+Nummer 114:
+
+Was gehört zur navigatorischen Mindestausrüstung einer Yacht in Küstengewässern?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Steuerkompass,
+2. Peileinrichtung,
+3. terrestrisches oder satellitengestütztes Funknavigationsgerät,
+4. Log,
+5. Lot,
+6. Fernglas,
+7. Barometer,
+8. Weltempfänger für Rundfunk,
+9. Seebücher und auf den neuesten Stand berichtigte Seekarten für das zu befahrende Seegebiet,
+10. Logbuch,
+11. Uhr/Zeitmesser.
+
+Nummer 115:
+
+Welchen Vorteil hat ein Kugelkompass gegenüber einem Fernglaskompass?
+
+1. Der Kugelkompass kann auch bei größerer Krängung noch als Messinstrument benutzt werden.
+2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (Vergrößerungseffekt).
+
+Nummer 116:
+
+Was beeinflusst die Ablenkung eines Kompasses dauerhaft?
+Veränderung des magnetischen Zustandes an Bord, z. B. Einbauten und Lageänderung von Ausrüstungsgegenständen.
+
+Nummer 117:
+
+Was beeinflusst die Ablenkung eines Kompasses vorübergehend?
+Elektronische Geräte (z. B. Radio, Handy), magnetisierte Gegenstände (z. B. Werkzeug, Peilkompass) und Gleichstromleitungen
+in der Nähe des Kompasses.
+
+Nummer 118:
+
+Welchen Abstand muss magnetisierbares Material vom Magnetkompass haben?
+Mindestens 1 Meter.
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Schifffahrtsrecht
+
+Schifffahrtsrecht
+Nummer 1:
+
+Was sind "Sicherheitszonen" im Sinne der Verordnung zu den KVR?
+Sicherheitszonen sind Wasserflächen im Umkreis von 500 m um Plattformen, Bohrinseln, Forschungsanlagen u. a., die nicht
+befahren werden dürfen.
+
+Nummer 2:
+
+Die Verordnung zu den KVR verbietet die Führung eines Fahrzeugs, wenn man infolge des Genusses
+alkoholischer Getränke in der sicheren Führung des Fahrzeugs behindert ist.
+Welchen örtlichen Geltungsbereich hat die vorgenannte Verordnung?
+Die Verordnung gilt auf Seeschifffahrtsstraßen und für Schiffe, die die Bundesflagge führen, seewärts der Begrenzung des
+Küstenmeeres der Bundesrepublik Deutschland (also weltweit), soweit nicht in den Hoheitsgewässern anderer Staaten
+abweichende Regelungen gelten.
+
+Nummer 3:
+
+Wer darf laut Verordnung zu den KVR ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere
+Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?
+Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in
+der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken- oder Decksdienstes
+behindert ist.
+
+Nummer 4:
+
+Welche Atem- bzw. Blutalkoholkonzentration darf laut Verordnung zu den KVR nicht erreicht werden,
+damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des
+Brückendienstes besteht?
+0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer
+solchen Atem- oder Blutalkoholkonzentration führt.
+
+Nummer 5:
+
+Die KVR regeln u. a. das Verhalten der Schiffsführungen bei Kollisionsgefahr.
+Was ist im Rahmen der Verantwortlichkeit bei der Auslegung und Befolgung der KVR zu
+berücksichtigen?
+Bei der Auslegung und Befolgung der KVR sind stets alle Gefahren der Schifffahrt und des Zusammenstoßes sowie alle besonderen
+Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum Abwenden
+unmittelbarer Gefahr ggf. auch ein Abweichen von diesen Regeln erfordern können (z. B. Abweichen von der Kurshaltepflicht,
+wenn der Ausweichpflichtige nicht angemessen handelt).
+
+Nummer 6:
+
+Welche Grundregeln für das Verhalten im Verkehr verlangen die KVR, die ein Schiffsführer zu
+berücksichtigen hat, auch wenn keine konkrete Regel anwendbar ist?
+Die KVR befreien nicht von den Folgen, die durch unzureichende Einhaltung der KVR oder unzureichende Vorsichtsmaßnahmen
+entstehen, d. h., allgemeine seemännische Praxis oder besondere Umstände des Falles können über die Mindestanforderungen
+der KVR hinausgehende Maßnahmen erfordern.
+
+Nummer 7:
+
+Was sind Verkehrstrennungsgebiete?
+Wie sind sie zu befahren?
+
+1. Verkehrstrennungsgebiete sind Schifffahrtswege, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.
+2. Diese dürfen nur in Fahrtrichtung rechts der Trennlinie/Trennzone befahren werden, aber unter Nutzung der vollen Breite des
+Einbahnweges.
+
+Nummer 8:
+
+Was ist ein "manövrierunfähiges Fahrzeug"?
+Manövrierunfähig ist ein Fahrzeug, das wegen außergewöhnlicher Umstände (z. B. Ruderbruch) nicht regelgerecht manövrieren
+und daher einem anderen Fahrzeug nicht ausweichen kann.
+
+Nummer 9:
+
+Was ist ein "manövrierbehindertes Fahrzeug"?
+Manövrierbehindert ist ein Fahrzeug, das durch die Art seines Einsatzes behindert ist (z. B. Bagger, Kabelleger), regelgerecht zu
+
+manövrieren, und daher einem anderen Fahrzeug nicht ausweichen kann.
+
+Nummer 10:
+
+Nennen Sie mindestens 3 Beispiele für "manövrierbehinderte Fahrzeuge".
+
+1. Tonnenleger, Kabelleger, Rohrleger im Einsatz,
+2. Bagger, Vermessungsfahrzeuge im Einsatz,
+3. Versorger im Einsatz,
+4. Flugzeugträger im Einsatz,
+5. Minenräumfahrzeuge im Einsatz,
+6. Fahrzeuge während eines Schleppvorganges, bei dem das schleppende Fahrzeug und sein Anhang erheblich behindert sind,
+vom Kurs abzuweichen.
+
+Nummer 11:
+
+Was ist unter "sicherer Geschwindigkeit" zu verstehen?
+Das Fahrzeug muss jederzeit innerhalb einer solchen Entfernung zum Stehen gebracht werden können, dass ein Zusammenstoß
+vermieden wird.
+
+Nummer 12:
+
+Ab welcher Länge müssen Sportfahrzeuge mit den Lichtern/Signalkörpern ausgerüstet sein, die bei
+Manövrierunfähigkeit zu setzen sind?
+Fahrzeuge ab 12 m Länge.
+
+Nummer 13:
+
+Sie sehen in der Dämmerung in der Nordsee in der Zufahrt zur Jade einen großen Tanker mit der
+üblichen Lichterführung, auf dem kurze Zeit später die Lichter rot-weiß-rot senkrecht übereinander
+zusätzlich zu den Fahrtlichtern gesetzt werden.
+Welche rechtliche Bedeutung hat die geänderte Signalgebung für Sie?
+Beim Erreichen des Geltungsbereiches der SeeSchStrO kennzeichnet sich der Tanker als Wegerechtschiff, das als
+manövrierbehindertes Fahrzeug gilt. Diesem so gekennzeichneten Fahrzeug muss im Falle einer Kollisionsgefahr ausgewichen
+werden.
+
+Nummer 14:
+
+Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen
+1. ohne Fahrt durchs Wasser (FdW),
+2. mit FdW,
+3. vor Anker?
+
+1. Ohne FdW:
+rot-weiß-rot senkrecht übereinander.
+2. Mit FdW:
+rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht[er]), Seitenlichter, Hecklicht.
+3. Vor Anker:
+rot-weiß-rot senkrecht übereinander und Ankerlicht(er).
+
+Nummer 15:
+
+Wie sind manövrierbehinderte und manövrierunfähige Fahrzeuge am Tage bezeichnet?
+
+1. Manövrierbehinderte Fahrzeuge:
+Ball-Rhombus-Ball senkrecht übereinander.
+2. Manövrierunfähige Fahrzeuge:
+zwei schwarze Bälle senkrecht übereinander.
+
+Nummer 16:
+
+Wie müssen Sie Ihr Fahrzeug unter Segel bei Tage und bei Nacht kennzeichnen, wenn Sie gleichzeitig
+mit Maschinenkraft fahren?
+
+1. Bei Nacht Lichterführung eines Maschinenfahrzeugs entsprechender Größe,
+2. bei Tage einen Kegel - Spitze unten - im Vorschiff gut sichtbar.
+
+Nummer 17:
+
+Was müssen Sie hinsichtlich der Zeiten der Lichterführung beachten?
+Die Lichter müssen geführt werden
+
+1. zwischen Sonnenuntergang und Sonnenaufgang,
+2. bei verminderter Sicht auch zwischen Sonnenaufgang und Sonnenuntergang.
+
+Nummer 18:
+
+Sie sehen am Tage ein Fahrzeug, augenscheinlich kürzer als 50 m, mit dem Sichtzeichen "schwarzer
+Rhombus", dahinter in gleichbleibendem Abstand ein weiteres Fahrzeug mit dem gleichen
+Signalkörper.
+1. Worum handet es sich?
+2. Wie sind die Fahrzeuge bei Nacht gekennzeichnet?
+
+1. Es handelt sich um einen Schleppverband länger als 200 m (Heck des Schleppers - Heck des Anhangs).
+2. Der Schlepper führt nachts drei weiße Topplichter senkrecht übereinander, Seitenlichter, Hecklicht und das gelbe Schlepplicht
+über dem Hecklicht. Der Anhang führt Seitenlichter und Hecklicht.
+
+Nummer 19:
+
+Man hört bei Nebel folgendes Schallsignal mit der Pfeife
+
+(lang-kurz-kurz), unmittelbar gefolgt von
+
+(lang-kurz-kurz-kurz) etwa jede Minute.
+Worum handelt es sich dabei?
+Es ist das Schallsignal eines Schleppverbandes in Fahrt (schleppendes Fahrzeug lang-kurz-kurz; Anhang lang-kurz-kurz-kurz).
+
+Nummer 20:
+
+Bei Nebel im Küstenbereich fahrend, hört man etwa jede Minute folgendes Signal: drei Glockenschläge,
+dann ca. 5 Sekunden lang rasches Läuten einer Glocke, dann drei Glockenschläge.
+Wer gibt dieses Signal?
+Dieses Signal gibt ein Fahrzeug auf Grund unter 100 m Länge.
+
+Nummer 21:
+
+Sie sehen ein Fahrzeug mit folgender Lichterführung:
+
+1. Worum handelt es sich?
+
+2. Welches Schallsignal müsste dieses Fahrzeug bei unsichtigem Wetter geben?
+1. Treibnetzfischer (Fahrzeug, das nicht trawlt) in Fahrt oder vor Anker mit ausgebrachtem Fanggerät, das waagerecht weiter
+als 150 m ins Wasser reicht. (Das untere weiße Licht kann auch das Hecklicht sein).
+2. Schallsignal
+
+(lang-kurz-kurz) mindestens alle 2 Minuten.
+
+Nummer 22:
+
+Sie sehen nachts auf See 2 rote Lichter senkrecht übereinander:
+
+Worum handelt es sich?
+Um ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser.
+
+Nummer 23:
+
+Die Lichteranordnung eines Fahrzeugs ändert sich plötzlich
+von
+
+in
+
+Was schließen Sie daraus?
+Ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser (FdW) hat FdW aufgenommen, da man jetzt auch das
+Backbord-Seitenlicht sieht.
+
+Nummer 24:
+
+Was bestimmen die KVR über das Ausguckhalten?
+
+Es muss jederzeit durch Sehen und Hören sowie durch jedes andere verfügbare Mittel gehöriger Ausguck gehalten werden, der
+einen vollständigen Überblick über die Lage und die Möglichkeit der Gefahr eines Zusammenstoßes gibt.
+
+Nummer 25:
+
+Was bestimmen die KVR für das Verhalten von Fahrzeugen von weniger als 20 m Länge oder von
+Segelfahrzeugen im Fahrwasser einer Seeschifffahrtsstraße?
+Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge dürfen nicht die Durchfahrt eines Fahrzeuges behindern, das nur
+innerhalb eines engen Fahrwassers oder einer Fahrrinne sicher fahren kann.
+Sie müssen, wenn es die Umstände erfordern, frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des
+anderen Fahrzeugs zu lassen.
+
+Nummer 26:
+
+Was ist eine "Küstenverkehrszone"?
+Das Gebiet zwischen der Küste und der landwärtigen Grenze eines Verkehrstrennungsgebietes.
+
+Nummer 27:
+
+Welche Fahrzeuge dürfen die Küstenverkehrszone benutzen, ohne einen Hafen innerhalb der
+Küstenverkehrszone anzusteuern?
+Fahrzeuge von weniger als 20 m Länge und Segelfahrzeuge.
+
+Nummer 28:
+
+Wie müssen Maschinenfahrzeuge ohne Radar bei verminderter Sicht ihre Fahrweise einrichten?
+Maschinenfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der
+verminderten Sicht angepasst ist.
+
+Nummer 29:
+
+Wie müssen sich Segelfahrzeuge ohne Radar bei verminderter Sicht verhalten?
+Was gehört dabei zu den Regeln guter Seemannschaft?
+1. Segelfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der
+verminderten Sicht angepasst ist.
+2. Bei Segelfahrzeugen, die eine Maschine an Bord haben, gehört das Bereithalten der Maschine zu den Regeln guter
+
+Seemannschaft.
+
+Nummer 30:
+
+Wie müssen sich Fahrzeuge ohne Radar bei verminderter Sicht verhalten, wenn sie voraus das
+Schallsignal eines anderen Fahrzeuges hören?
+Jedes Fahrzeug, das anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeuges hört, muss seine Fahrt auf das
+für die Erhaltung der Steuerfähigkeit geringstmögliche Maß verringern. Erforderlichenfalls muss es jegliche Fahrt wegnehmen und
+in jedem Fall mit äußerster Vorsicht manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.
+
+Nummer 31:
+
+Sie segeln in der Nordsee bei guter Sicht.
+Ihnen kommt in stehender Peilung ein Maschinenfahrzeug entgegen, das keine Anstalten macht, seiner
+Ausweichpflicht nachzukommen.
+Geben Sie in einer sinnvollen Reihenfolge an, was von Ihnen zu unternehmen ist.
+Welche dieser Maßnahmen sind zwingend vorgeschrieben?
+
+1. Über Funk versuchen, das andere Fahrzeug auf seine Ausweichpflicht aufmerksam zu machen.
+2. Schallsignal: mindestens fünf kurze, rasch aufeinander folgende Pfeifentöne geben.
+3. Ggf. Ergänzung zu 2.: Lichtsignal von mindestens fünf kurzen, rasch aufeinander folgenden Blitzen.
+4. Manöver des sogenannten "vorletzten Augenblicks" fahren.
+5. Manöver des sogenannten "letzten Augenblicks" fahren.
+
+Zwingend vorgeschrieben sind die Maßnahmen nach 2. und 5.
+
+Nummer 32:
+
+Auf einem Segelfahrzeug unter Motor sieht man nachts fast recht voraus ein näher kommendes
+Fahrzeug mit folgender Lichterführung: oben ein weißes Licht, seitlich darunter ein grünes Licht,
+zeitweise rechts von dem grünen Licht auf gleicher Höhe auch ein rotes Licht.
+Um was für ein Fahrzeug handelt es sich, was ist von Ihnen und was ist auf dem anderen Fahrzeug zu
+unternehmen?
+Es handelt sich um ein Maschinenfahrzeug von weniger als 50 m Länge, das im Seegang oder durch schlechtes Steuern giert. Man
+muss annehmen, dass sich zwei Maschinenfahrzeuge auf entgegengesetzten oder fast entgegengesetzten Kursen nähern und die
+Möglichkeit der Gefahr eines Zusammenstoßes besteht. Beide Fahrzeuge müssen den Kurs nach Steuerbord ändern und dieses
+durch einen kurzen Ton anzeigen.
+
+Nummer 33:
+
+Wie muss man sich verhalten, wenn man gezwungen ist, ein Verkehrstrennungsgebiet zu queren?
+Kielrichtung (rwK) muss möglichst rechtwinklig zur allgemeinen Verkehrsrichtung zeigen.
+
+Nummer 34:
+
+Wie muss man sich verhalten, wenn man einen betonnten Schifffahrtsweg (z. B. in der Ostsee) queren
+will?
+Die Ausweichregeln der KVR beachten.
+
+Nummer 35:
+
+Wie ist die Gefahr eines Zusammenstoßes sicher erkennbar?
+Wenn die Kompasspeilung zu einem anderen Fahrzeug steht und sie sich einander nähern.
+
+Nummer 36:
+
+Wie müssen Sie Ausweichmanöver durchführen?
+
+1. Möglichst frühzeitig,
+2. durchgreifend, sodass das andere Fahrzeug rasch Ihre Absicht erkennen kann, und um sich gut klar zu halten.
+
+Nummer 37:
+
+Wie müssen Sie sich verhalten, nachdem Sie ein vorgeschriebenes Ausweichmanöver eingeleitet haben?
+Der Erfolg des Manövers ist laufend zu überprüfen, bis das andere Fahrzeug klar passiert ist.
+
+Nummer 38:
+
+Sie segeln mit Wind von Steuerbord und sehen nachts in Luv ein einzelnes rotes Licht, das in stehender
+Peilung näher kommt.
+1. Was ist das für ein Licht?
+2. Wer muss ausweichen? (Begründung!)
+
+1. Das Licht ist das Backbordlicht eines Segelfahrzeugs in Fahrt.
+
+2. Das Segelfahrzeug in Luv muss ausweichen, entweder weil es den Wind von Backbord hat oder weil es - wenn mit Wind von
+Steuerbord segelnd - luvwärts steht.
+
+Nummer 39:
+
+Sie segeln mit Wind von Backbord und sehen nachts in Luv ein einzelnes grünes Licht, das in stehender
+Peilung näher kommt.
+1. Was ist das für ein Licht?
+2. Wer muss ausweichen? (Begründung!)
+
+1. Das Licht ist das Steuerbordlicht eines Segelfahrzeugs in Fahrt.
+2. Ihr Fahrzeug muss als leewärtiges Fahrzeug ausweichen, weil Sie (mit Wind von Backbord segelnd) nicht erkennen können,
+von welcher Seite das andere Fahrzeug den Wind hat.
+
+Nummer 40:
+
+Sie segeln nachts mit raumem Wind und machen gute Fahrt.
+Sie sehen an Steuerbord voraus ein einzelnes weißes Licht in (nahezu) stehender Peilung.
+Näher kommend verschwindet das weiße Licht gelegentlich und es erscheint stattdessen in etwa
+gleicher Höhe und links davon ein rotes Licht.
+Jeweils kurzfristig sind beide Lichter gleichzeitig zu sehen.
+1. Worum handelt es sich bei diesen Lichtern?
+2. Wer muss ausweichen? (Begründung!)
+
+1. Man sieht Hecklicht und/oder Backbord-Seitenlicht eines Segelfahrzeugs in Fahrt, das im Seegang giert.
+2. Ihr Fahrzeug nähert sich aus dem Hecksektor des anderen Fahrzeugs. Es steht eben auf dessen Sektorengrenze und muss
+als überholendes Fahrzeug ausweichen. Im Zweifel (hier Sektorengrenze!) muss man sich als Überholer betrachten.
+
+Nummer 41:
+
+Sie segeln nachts mit raumem Wind und sehen nahezu achteraus ein Fahrzeug mit der Lichterführung
+rot-weiß-rot senkrecht übereinander, das näher kommt.
+Zusätzlich sehen Sie neben zwei weißen Topplichtern links ein grünes und rechts ein rotes Licht auf
+gleicher Höhe.
+1. Was bedeuten diese Lichter?
+2. Wer muss ausweichen? (Begründung!)
+
+1. Man sieht ein manövrierbehindertes Fahrzeug mit FdW (Topplichter, Seitenlichter).
+2. Dieses Fahrzeug nähert sich im Hecklichtsektor und muss deshalb als Überholer ausweichen.
+
+Nummer 42:
+
+Welcher Zeitpunkt ist im freien Seeraum entscheidend für die Verantwortlichkeit (hier =
+
+Ausweichpflicht!) der Fahrzeuge untereinander?
+Der Augenblick des ersten Insichtkommens. Eine spätere Änderung der Lage der Fahrzeuge zueinander verändert nicht die
+Verantwortlichkeit.
+
+Nummer 43:
+
+Ein anderes Fahrzeug muss Ihnen ausweichen.
+Welche Verpflichtung nach KVR haben Sie?
+Was unternehmen Sie, wenn das andere Fahrzeug nicht ausweicht?
+
+1. Mein Fahrzeug ist "Kurshalter", d. h. es muss Kurs und Geschwindigkeit beibehalten.
+2. Mein Fahrzeug darf zur Abwendung eines Zusammenstoßes manövrieren, sobald erkennbar wird, dass das andere Fahrzeug
+nicht angemessen (= regelgerecht) manövriert ("Manöver des vorletzten Augenblicks!")
+3. Mein Fahrzeug muss zweckdienlich manövrieren, wenn ein Manöver des Ausweichpflichtigen allein einen Zusammenstoß nicht
+mehr vermeiden kann ("Manöver des letzten Augenblicks!")
+
+Nummer 44:
+
+Welchen Fahrzeugen muss ein Segelfahrzeug ausweichen?
+
+1. Einem manövrierunfähigen Fahrzeug,
+2. einem manövrierbehinderten Fahrzeug,
+3. einem fischenden Fahrzeug,
+4. ggf. einem anderen Segelfahrzeug, abhängig von der Segelstellung in Bezug auf den Wind.
+
+Nummer 45:
+
+1. Wie muss sich ein Sportfahrzeug gegenüber einem tiefgangbehinderten Fahrzeug verhalten?
+2. Schlagen Sie entsprechende Maßnahmen/Manöver vor.
+
+1. Das Sportfahrzeug muss vermeiden, die sichere Durchfahrt eines tiefgangbehinderten Fahrzeugs zu behindern.
+2. Dieses kann durch eine frühzeitige Kursänderung, Geschwindigkeitsänderung oder beides geschehen.
+
+Nummer 46:
+
+Wo unterliegt Ihr Segelfahrzeug bzw. Ihre Motoryacht unter 20 m Länge einem Behinderungsverbot?
+
+1. In engen Fahrwassern,
+
+2. auf dem Einbahnweg eines Verkehrstrennungsgebietes (VTG) gegenüber Maschinenfahrzeugen im VTG.
+
+Nummer 47:
+
+Welchen Abstand muss man von Minenräumfahrzeugen halten?
+Mindestens 1 000 m.
+
+Nummer 48:
+
+Auf einer Motoryacht A sieht man nachts etwa recht voraus Topplicht und beide Seitenlichter eines
+Fahrzeugs B.
+Die Lichter werden rasch heller.
+1. Was ist B?
+2. Wie ist die Situation zu klären?
+
+1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt.
+2. A und B müssen ihren Kurs so nach Steuerbord ändern, dass sie einander an der Backbord-Seite passieren. Dabei müssen A
+und B das Signal "ein kurzer Ton" geben.
+
+Nummer 49:
+
+Auf einer Motoryacht A erkennt man nachts etwa 2 Strich an Backbord folgende Lichter des Fahrzeugs
+B, die rasch näher kommen.
+
+Die Kompasspeilung zum Fahrzeug B ändert sich dabei nur geringfügig.
+1. Worum handelt es sich bei Fahrzeug B?
+2. Wer muss ausweichen?
+3. Was muss Fahrzeug A tun?
+
+1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt, dessen Steuerbord-Seite man sieht.
+2. B muss ausweichen, weil es die Motoryacht A an seiner Steuerbord-Seite hat.
+3. Die Motoryacht A muss Kurs und Geschwindigkeit beibehalten.
+
+Nummer 50:
+
+Welchen Fahrzeugen muss eine Motoryacht ausweichen?
+
+1. Manövrierunfähigen Fahrzeugen,
+2. manövrierbehinderten Fahrzeugen,
+3. fischenden Fahrzeugen,
+4. Segelfahrzeugen,
+5. ggf. einem anderen Maschinenfahrzeug.
+
+Nummer 51:
+
+Auf einer Motoryacht A sieht man nachts etwa querab an Steuerbord ein einzelnes weißes Licht in
+(nahezu) stehender Kompasspeilung.
+Näher kommend erkennt man unterhalb des weißen Lichtes und etwas rechts davon ein rotes Licht
+(Fahrzeug B).
+
+1. Worum handelt es sich?
+2. Was müssen jeweils beide Fahrzeuge tun? (Begründung!)
+
+1. Topplicht und später Backbord-Seitenlicht eines Maschinenfahrzeuges B von weniger als 50 m Länge in Fahrt.
+2. A muss ausweichen, weil es B an seiner Steuerbord-Seite hat. A muss das Signal "ein kurzer Ton" geben.
+3. B muss Kurs und Geschwindigkeit beibehalten.
+
+Nummer 52:
+
+Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes
+Fahrzeug direkt auf sich zukommen.
+Welche Maßnahmen hat die Motoryacht zu ergreifen?
+Ein Fahrzeug von weniger als 12 m Länge, das die zwei roten Rundumlichter senkrecht übereinander nicht führt, muss folgende
+Maßnahmen ergreifen:
+
+1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z. B. über UKW-Sprechfunk oder durch ein
+Schallsignal oder das Lichtsignal lang-kurz-kurz.
+2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen.
+3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann.
+4. Abfeuern eines Signals "weißer Stern" oder "Blitz-Knall".
+
+5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).
+
+Nummer 53:
+
+Wie sind Fahrwasser in der Seeschifffahrtsstraßen-Ordnung im Sinne der KVR eingestuft?
+Fahrwasser der Seeschifffahrtsstraßen gelten als enge Fahrwasser im Sinne der KVR.
+
+Nummer 54:
+
+Erläutern Sie den Begriff "durchgehende Schifffahrt" auf einem Fahrwasser einer
+Seeschifffahrtsstraße.
+Die durchgehende Schifffahrt umfasst alle Fahrzeuge, die deutlich dem Fahrwasserverlauf einer Seeschifffahrtsstraße folgen. Dies
+erlaubt nach allgemeiner Verkehrsauffassung ein Abweichen von höchstens ± 10° von der Richtung des Fahrwassers. Dabei ist es
+gleichgültig, zu welchem Zweck das Fahrzeug betrieben wird.
+
+Nummer 55:
+
+Was fordern die Grundregeln für das Verhalten im Verkehr?
+Jeder Verkehrsteilnehmer
+
+1. muss die Sicherheit und Leichtigkeit des Verkehrs gewährleisten,
+2. darf andere (nicht nur Verkehrsteilnehmer!) nicht schädigen, gefährden oder mehr als unvermeidbar behindern oder
+belästigen.
+
+Nummer 56:
+
+Welche verkehrsrechtliche Verantwortung hat der Schiffsführer?
+
+1. Befolgung der Vorschriften im Verkehr, u. a. KVR, SeeSchStrO.
+2. Ausrüstung/Einrichtung seines Fahrzeugs zum Führen und Zeigen von Lichtern und Signalkörpern und Geben von
+Schallsignalen.
+
+Nummer 57:
+
+Was sind Seeschifffahrtsstraßen im Sinne der SeeSchStrO?
+
+Seeschifffahrtsstraßen im Sinne dieser Verordnung sind:
+
+1. Wasserflächen zwischen der Küstenlinie bei mittlerem Hochwasser oder der seewärtigen Begrenzung der
+Binnenwasserstraßen und einer Linie von drei Seemeilen seewärts der Basislinie,
+2. die durchgehend durch laterale Zeichen (Tonnen) begrenzten Wasserflächen der seewärtigen Teile der Fahrwasser im
+Küstenmeer,
+3. Wasserflächen zwischen den Ufern bestimmter Binnenwasserstraßen.
+
+Nummer 58:
+
+Was sind Fahrwasser im Sinne der SeeSchStrO?
+Fahrwasser sind die Teile der Wasserflächen, die durch Tonnen (laterale Zeichen) begrenzt oder gekennzeichnet sind oder die,
+soweit das nicht der Fall ist, auf den Binnenwasserstraßen für die durchgehende Schifffahrt bestimmt sind.
+
+Nummer 59:
+
+Welche verkehrsrechtlichen Bestimmungen gelten auf deutschen Seeschifffahrtsstraßen?
+Auf deutschen Seeschifffahrtsstraßen gelten:
+
+1. die KVR,
+2. die Seeschifffahrtsstraßen-Ordnung, ggf. die Bekanntmachungen der Wasser- und Schifffahrtsdirektionen (WSD) Nord und
+Nordwest,
+3. ggf. die Hafenordnungen.
+
+Nummer 60:
+
+Wo und unter welcher Bedingung gelten im Geltungsbereich der SeeSchStrO die KVR?
+Die KVR gelten im gesamten Geltungsbereich der SeeSchStrO innerhalb und außerhalb der Fahrwasser, soweit die SeeSchStrO
+nicht ausdrücklich etwas anderes bestimmt (z. B. Vorfahrt, Grundsatz des Vorranges der spezielleren Rechtsvorschrift vor der
+allgemeineren).
+
+Nummer 61:
+
+Wie haben Segelfahrzeuge in einem Fahrwasser der SeeSchStrO untereinander auszuweichen, wenn sie
+nicht deutlich der Richtung eines Fahrwassers folgen?
+Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht
+gefährden oder behindern.
+
+Nummer 62:
+
+Auf der Elbe hören Sie nachts vor sich von einem Fahrzeug, das zusätzlich zu seinen Fahrtlichtern ein
+rotes Rundumlicht führt, fortwährend das Schallsignal kurz-lang.
+Um welches Schallsignal handelt es sich, wann ist es zu geben und wie verhalten Sie sich?
+Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder
+radioaktive Stoffe frei werden oder drohen frei zu werden oder es besteht Explosionsgefahr.
+
+Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und darf keine
+elektrischen Schalter bedienen. Kein offenes Feuer.
+
+Nummer 63:
+
+Wann ist von einem Fahrzeug auf einer Seeschifffahrtsstraße das "allgemeine Gefahr- und Warnsignal"
+zu geben und wie lautet es?
+Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es, soweit möglich, rechtzeitig das
+Schallsignal zu geben: ein langer Ton, vier kurze Töne; ein langer Ton, vier kurze Töne.
+
+Nummer 64:
+
+Nennen Sie die speziellen Verhaltensregeln für Sportfahrzeuge im Nord-Ostsee-Kanal (NOK).
+1. Sportfahrzeuge dürfen in der Regel die Zufahrten und den NOK lediglich zur Durchfahrt und ohne Lotsen nur während der
+Tagfahrzeiten und nicht bei verminderter Sicht benutzen.
+2. Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, dass sie vor Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte
+Liegestelle erreichen können.
+3. Bei plötzlich auftretender verminderter Sicht dürfen Sportfahrzeuge in den Weichengebieten hinter den Dalben oder an
+geeigneten Liegestellen festmachen.
+
+Nummer 65:
+
+Welche speziellen Fahrregeln haben Sportfahrzeuge im Nord-Ostsee-Kanal (NOK) einzuhalten?
+
+1. Das Segeln ist auf dem NOK verboten.
+2. Sportfahrzeuge mit Maschinenantrieb dürfen zusätzlich die Segel setzen.
+3. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen.
+
+Nummer 66:
+
+Während der Durchfahrt durch den Nord-Ostsee-Kanal (NOK) wird man auf einem Sportboot von
+Nebel überrascht.
+Was ist zu unternehmen?
+Schnellstmöglich in einem Weichengebiet hinter den Dalben oder an geeigneten Liegestellen festmachen.
+
+Nummer 67:
+
+Sie sehen vor dem Einlaufen in den NOK in Brunsbüttel folgende Lichtsignale:
+1. ein unterbrochenes rotes Licht,
+2. ein unterbrochenes weißes Licht über einem unterbrochenen roten Licht,
+3. ein unterbrochenes weißes Licht.
+Geben Sie die Bedeutung dieser Signale an.
+
+1. Einfahren verboten.
+2. Freigabe wird vorbereitet.
+3. Sportfahrzeuge können einfahren.
+
+Nummer 68:
+
+Erläutern Sie den Begriff "Vorfahrt beachten".
+"Vorfahrt beachten" begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten
+erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht
+beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als
+Ausweichen!).
+
+Nummer 69:
+
+Erläutern Sie den Begriff "Vorfahrt haben".
+"Vorfahrt haben" gilt nur für ein im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug. Das bedeutet, dass
+andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben warten
+müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. "Vorfahrt haben" bedeutet aber nicht: Vorfahrt erzwingen! Ggf. muss
+ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen.
+
+Nummer 70:
+
+Wie hat sich ein in das Fahrwasser einlaufendes Fahrzeug gegenüber im Fahrwasser fahrenden
+Fahrzeugen zu verhalten?
+
+Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d. h., es muss warten, bis das Fahrwasser frei ist. Es muss
+rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.
+
+Nummer 71:
+
+Wie hat sich ein den Ankerplatz oder Liegeplatz verlassendes Fahrzeug gegenüber im Fahrwasser
+fahrenden Fahrzeugen zu verhalten?
+Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d. h. es muss warten, bis das Fahrwasser frei ist. Es muss
+rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.
+
+Nummer 72:
+
+Welche Fahrregeln muss ein Sportfahrzeug beachten, wenn es der Richtung des Fahrwassers folgt?
+Beim Fahren im Fahrwasser muss das Sportfahrzeug sich so nahe am äußeren Rand des Fahrwassers an seiner Steuerbordseite
+halten, wie dieses ohne Gefahr möglich ist.
+
+Nummer 73:
+
+Was muss ein Sportfahrzeug in Bezug auf das Fahrwasser beachten, wenn es außerhalb des
+Fahrwassers fährt?
+Außerhalb des Fahrwassers ist so zu fahren, dass klar erkennbar ist, dass das Fahrwasser nicht benutzt wird.
+
+Nummer 74:
+
+Wie müssen sich Segelfahrzeuge verhalten, die, dem Fahrwasserverlauf folgend, sich auf (nahezu)
+entgegengesetzten Kursen begegnen?
+Jedes Fahrzeug muss nach Steuerbord ausweichen.
+
+Nummer 75:
+
+Was bedeutet "Queren eines Fahrwassers" im Sinne der SeeSchStrO?
+Queren bedeutet deutliches Abweichen vom Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung mehr als 10° (z. B. Kreuzen
+eines Segelfahrzeuges über die gesamte oder auch nur teilweise Fahrwasserbreite).
+
+Nummer 76:
+
+Wie müssen Sie die Geschwindigkeit Ihres Sportbootes einrichten, wenn Sie außerhalb eines
+Fahrwassers an Stellen mit erkennbarem Badebetrieb vorbeifahren?
+Höchstgeschwindigkeit 8 km/h im Abstand von weniger als 500 m vom Ufer.
+
+Nummer 77:
+
+Sie sehen auf der Elbe bei Nacht ein Fahrzeug mit der nachfolgenden Lichterführung.
+Um was für ein Fahrzeug handelt es sich?
+Was bedeuten die beiden roten und die beiden grünen Lichter senkrecht übereinander?
+
+Manövrierbehindertes Fahrzeug, Länge wahrscheinlich 50 m oder mehr, von vorn mit Fahrt durchs Wasser, das
+Unterwasserarbeiten ausführt (z. B. baggert).
+
+Passierseite an Steuerbord (zwei grüne Rundumlichter übereinander), Passierbehinderung an Backbord-Seite (zwei rote
+Rundumlichter übereinander).
+
+Nummer 78:
+
+Sie sehen auf der Elbe bei Tage ein Fahrzeug mit den nachfolgenden schwarzen Signalkörpern, dessen
+Bugwelle man klar erkennen kann.
+Um was für ein Fahrzeug handelt es sich?
+Was bedeuten die beiden schwarzen Bälle und die beiden schwarzen Rhomben senkrecht
+übereinander?
+
+Entgegenkommendes manövrierbehindertes Fahrzeug von vorn, mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z.
+B. baggert).
+
+Passierseite an Backbord des Baggers (zwei schwarze Rhomben übereinander), Passierbehinderung an Steuerbord-Seite des
+Baggers (zwei schwarze Bälle übereinander).
+
+Nummer 79:
+
+Beim Passieren von Cuxhaven sichten Sie, elbabwärts segelnd, an Ihrer Steuerbord-Seite die Tonne 32a.
+Um was für eine Tonne handelt es sich, welche Bezeichnung hat die nächste Tonne an der gleichen
+Seite?
+Es handelt sich um eine Backbordfahrwassertonne; die nächste Tonne hat die Aufschrift 32.
+
+Nummer 80:
+
+Welche besondere Lichterführung/Kennzeichnung ist vorgeschrieben, wenn ein Motorsportfahrzeug
+ein anderes Sportfahrzeug schleppt?
+Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten nicht als schleppende Maschinenfahrzeuge im Sinne der KVR.
+Daher keine besondere Lichterführung/Kennzeichnung.
+
+Nummer 81:
+
+Welche besonderen Bestimmungen gelten auf dem Nord-Ostsee-Kanal (NOK) für Sportfahrzeuge beim
+Schleppen?
+
+1. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen.
+2. Das geschleppte Sportfahrzeug darf nur eine Höchstlänge von weniger als 15 m haben.
+3. Die Mindestgeschwindigkeit beim Schleppen muss 9 km/h betragen.
+
+Nummer 82:
+
+Während einer Revierfahrt erkennen Sie ein Signal an Land, jeweils schwarze Signalkörper:
+
+1. Was bedeutet dieses Signal?
+2. Welches Signal wird stattdessen nachts gezeigt?
+
+1. Außergewöhnliche Schifffahrtsbehinderung.
+2. Nachts: Rundumlichter rot-rot-grün senkrecht übereinander.
+
+Nummer 83:
+
+Wer darf laut SeeSchStrO ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit
+
+des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?
+Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in
+der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken- oder Decksdienstes
+behindert ist.
+
+Nummer 84:
+
+Welche Atem- bzw. Blutalkoholkonzentration darf laut SeeSchStrO nicht erreicht werden, damit kein
+Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes
+besteht?
+0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer
+solchen Atem- oder Blutalkoholkonzentration führt.
+
+Nummer 85:
+
+Was müssen Sie beim ersten Anlaufen eines ausländischen Hafens beachten?
+Die Einreise-, Gesundheits- und Zollformalitäten sind zu erledigen.
+
+Nummer 86:
+
+Was ist ein Flaggenzertifikat?
+Für welche Fahrzeuge kann es ausgestellt werden?
+Vom BSH ausgestellter Ausweis, mit dem das Recht und die Pflicht zum Führen der Bundesflagge nachgewiesen wird. Für
+Fahrzeuge unter 15 m Lüa = "nicht registerpflichtige Fahrzeuge".
+
+Nummer 87:
+
+Was ist das Schiffszertifikat, wer stellt es aus, ab welcher Schiffslänge ist es vorgeschrieben?
+Das Schiffszertifikat ist der Nachweis, dass ein Schiff im Seeschiffsregister eingetragen ist. Ausgestellt wird es vom
+Registergericht, Vorgeschrieben ist es ab 15 m Rumpflänge.
+
+Nummer 88:
+
+Was versteht man unter dem Begriff "Küstenmeer"?
+Die seewärts der Küstenlinie bei mittlerem Hochwasser oder der Basislinie gelegenen Meeresgewässer bis zu einer Breite von 12
+
+sm.
+
+Nummer 89:
+
+Was versteht man unter dem Begriff "innere Gewässer"?
+Als "innere Gewässer" bezeichnet man die Gewässer landwärts der Basislinien.
+
+Nummer 90:
+
+Was versteht man unter dem Begriff "Basislinie" und wo finden Sie diese?
+Als Basislinie bezeichnet man die Grenze zwischen den inneren Gewässern (eines Staates) und dem Küstenmeer. Basislinien sind
+in Seekarten eingezeichnet.
+
+Nummer 91:
+
+Welche Aufgaben hat die Bundesstelle für Seeunfalluntersuchung?
+Amtliche Untersuchung eines schaden- oder gefahrverursachenden Vorkommnisses (Seeunfall) im Zusammenhang mit
+dem Betrieb eines Schiffes (z. B. Kollision zwischen zwei Fahrzeugen) und Ermittlung der Umstände, durch die es zu dem
+Seeunfall gekommen ist.
+Herausgabe von Untersuchungsberichten und insbesondere Sicherheitsempfehlungen zur Verhütung von Seeunfällen.
+
+Nummer 92:
+
+Wann liegt ein schaden- oder gefahrverursachendes Vorkommnis (Seeunfall) im Sinne des
+Seesicherheits-Untersuchungs-Gesetzes (SUG) vor?
+Nennen Sie mindestens 3 Merkmale.
+
+1. Schiffsverlust, Aufgrundlaufen, Kollision eines Schiffes,
+2. Tod oder Verschollenheit oder schwere Verletzung einer Person,
+3. maritimer Umweltschaden oder sonstiger Sachschaden,
+4. Gefahr für einen Menschen oder ein Schiff,
+5. Gefahr eines schweren Schadens an einem Schiff, einem meerestechnischen Bauwerk oder an der Meeresumwelt.
+
+Nummer 93:
+
+Was müssen Sie nach einem Seeunfall veranlassen?
+Wie kann es umgesetzt werden?
+Den Seeunfall unverzüglich der Bundesstelle für Seeunfalluntersuchung melden. Das kann in einem deutschen Einlaufhafen auch
+über die Wasserschutzpolizei bzw. im Ausland über die zuständigen Hafenbehörden veranlasst werden.
+
+Nummer 94:
+
+Welche Angaben müssen der Bundesstelle für Seeunfalluntersuchung gemeldet werden?
+Nennen Sie mindestens 5 dieser Angaben.
+Es sind folgende Angaben zu melden:
+
+Name und derzeitiger Aufenthalt des Meldenden,
+Ort (geographische Position) und Zeit des Unfalles,
+Name, Rufzeichen und Flagge des Schiffes sowie Rufnummer des zu diesem Schiff gehörenden mobilen Seefunkdienstes
+(MMSI),
+Typ, Verwendungszweck,
+Name des Betreibers des Schiffes,
+Name des verantwortlichen Schiffsführers,
+Herkunfts- und Zielhafen des Schiffes,
+Anzahl der Besatzungsmitglieder und weiterer Personen an Bord,
+Umfang des Personen- und Sachschadens,
+Darstellung des Verlaufs des Vorkommnisses,
+Angaben über andere Schiffe, die am Unfall beteiligt sind,
+Wetterbedingungen,
+Darstellung der Gefahr einer Meeresverschmutzung.
+
+Nummer 95:
+
+In welcher Vorschrift ist geregelt, welche Angaben der Bundesstelle für Seeunfalluntersuchung bei
+einem schaden- oder gefahrverursachenden Vorkommnis (Seeunfall) gemeldet werden müssen?
+Wer ist verantwortlich für die Meldung?
+Geregelt in der "Verordnung über die Sicherung der Seefahrt".
+
+Verantwortlich für die Meldung sind der Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied bzw. ggf. auch
+der Betreiber des Schiffes, falls keine der vorgenannten Personen dazu in der Lage ist.
+
+Nummer 96:
+
+Was sind Seeämter und was sind ihre Aufgaben?
+Seeämter sind bei den Wasser- und Schifffahrtsdirektionen Nord und Nordwest gebildete Untersuchungsausschüsse zur
+Untersuchung der Frage, ob gegenüber einem Verfahrensbeteiligten ein Fahrverbot ausgesprochen oder ein Befähigungszeugnis
+bzw. ein amtlicher Führerschein der Sportschifffahrt entzogen werden muss.
+
+Nummer 97:
+
+Welche behördlichen Veröffentlichungen für Wassersportler geben Ihnen rechtliche Informationen
+und Hinweise über das Verhalten auf Seeschifffahrtsstraßen?
+
+"Sicherheit auf dem Wasser, Leitfaden für Wassersportler".
+"Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler".
+
+Nummer 98:
+
+Sie sehen von Ihrem Sportfahrzeug aus in der Nordsee nördlich von Helgoland eine noch unbekannte
+Gefahr, z. B. einen teibenden Container.
+Was haben Sie zu unternehmen?
+Man muss dies auf dem schnellsten Weg direkt oder über eine Verkehrszentrale bzw. Küstenfunkstelle dem Maritimen
+Lagezentrum (MLZ) in Cuxhaven als Meldestelle für Unfälle auf See mitteilen.
+
+Nummer 99:
+
+Wann und wo wird eine Flagge des Gastlandes gehisst?
+Beim Einlaufen in die Küstengewässer des Gastlandes unter der Steuerbordsaling.
+
+Nummer 100:
+
+Wann und wo wird die Bundesflagge geführt?
+Auf in Betrieb befindlichen Yachten während der Flaggzeit in den Küstengewässern, auf See und im Hafen am Flaggenstock am
+Heck, auf segelnden mehrmastigen Yachten auch im Topp des hintersten Mastes (nicht am Achterstag).
+
+Nummer 101:
+
+Welche Befahrensregelungen gelten für die Schutzzonen I in den Nationalparks im Deutschen
+Wattenmeer außerhalb der speziellen Schutzgebiete?
+Das Verlassen der Fahrwasser zwischen 3 h nach Hochwasser und 3 h vor dem folgenden Hochwasser ist untersagt. In der
+übrigen Zeit beträgt für Sportfahrzeuge die Höchstgeschwindigkeit außerhalb des Fahrwassers 8 kn und generell im Fahrwasser
+12 kn.
+
+Nummer 102:
+
+Wo sind die Grenzen der Schutzzonen I und der speziellen Schutzgebiete in den Nationalparks
+aufgeführt?
+In den Seekarten.
+
+Nummer 103:
+
+Welchen Zweck soll das MARPOL-Übereinkommen erfüllen?
+Das MARPOL-Übereinkommen soll die Verschmutzung der Meere verhindern.
+
+Nummer 104:
+
+Was sind Sondergebiete im Sinne des MARPOL-Übereinkommens in Europa?
+Ostsee, Nordsee und Mittelmeer.
+
+Nummer 105:
+
+Was ist nach dem MARPOL-Übereinkommen für die Sportschifffahrt in Sondergebieten grundsätzlich
+verboten?
+Das Einleiten von Öl, Schiffsabwässern, Schiffsmüll und anderen Schadstoffen.
+
+Nummer 106:
+
+Gilt das MARPOL-Übereinkommen grundsätzlich auch für Sportfahrzeuge?
+Das MARPOL-Übereinkommen gilt grundsätzlich für alle Schiffe, somit auch für Sportfahrzeuge.
+
+Nummer 107:
+
+Woraus können Sie Informationen über Entsorgungsmöglichkeiten in deutschen Sportboothäfen
+entnehmen?
+Aus der Broschüre "Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer - eine Übersicht für Sport- und
+Kleinschifffahrt" des BSH.
+
+Nummer 108:
+
+Wie ist auf Sportfahrzeugen mit ölhaltigem Bilgenwasser zu verfahren, wenn die Bedingungen, unter
+denen nach MARPOL das Lenzen zulässig ist, nicht eingehalten werden können?
+Es muss im Hafen entsorgt werden.
+
+Nummer 109:
+
+Was ist hinsichtlich der Entsorgung von Müll in Nord- und Ostsee und im Mittelmeer zu beachten?
+(Begründung!)
+Da Nord-, Ostsee und Mittelmeer Sondergebiete nach MARPOL sind, darf dort kein Müll in die See entsorgt werden.
+
+Nummer 110:
+
+Welche Müllanteile dürfen in Sondergebieten nicht auf See entsorgt werden?
+Synthetische Seile, Netze, Segel, Kunststofftüten u. Ä., Papiererzeugnisse, Lumpen, Glas, Metall, Steingut, Schalungs- oder
+Verpackungsmaterial.
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Wetterkunde
+
+Wetterkunde
+Nummer 1:
+
+Was ist Wind und wie entsteht er?
+Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
+
+Nummer 2:
+
+Was ist der Taupunkt?
+Der Taupunkt ist die Temperatur, auf die Luft abgekühlt werden muss, damit sie mit Feuchtigkeit gesättigt ist. Es setzt
+Kondensation (Taubildung) ein.
+
+Nummer 3:
+
+In welcher Größe wird in der Schifffahrt die Luftfeuchtigkeit allgemein angegeben?
+Relative Feuchtigkeit in Prozent.
+
+Nummer 4:
+
+Nennen Sie mindestens 6 Parameter, aus denen sich eine Wetterbeobachtung an Bord zusammensetzt.
+Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur und ggf.
+Luftfeuchte.
+
+Nummer 5:
+
+1. In welcher Maßeinheit wird die Windstärke angegeben?
+2. In welchen Maßeinheiten wird die Windgeschwindigkeit angegeben?
+
+1. Nach der Beaufortskala (Bft).
+2. In kn, m/s und km/h.
+
+Nummer 6:
+
+1. Wie heißen die Linien gleichen Luftdrucks?
+2. In welcher Maßeinheit wird der Luftdruck angegeben?
+
+1. Isobaren.
+2. Hektopascal (hPa) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar).
+
+Nummer 7:
+
+Welche Gefahren kann ein Gewitter mit sich bringen?
+
+1. Böen bis Orkanstärke,
+2. plötzliche Winddrehungen,
+3. Regen- oder Hagelschauer mit zum Teil starker Sichtminderung,
+4. Blitzschlag.
+
+Nummer 8:
+
+Wann entstehen besonders starke Gewitter?
+Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten.
+
+Nummer 9:
+
+Welche Skala wird verwendet für die Angabe der Windrichtung in Seewetterberichten bei
+1. den Vorhersagen und Aussichten,
+2. den Stationsmeldungen?
+
+1. Die 8-teilige mit Auflösung in 45°-Stufen.
+2. Die 16-teilige mit Auflösung in 22,5°-Stufen.
+
+Nummer 10:
+
+Ab welcher Windstärke werden Orkanwarnungen ausgegeben?
+Ab Windstärke 10 Bft, erfahrungsgemäß mit Böen über Bft 12.
+
+Nummer 11:
+
+1. Welche Skala wird für die Schätzung der Windstärke verwendet?
+2. Was verstehen Sie unter mäßigem Wind, was unter Starkwind?
+
+1. Die 12-teilige Beaufortskala.
+2. Mäßiger Wind bedeutet Stärke 4 der Beaufortskala, Starkwind 6 und 7 Beaufort.
+
+Nummer 12:
+
+Welche amtlichen Veröffentlichungen enthalten Sendezeiten und Frequenzen für Seewetterberichte
+1. für Europa,
+2. Europa und weltweit?
+
+1. Das "Handbuch Nautischer Funkdienst" und der "Jachtfunkdienst".
+2. Die "Admiralty List of Radio Signals".
+
+Nummer 13:
+
+Nennen Sie 6 Möglichkeiten, um Wetterinformationen an Bord zu erhalten.
+Hörfunksender (UKW, KW, MW, LW), Küstenfunkstellen, Verkehrszentralen, NAVTEX, SafetyNet (Satcom), Online-Dienste
+(z. B. SEEWIS-Online des Deutschen Wetterdienstes, T-Online), RTTY (Funkfernschreiben), Faskimile (Wetterfax), Faxpolling
+(z. B. SEEWIS-Fax des Deutschen Wetterdienstes), Telefonabruf, Törnberatung.
+
+Nummer 14:
+
+Welche Bedeutung für die Wetterentwicklung hat ein Halo um die Sonne und ein Hof um den Mond?
+
+Wolkenaufzug, meist Cirrostratus.
+Ggf. Niederschlag und Wetterverschlechterung.
+
+Nummer 15:
+
+Bei welchen Wolkenformen müssen Sie mit erhöhter Böigkeit rechnen?
+
+Bei Haufenwolken, besonders beim Cumulonimbus (Schauer- und Gewitterwolke).
+
+Nummer 16:
+
+1. Welche Formen von Wolken gibt es?
+2. Nennen Sie 6 der 10 Haupttypen!
+
+1. Es gibt Haufenwolken und Schichtwolken.
+2. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
+
+Nummer 17:
+
+1. Welche Höhen unterscheidet man bei Wolken?
+2. Welche Höhen haben sie etwa in den gemäßigten Breiten?
+
+1. Tiefe, mittelhohe und hohe Wolken.
+2. Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.
+
+Nummer 18:
+
+Woraus bestehen hohe Wolken?
+Aus kleinen Eiskristallen.
+
+Nummer 19:
+
+Woran erkennt man bei Wolkenbildung eine kräftige Gewitterentwicklung?
+Am Cumulonimbus, wenn er in großer Höhe einen ambossförmigen Schirm hat.
+
+Nummer 20:
+
+Welche Wolken kündigen oft schon vormittags kräftige Wärmegewitter an?
+Altocumulus castellanus (mittelhohe türmchenartige Haufenwolken).
+
+Nummer 21:
+
+Wie verhält sich der Wind in Bodennähe auf der Nordhalbkugel zwischen Hoch- und
+Tiefdruckgebieten?
+Er weht rechtsherum aus dem Hochdruckzentrum heraus und linksherum in den Tiefdruckkern hinein.
+
+Nummer 22:
+
+1. Was ist eine Front?
+2. Welche Fronten unterscheidet man im Allgemeinen?
+
+1. Front ist die vordere Grenze einer Luftmasse in Bewegungsrichtung.
+2. Warm-, Kalt- und Okklusionsfronten.
+
+Nummer 23:
+
+Wie verhält sich typischerweise der Luftdruck
+1. vor,
+2. während und
+3. nach dem Durchzuug einer Kaltfront?
+
+1. Der Luftdruck ist gleichbleibend oder fälllt nur wenig.
+2. Während des Durchgangs der Front erreicht der Luftdruck seinen tiefsten Wert.
+3. Der Luftdruck steigt wieder deutlich an.
+
+Nummer 24:
+
+Was lässt sich aus der Darstellung der Isobaren in einer Wetterkarte erkennen?
+Windrichtung und Druckgefälle; je enger sie liegen, desto größer ist das Druckgefälle und desto stärker ist der Wind.
+
+Nummer 25:
+
+Warum weht der Wind nicht parallel zu den Isobaren? (Begründung)
+Durch die Bodenreibung ist der Wind rückgedreht (gegen den Uhrzeigersinn).
+
+Nummer 26:
+
+1. Wie weht der Wind über See in Bodennähe um ein Tiefdruckgebiet?
+2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?
+
+1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht in das Tief hinein.
+2. Ein bis zwei Strich bzw. ca. 10° bis 20°.
+
+Nummer 27:
+
+1. Wie weht der Wind über See in Bodennähe um ein Hochdruckgebiet?
+2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?
+
+1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht aus dem Hoch hinaus.
+2. Ein bis zwei Strich bzw. 10° bis 20°.
+
+Nummer 28:
+
+Welche Verlagerungsgeschwindigkeiten haben Tiefdruckgebiete:
+1. schnelle,
+2. mittlere,
+3. langsame?
+
+1. Schnelle: 30 bis 50 kn.
+2. Mittlere: 15 bis 30 kn.
+3. Langsame: bis 15 kn.
+
+Nummer 29:
+
+Wie entstehen Tiefdruckgebiete?
+Durch das Aufeinandertreffen von kalten Luftmassen aus hohen Breiten und subtropischen warmen Luftmassen.
+
+Nummer 30:
+
+Welche Windverhältnisse herrschen in der Nähe des Zentrums eines Hochdruckgebiets?
+Meist schwache umlaufende Winde.
+
+Nummer 31:
+
+In welchem Abstand werden Isobaren international dargestellt oder gezeichnet?
+Im Abstand von 5 hPa oder im Abstand von 5 mbar.
+
+Nummer 32:
+
+Welche Sicht- und Wetterverhältnisse erwarten Sie typischerweise
+1. vor oder nahe der Warmfront,
+2. im Warmsektor,
+3. hinter der Kaltfront?
+
+1. Sichtverschlechterung durch Niederschlag, bedeckt, länger andauernder Regen.
+2. Diesig oder mäßige Sicht, Wolkenauflockerung, zeitweise Regen
+3. Sichtbesserung, meist gute Sicht. Schauer mit zum Teil kräftigen Böen.
+
+Nummer 33:
+
+Welche Windrichtungen erwarten Sie an den Punkten 1, 2, 3, 4, 5 eines Tiefdruckgebiets auf der
+Nordhalbkugel?
+
+1. Nordost.
+2. Süd.
+3. Südwest.
+4. Nordwest.
+5. Umlaufender Wind.
+
+Nummer 34:
+
+Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?
+
+1. Okklusionsfront (Tiefausläufer).
+2. Warmfront.
+3. Kaltfront.
+
+Nummer 35:
+
+1. Was sind Luftmassengrenzen?
+2. Welche Luftmassengrenzen kennen Sie? Nennen Sie mindestens 2 Beispiele.
+
+1. Luftmassengrenzen sind Fronten. Sie trennen Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit.
+2. Kaltfront, Warmfront, Okklusion.
+
+Nummer 36:
+
+Mit welchen lokalen Windsystemen müssen Sie insbesondere im Mittelmeer rechnen?
+Mit der Land-/Seewind-Zirkulation.
+
+Nummer 37:
+
+Nennen Sie mindestens 3 regionale Windsysteme im Mittelmeer, die beim küstennahen Segeln im
+Mittelmeer besonders beachtet werden müssen.
+
+Mistral,
+Scirocco,
+Bora und
+Etesien/Meltemi.
+
+Nummer 38:
+
+Mit welchem regionalen Windsystem muss in der Adria gerechnet werden?
+Mit Bora.
+
+Nummer 39:
+
+Mit welchem regionalen Windsystem muss in der Ägäis gerechnet werden?
+Mit den Etesien/dem Meltemi.
+
+Nummer 40:
+
+Wo bilden sich Tröge um ein Tiefdruckgebiet?
+Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft. Ein Trog folgt typischerweise einer Kaltfront.
+
+Nummer 41:
+
+Welche Front wird auch als "Ausläufer" bezeichnet?
+Die Okklusion.
+
+Nummer 42:
+
+Wodurch und wie entsteht am Tage Seewind?
+Das Land erwärmt sich bei Sonneneinstrahlung tagsüber stärker als das Wasser. Über Land steigt die erwärmte Luft auf. Das
+dabei entstehende Bodentief wird durch Seewind (Wind von See) aufgefüllt.
+
+Nummer 43:
+
+Welche Wolkenform zeigt sich am späten Vormittag über Land am Himmel und kündigt Seewind an?
+Haufenwolke (Cumulus).
+
+Nummer 44:
+
+Welche Windgeschwindigkeiten in Knoten oder Beaufort erreicht der Seewind etwa
+1. im Mittelmeer,
+2. in Nord- und Ostsee?
+
+1. Bis zu 25 kn oder Bft 6.
+2. Bis 15 kn, in Einzelfällen bis 20 kn oder Bft 4/5, in Einzelfällen Bft 5/6.
+
+Nummer 45:
+
+Zu welcher Tageszeit müssen Sie mit Seewind rechnen?
+Von Mittag bis zum frühen Abend.
+
+Nummer 46:
+
+Welche Windänderung kann der einsetzende Seewind bewirken?
+Er verändert den vorher wehenden Wind zum Teil erheblich in Richtung und Stärke.
+
+Nummer 47:
+
+Wodurch und wie entsteht nachts Landwind?
+Das Land kühlt sich bei geringer Bewölkung stark ab. Das Wasser ändert seine Temperatur an der Oberfläche dagegen nur
+geringfügig. Über dem Wasser steigt daher erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Landwind (Wind von
+Land) aufgefüllt.
+
+Nummer 48:
+
+Welche Windgeschwindigkeiten erreicht nachts der Landwind?
+Er weht allgemein schwächer als der Seewind, etwa 1 bis 10 kn oder Bft 1-3.
+
+Nummer 49:
+
+Wann müssen Sie im Laufe eines Tages mit Landwind rechnen?
+Von Mitternacht bis zum frühen Morgen.
+
+Nummer 50:
+
+Im Internet finden Sie auf einer "Wetterseite" eine Vorhersagekarte mit Windpfeilen.
+In welcher Höhe über dem Erdboden/der Wasseroberfläche gelten die vorhergesagten
+Windgeschwindigkeiten?
+Meistens etwa 10 Meter über dem Erdboden/der Wasseroberfläche.
+
+Nummer 51:
+
+Sie segeln mit Ihrer Yacht "raumschots".
+Nach der nächsten Tonne müssen Sie anluven.
+Wie wird sich die wahre Windgeschwindigkeit auf Ihrem Windmesser/Anemometer entwickeln?
+Sie bleib unverändert.
+
+Nummer 52:
+
+Welche Windsituation ist mit der Formulierung "Nordwest 6" bezüglich
+1. der Schwankungsbreite in Windrichtung und
+2. der Schwankungsbreite in der Windstärke (Böen) verbunden?
+1. Die Schwankung in der Windrichtung kann bis zu 45° um die Hauptwindrichtung betragen, also von Westnordwest (WNW)
+bis Nordnordwest (NNW).
+2. Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.
+
+Nummer 53:
+
+Was ist mit dem Zusatz "Schauerböen" bei der Windvorhersage verbunden?
+Besonders während der Passage und auf der Rückseite von Kaltfronten treten in der näheren Umgebung von Schauern Böen auf,
+die den Mittelwind um 2 Bft überschreiten können.
+
+Nummer 54:
+
+Warum werden Gewitterböen in der Windvorhersage zusätzlich angegeben?
+Besonders im Sommer können bei Schwachwindlagen Gewitter mit Böen auftreten, die Sturm- oder Orkanstärke erreichen
+können.
+
+Nummer 55:
+
+Wie ist der Aufbau von Seewetterberichten?
+Hinweise auf Starkwind oder Sturm, Wetterlage, Vorhersagen, Aussichten und Stationsmeldungen.
+
+Nummer 56:
+
+Welche lokalen Effekte, die das vorherrschende Windfeld stark verändern, können in
+Seewetterberichten nur eingeschränkt berücksichtigt werden?
+U. a. Land-/Seewind-Zirkulation, Düsen- und Kapeffekte.
+
+Nummer 57:
+
+1. Wann werden Starkwindwarnungen verbreitet?
+2. Welche Bezeichnung hat die Starkwindwarnung im internationalen Sprachgebrauch?
+
+1. Bei erwarteten oder noch andauernden Windstärken zwischen 6 und 7 Bft.
+2. Near-gale warning.
+
+Nummer 58:
+
+1. Wann werden Sturmwarnungen verbreitet?
+2. Welche Bezeichnung hat die Sturmwarnung im internationalen Sprachgebrauch?
+
+1. Bei zu erwartenden oder noch andauernden Windstärken von mindestens 8 Bft.
+2. Gale warning.
+
+Nummer 59:
+
+Welche Wellenhöhe wird bei der Angabe des Seegangs in Seewetterberichten verwendet?
+Die kennzeichnende (charakteristische) Wellenhöhe.
+
+Nummer 60:
+
+1. Wie ist die kennzeichnende (charakteristische) Wellenhöhe definiert?
+2. Womit müssen Sie rechnen?
+
+1. Mittlere Höhe der gut ausgeprägten (Mittel des oberen Drittels) - nicht extremen - Wellen.
+2. Einzelne Wellen können das 1,5fache der kennzeichnenden Wellenhöhe erreichen.
+
+Nummer 61:
+
+Was bedeutet rechtdrehender bzw. rückdrehender Wind?
+Rechtdrehend bedeutet Änderung der Windrichtung im Uhrzeigersinn. Rückdrehend bedeutet Änderung der Windrichtung gegen
+den Uhrzeigersinn um mindestens 45°.
+
+Nummer 62:
+
+Sie hören am Ende eines Seewetterberichts die Stationsmeldungen.
+Was sagen Windrichtung und Windgeschwindigkeit gegenüber den Verhältnissen auf See aus?
+Durch die Umgebung der Wetterstation kann die Windrichtung verfälscht werden. Die Windgeschwindigkeit ist meist reduziert, in
+Einzelfällen auch erhöht.
+
+Nummer 63:
+
+Welche Sichtweiten umfasst der Begriff "diesig"?
+Sichtweiten über 1 km bis 10 km (bzw. ca. 0,5 bis 6 Seemeilen).
+
+Nummer 64:
+
+Seegebiete sind international festgelegt.
+In welchen amtlichen Veröffentlichungen können Sie nachlesen, wo sich das Seegebiet "Fischer"
+befindet?
+
+Im "Handbuch Nautischer Funkdienst", im "Jachtfunkdienst für Nord- und Ostsee" oder in der "Admiralty List of Radio Signals".
+
+Nummer 65:
+
+Sie wollen einen Törn in einem für Sie fremden Küstenrevier fahren.
+Wie können Sie sich über mittlere Windverhältnisse für bestimmte Jahreszeiten oder Monate
+informieren?
+In den entsprechenden Hafen-, Revierführern. Außerdem z. B. in Monatskarten.
+
+Nummer 66:
+
+1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3
+Stunden um 10 hPa fällt?
+2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?
+
+1. Schwerer Sturm.
+2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet.
+
+Nummer 67:
+
+Wie verändert sich der an Bord beobachtete Luftdruckfall, wenn sich ein Fahrzeug mit Westkurs dem
+Zentrum eines ostwärts ziehenden Tiefdruckgebiets nähert?
+Der Luftdruckfall wird verstärkt.
+
+Nummer 68:
+
+Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie im Hafen liegen und der Wind ablandig
+weht?
+Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen nicht den Verhältnissen auf der freien See.
+
+Nummer 69:
+
+Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie in einem relativ ungeschützten Hafen
+liegen und der Wind auflandig weht?
+Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen etwa den Verhältnissen auf der freien See.
+
+Nummer 70:
+
+Warum verstärkt sich der Wind in engen Durchfahrten?
+Durch den Düseneffekt (Trichtereffekt) in Durchfahrten. Dabei wird die Luftströmung "zusammengepresst" und beschleunigt.
+
+Nummer 71:
+
+Mit welcher Windentwicklung ist zu rechnen
+1. in Luv und
+2. in Lee von Kaps oder Inseln?
+1. Die Windrichtung ändert sich in Luv des Kaps zum Teil stark und verläuft oft parallel zum Kap. Die Windgeschwindigkeit nimmt
+zu.
+2. Die Windrichtung kann bei besonders hohen Gebirgen auch umlaufend werden. Die Windgeschwindigkeit ist meist schwach,
+kann dafür örtlich aber sehr böig sein (Fallwinde).
+
+Nummer 72:
+
+Welche Windverhältnisse erwarten Sie in der Nähe von Steilküsten
+1. bei auflandigem und
+2. bei ablandigem Wind?
+
+1. Der Wind wird durch Küstenführung zum Teil beschleunigt, wenn er nahezu auflandig oder parallel zur Küste weht.
+2. Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.
+
+Nummer 73:
+
+Wie wird sich das Wetter wahrscheinlich entwickeln, wenn der Wind am Abend
+1. abflaut oder
+2. zunimmt?
+
+1. Langsames Abflauen des Windes ist oft ein Zeichen für gutes Wetter.
+2. Windzunahme am Abend kündigt häufig Starkwind, Sturm und Regen an.
+
+Nummer 74:
+
+1. Womit müssen Sie auf der Nordhalbkugel rechnen, wenn nach Durchzug einer Kaltfront der Wind
+rückdreht und der Luftdruck wieder fällt?
+
+2. Wie nennt man die Wetterlage?
+
+1. Meist deutliche Wetterverschlechterung mit erneut auffrischendem Wind bis Sturmstärke.
+2. Troglage.
+
+Nummer 75:
+
+Welche Windverhältnisse erwarten Sie auf der Nordhalbkugel während der unmittelbaren Passage
+eines markanten Troges?
+Der Wind dreht recht, meist über 60 bis 90°. Winde bis Orkanstärke besonders auf der Rückseite eines Troges.
+
+Nummer 76:
+
+Wie entsteht Nebel?
+Zufuhr von Feuchte, Mischung von Luftmassen mit hoher Feuchtigkeit und verschiedener Temperatur, Abkühlung der Luftmasse.
+
+Nummer 77:
+
+Wie ist Nebel definiert?
+Sichtweite unter 1 000 Meter.
+
+Nummer 78:
+
+1. Wie entsteht Kaltwassernebel?
+2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?
+
+1. Warme und feuchte Luftmassen werden durch den kalten Untergrund (Meer) unter den Taupunkt abgekühlt.
+2. Überwiegend im Frühjahr.
+
+Nummer 79:
+
+1. Wie entsteht Warmwassernebel?
+2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?
+1. Kalte Luft strömt über warmes Wasser. Durch Verdunstung an der Wasseroberfläche kommt es bei hoher Differenz zwischen
+
+der Luft- und Wassertemperatur zur Feuchtesättigung.
+2. Überwiegend im Herbst.
+
+Nummer 80:
+
+1. Wie entsteht Strahlungsnebel?
+2. Wo ist diese Nebelart anzutreffen?
+
+1. Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land unter den Taupunkt abkühlen.
+2. Besonders auf Flüssen und engen Durchfahrten, außerdem durch seewärtige Windverdriftung in Küstennähe.
+
+Nummer 81:
+
+Wodurch kann es im Mittelmeerraum in besonderen Fällen zur Sichtreduktion kommen?
+Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter Saharastaub die Sicht stark vermindern.
+
+Nummer 82:
+
+Woraus besteht Seegang?
+Aus Windsee und Dünung.
+
+Nummer 83:
+
+Was verstehen Sie unter Windsee?
+Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird.
+
+Nummer 84:
+
+Wovon hängt die Höhe der Windsee ab?
+Windgeschwindigkeit, Fetch (Windwirklänge) und Wirkdauer des Windes.
+
+Nummer 85:
+
+1. Was verstehen Sie unter Dünung?
+2. Was kann einsetzende hohe Dünung andeuten?
+
+1. Seegang, der dem erzeugenden Windfeld vorausläuft, sowie abklingender (alter) Seegang.
+2. Einen eventuell aufziehenden Sturm.
+
+Nummer 86:
+
+Was verstehen Sie unter der Wellenhöhe?
+Der senkrechte Abstand zwischen Wellenberg und Wellental.
+
+Nummer 87:
+
+Was verstehen Sie unter der Wellenlänge?
+Der horizontale Abstand zwischen zwei Wellenbergen.
+
+Nummer 88:
+
+Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei ablandigem Wind fahren?
+Der Seegang wird nicht so hoch sein wie auf der freien See, da der Fetch (Windwirklänge) nur sehr kurz ist.
+
+Nummer 89:
+
+1. Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei auflandigem Wind fahren?
+2. Welche Gefahr besteht bezüglich der Entwicklung des Seegangs außerdem?
+
+1. Der Seegang wird ähnlich ausgeprägt sein wie auf der freien See, da genügend Fetch (Windwirklänge) vorhanden ist.
+2. Dort, wo das Wasser flacher wird, oder im Bereich von Untiefen muss mit Brechern und Grundseen gerechnet werden.
+
+Nummer 90:
+
+1. Was verstehen Sie unter einer Grundsee?
+2. Welche Höhen kann sie erreichen?
+1. Meereswellen mit besonders hohen Brechern, die durch Untiefen oder Küstennähe bzw. durch ansteigenden Meeresboden
+
+entstehen.
+2. Etwa das 2,5fache der kennzeichnenden (charakteristischen) Wellenhöhe.
+
+Nummer 91:
+
+Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z. B. Gezeitenstrom) entgegengesetzte
+Richtungen haben?
+Die Wellen werden kürzer und steiler.
+
+Nummer 92:
+
+Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z. B. Gezeitenstrom) die gleiche
+Richtung haben?
+Die Wellen werden länger und flacher.
+
+Nummer 93:
+
+1. Was verstehen Sie unter einer Kreuzsee?
+2. Geben Sie 3 Beispiele an, wo mit Kreuzsee zu rechnen ist.
+
+1. Windsee und Dünung laufen aus unterschiedlichen Richtungen heran.
+2. Kurz vor und bei dem Durchzug einer Kaltfront oder eines Troges sowie in der Nähe des Tiefkerns.
+
+Nummer 94:
+
+Welcher Seegang ist in Lee kleiner Inseln zu erwarten?
+Kreuzlaufende See, die meist kurz und kabbelig ist.
+
+Nummer 95:
+
+Welche Faktoren können die Länge und Höhe des Seegangs erheblich verändern?
+Wassertiefe sowie Meeres- und Gezeitenströmungen.
+
+Nummer 96:
+
+Im Internet finden Sie auf einer "Wetterseite" eine Vorhersagekarte für die Dünung.
+Können Sie daraus ungefähr den vorherrschenden Wind über See ableiten?
+Nein. Dünung kann vorhanden sein, auch wenn kein Windfeld unmittelbar vorhanden ist.
+
+Nummer 97:
+
+Mit welchem Messinstrument wird an Bord die Windgeschwindigkeit gemessen?
+Mit einem Anemometer.
+
+Nummer 98:
+
+Welche Windgeschwindigkeit zeigt das Anemometer an, wenn das Fahrzeug Fahrt durchs Wasser
+macht?
+Die scheinbare Windgeschwindigkeit.
+
+Nummer 99:
+
+1. Warum sollten Luftdrucktendenzen an Bord beobachtet und aufgezeichnet werden?
+2. In welchem zeitlichen Abstand sollte man den Luftdruck aufzeichnen?
+
+1. Eventuelle Wetterveränderungen (z. B. Trog, Annäherung eines Tiefdruckgebiets) können registriert werden.
+2. Mindestens alle 4 Stunden.
+
+Nummer 100:
+
+Mit welchem Messinstrument wird an Bord der Luftdruck gemessen?
+Mit dem Barometer oder Barographen.
+
+Nummer 101:
+
+1. Wie bestimmen Sie an Bord die Windstärke, wenn keine Windmessanlage vorhanden ist?
+2. Wie bestimmen Sie an Bord die Windrichtung, wenn keine Windmessanlage vorhanden ist?
+
+1. Die Windstärke wird geschätzt mit Hilfe der Beaufortskala in Anlehnung an das Seegangsbild.
+2. Die Windrichtung wird anhand der Verlagerung der Wellenkämme geschätzt.
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Seemannschaft I
+
+Seemannschaft I (Antriebsmaschine und unter Segel)
+Nummer 1:
+
+Was versteht man im Bootsbau unter Gelcoat?
+Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff.
+
+Nummer 2:
+
+Was versteht man beim GFK-Bootsbau unter Sandwichverfahren (GFK = glasfaserverstärkter
+Kunststoff)?
+Zwischen zwei GFK-Schichten wird eine Zwischenlage zur Versteifung einlaminiert, z. B. aus Balsaholz.
+
+Nummer 3:
+
+Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK =
+glasfaserverstärkter Kunststoff)?
+Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung.
+
+Nummer 4:
+
+Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.
+
+Vorteile:
+zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer.
+
+Nachteile:
+hohes Gewicht, Rostanfälligkeit.
+
+Nummer 5:
+
+Was bedeutet der Begriff "Kategorie" im Zusammenhang mit dem CE-Zeichen für
+Wassersportfahrzeuge?
+Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebiet, bis zu welcher Windstärke und bis zu welcher charakteristischen
+Wellenhöhe das Fahrzeug sicher betrieben werden kann.
+
+Nummer 6:
+
+Welche Kategorien können im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge
+vergeben werden?
+
+1. A Hochsee,
+2. B Außerhalb von Küstengewässern,
+3. C Küstennahe Gewässer,
+4. D Geschützte Gewässer.
+
+Nummer 7:
+
+Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene
+Kategorie "B Außerhalb von Küstengewässern"?
+Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und
+signifikante Wellenhöhen bis einschließlich 4 m auftreten können.
+
+Nummer 8:
+
+Beschreiben Sie den Aufbau einer Radsteuerung mit Seilzügen.
+Das Rad dreht ein Zahnrad, über das eine Kette in der Steuersäule nach unten verläuft. Die Kette ist mit den Steuerseilen
+verbunden, welche über Umlenkrollen zum Ruderquadranten führen.
+
+Nummer 9:
+
+Wie nennt man die Teile des "stehenden Gutes", die den Mast nach vorn, achtern und seitlich
+verankern?
+Stagen und Wanten.
+
+Nummer 10:
+
+1. Wozu dienen Backstagen?
+2. Bei welchen Takelungen werden sie vor allem gefahren?
+
+1. Zum zusätzlichen Abstagen des Mastes nach achtern.
+2. Bei 7/8-Takelung und anderen nicht toppgetakelten Yachten.
+
+Nummer 11:
+
+Was ist das "laufende Gut"?
+Tauwerk, das zum Setzen, Bergen oder Bedienen der Segel oder anderer Teile der Takelage dient.
+
+Nummer 12:
+
+Was gehört zur regelmäßigen Pflege der Segel?
+
+1. Nasse Segel trocknen,
+2. Segel vor Sonnenlicht schützen,
+3. Salzwasserreste abspülen und
+4. Beschädigungen umgehend beseitigen.
+
+Nummer 13:
+
+Warum sollten Vorsegel für schweres Wetter im Unterliek hoch geschnitten sein?
+Damit überkommende Seen nicht ins Segel schlagen und so Rigg und Segel belasten.
+
+Nummer 14:
+
+Was ist ein Trysegel und wie wird es gefahren?
+Ein Schwerwettersegel, das anstelle des Großsegels mit losem Unterliek gefahren wird.
+
+Nummer 15:
+
+Warum soll man das Schlagen eines Segels vermeiden, vor allem bei stärkerem Wind?
+Um Beschädigungen zu vermeiden.
+
+Nummer 16:
+
+Wozu dienen Segellatten?
+Zur Profilierung des Segels, damit das Achterliek nicht einklappt.
+
+Nummer 17:
+
+Wozu dient ein "Cunningham-Stropp"?
+Zur Regulierung der Vorliekspannung des Großsegels, um es so zu trimmen.
+
+Nummer 18:
+
+Welche Segel sollte eine Segelyacht in der Küstenfahrt mindestens an Bord haben?
+
+1. Reffbares Großsegel,
+2. reffbare Rollfock oder Vorsegel verschiedener Größen,
+3. Sturmfock.
+
+Nummer 19:
+
+Wozu dient eine Vorsegel-Rollreffeinrichtung?
+Mit ihr wird das Vorsegel um das Vorstag gerollt und kann so stufenlos verkleinert werden.
+
+Nummer 20:
+
+Wozu dient eine Großsegel-Rollreffeinrichtung?
+Mit ihr wird das Großsegel entweder im Mast oder im Baum aufgerollt und kann stufenlos verkleinert werden.
+
+Nummer 21:
+
+Wozu dient der Lenzkorb am Ansaugstutzen einer Lenzpumpe und wie erhalten Sie damit ihre
+Funktionsfähigkeit?
+Der Lenzkorb verhindert Verunreinigungen und Verstopfungen der Lenzpumpe. Er muss regelmäßig überprüft und gereinigt
+werden.
+
+Nummer 22:
+
+Welche Lenzvorrichtungen und -möglichkeiten sollten auf jeder seegehenden Yacht vorhanden sein?
+Zwei voneinander unabhängige Bilgenpumpen, von denen eine über Deck und eine unter Deck bedienbar ist, sowie 2 Pützen mit
+Leinen.
+
+Nummer 23:
+
+Warum sollten Sie mehr als einen Anker an Bord haben, möglichst unterschiedlicher Art?
+
+1. Als Ersatz bei Verlust,
+2. zum Verwarpen oder Verkatten,
+3. um unterschiedliche Ankergründe berücksichtigen zu können,
+4. um bei schwerem Wetter oder in Tidengewässern vor 2 Ankern liegen zu können.
+
+Nummer 24:
+
+Wie viele Fender und Festmacherleinen sollten Sie mindestens an Bord haben?
+4 Festmacherleinen und 4 Fender.
+
+Nummer 25:
+
+Was sollte auf jeder Yacht außer Festmacherleinen, Fallen und Schoten an Tauwerk vorhanden sein?
+Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.
+
+Nummer 26:
+
+Für welche unterschiedlichen Reparaturbereiche sollten Sie Ersatzteile und Werkzeug an Bord haben?
+
+1. Segelreparaturen,
+2. Reparaturen an Rumpf und Rigg,
+3. Motorreparaturen,
+4. Elektroreparaturen und
+5. Reparaturen an Schlauchleitungen.
+
+Nummer 27:
+
+Welches Werkzeug sollten Sie zur Segelreparatur an Bord haben?
+Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch.
+
+Nummer 28:
+
+Ihr Mast ist gebrochen, eine Bergung ist nicht möglich.
+Welche Werkzeuge benötigen Sie, um die Takelage zu kappen?
+Bolzenschneider, Metallsäge mit Ersatzblättern, Schraubenschlüssel und verschiedene Zangen.
+
+Nummer 29:
+
+Welches Kleinmaterial und Kleinwerkzeug muss an Bord jederzeit greifbar sein?
+Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser und Kombizange.
+
+Nummer 30:
+
+Womit muss insbesondere eine Yacht mit Radsteuerung zusätzlich ausgerüstet sein, und warum sollten
+alle Mitsegler mit dieser Einrichtung vertraut sein?
+Mit einer Notpinne. Sie muss ggf. in kürzester Zeit einsatzbereit sein.
+
+Nummer 31:
+
+Wo finden Sie amtliche Informationen über die Ausrüstung und Sicherheit von Sportbooten, die auch
+
+bei der Beurteilung von Sportbootunfällen herangezogen werden?
+1. "Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler", herausgegeben vom BSH,
+2. "Sicherheit auf dem Wasser, Leitfaden für Wassersportler", herausgegeben vom Bundesministerium für Verkehr, Bau und
+Stadtentwicklung.
+
+Nummer 32:
+
+Warum müssen auf Yachten zusätzlich zu elektrisch oder motorgetriebenen Lenzpumpen auch
+Handlenzpumpen vorhanden sein?
+Weil sie auch bei Strom- oder Motorausfall betätigt werden können.
+
+Nummer 33:
+
+Warum ist Flüssiggas (Propan, Butan) an Bord einer Yacht besonders gefährlich?
+Es ist schwerer als Luft, sinkt nach unten und bildet mit Luft ein explosives Gemisch; es kann sich im Schiffsinneren (z. B. in der
+Bilge) sammeln.
+
+Nummer 34:
+
+Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?
+
+1. Seeventil und Spülwasserschlauch (Seewasser),
+2. Handpumpe für Toilettenspülung,
+3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen),
+4. Abwasserschlauch (via Fäkalientank) zum Seeventil.
+
+Nummer 35:
+
+Beschreiben Sie in 5 Schritten die Bedienung eines Bord-WC auf einer Yacht.
+
+1. Seeventil für Seewasserspülung öffnen,
+2. Handpumpe betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen - ausgiebig spülen,
+3. Seewasserzufuhr unterbrechen (Hebel umlegen),
+4. Becken mit Handpumpe leer pumpen,
+
+5. Seeventile für Zu- und Abfluss schließen.
+
+Nummer 36:
+
+Was versteht man unter der "Stabilität" eines Schiffes?
+Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung
+wieder aufzurichten.
+
+Nummer 37:
+
+Wovon hängt die Stabilität eines Schiffes in ruhigem Wasser ab?
+Nennen Sie Beispiele für äußere Momente, welche die Stabilität beanspruchen.
+Die Stabilität eines Schiffes hängt ab von:
+
+1. seiner Geometrie (Form),
+2. der Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast).
+
+Beispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seitenwind, Trossenzug oder Drehkreisfahrt bei
+schnellen Motoryachten.
+
+Nummer 38:
+
+Wovon hängt eine in ruhigem Wasser vorhandene Stabilität zusätzlich in schwerem Wetter ab?
+Die Stabilität in schwerem Wetter hängt zusätzlich von Wind und Seegang, besonders von brechenden Wellen ab.
+
+Nummer 39:
+
+Was versteht man unter
+1. Formschwerpunkt (F)?
+2. Massenschwerpunkt (Gewichtsschwerpunkt, G)?
+Welche Kräfte wirken in den beiden Punkten?
+1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die
+Auftriebskraft senkrecht zur Wasseroberfläche nach oben.
+2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In
+G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten.
+
+Nummer 40:
+
+Was geschieht bei einer Neigung des Schiffes, z. B. durch seitlichen Winddruck, solange sich die Lage
+des Massenschwerpunktes (Gewichtsschwerpunktes) nicht verändert? (Begründung!)
+Der Formschwerpunkt F wandert zur geneigten Seite aus, weil dort ein größerer Teil des Bootskörpers unter Wasser gelangt. Die
+Wirklinie der Auftriebskraft bekommt dadurch einen seitlichen Abstand zur Wirklinie der Gewichtskraft. Es entsteht ein Kräftepaar,
+der seitliche Abstand zwischen den Wirklinien ist der Hebelarm. Es entsteht ein aufrichtendes Moment, welches gleich dem
+Produkt aus Gewichtskraft und Hebelarm ist.
+
+Nummer 41:
+
+Erklären Sie mit Hilfe eines Vektorparallelogramms aus "wahrem Wind (wW)", "Fahrtwind (Fw)" und
+"scheinbarem Wind (sW)", warum beim Einfallen einer Bö (Windzunahme) der "scheinbare Wind"
+raumt.
+Welcher Vorteil ergibt sich dadurch beim Kreuzen?
+(Zeichnung!)
+
+Verhältnisse vor Einfall der Bö
+
+Verhältnisse bei Einfall der Bö:
+Der "scheinbare Wind" fällt etwas achterlicher ein, er "raumt", und das Segelboot kann etwas höher an den "wahren Wind" gehen.
+
+Nummer 42:
+
+Auf Amwindkurs mussten Sie reffen.
+Ein entgegenkommendes Boot gleicher Größe segelt ungerefft.
+Wie erklären Sie das?
+Der "scheinbare Wind" ist unterschiedlich stark. Er ist auf Amwindkursen stärker und auf Raumschot- oder Vorwindkursen
+schwächer als der "wahre Wind".
+
+Nummer 43:
+
+Warum wird die Versetzung einer Yacht durch den Wind mit zunehmender Krängung größer?
+Der Lateralplan wird kleiner, dadurch verringert sich der seitliche Widerstand des Schiffes im Wasser.
+
+Nummer 44:
+
+Welchen Einfluss hat zunehmende Krängung auf den Trimm eines Segelbootes?
+(Begründung!)
+Die Luvgierigkeit nimmt zu, weil der Segeldruckpunkt nach Lee auswandert.
+
+Nummer 45:
+
+Sie segeln am Wind, Krängung und Ruderdruck nehmen stark zu.
+1. Wie bezeichnet man das Verhalten des Bootes?
+2. Mit welchen Mitteln können Sie die Krängung und den Ruderdruck vermindern?
+
+1. Luvgierigkeit.
+2. Traveller nach Lee setzen und/oder Großschot (etwas) fieren, Großsegel reffen.
+
+Nummer 46:
+
+Welche Funktion hat ein Unterliekstrecker und wie kann mit dem Unterliekstrecker der Trimm des
+Großsegels beeinflusst werden?
+Er reguliert die Spannung der Unterlieks. Je nach Zugkraft wird der untere Teil des Großsegels flacher oder bauchiger.
+
+Nummer 47:
+
+Das Vorliek der Fock wirft Falten.
+Welches ist die häufigste Ursache?
+Das Fall ist nicht genügend durchgesetzt.
+
+Nummer 48:
+
+Das Unterliek Ihres Vorsegels killt.
+
+Was ist die Ursache?
+Der Holepunkt der Schot liegt zu weit vorne.
+
+Nummer 49:
+
+Das Achterliek Ihres Vorsegels killt.
+Was ist die Ursache?
+Der Holepunkt der Schot liegt zu weit achtern.
+
+Nummer 50:
+
+Wozu dienen Windfäden am Segel?
+Sie machen den Strömungsverlauf am Segel sichtbar, um das Segel optimal trimmen zu können.
+
+Nummer 51:
+
+1. Wann sollte ein Großsegel flach getrimmt sein?
+2. Wie kann ein Großsegel flach getrimmt werden?
+
+1. Bei Starkwind.
+2. Dichtholen von Unterliek- und Vorliekstrecker, Dichtholen der Großschot, Durchsetzen des Großfalls, Spannung des
+Achterstags erhöhen, Traveller nach Lee.
+
+Nummer 52:
+
+Mit welchen 6 Teilen des laufenden und stehenden Guts können Sie ein Großsegel trimmen?
+Großschot, Traveller, Unterliekstrecker, Cunninghamstrecker, Großfall, Achterstagspanner.
+
+Nummer 53:
+
+Wozu dienen "Opferanoden" und wann sollten sie ausgewechselt werden?
+Sie dienen dem Schutz gegen Schäden durch Elektrolyse. Verbrauchte Anoden müssen nach einer Saison ersetzt werden, nicht
+erst wenn sie verbraucht sind.
+
+Nummer 54:
+
+Wie schützt man auf Kunststoffyachten den Propeller gegen Elektrolyse?
+Durch eine Zinkanode auf der Propellerwelle.
+
+Nummer 55:
+
+Welche Sicherheitsmaßnahmen sind vor und beim Tanken von Diesel zu treffen?
+
+1. Maschine abstellen,
+2. offenes Feuer löschen (Rauchen einstellen),
+3. Maßnahmen gegen Überlaufen treffen.
+
+Nummer 56:
+
+Wie können Sie beim Tanken Umweltverschmutzungen vermeiden?
+
+1. Tanköffnung mit Ölbindetüchern umlegen,
+2. möglichst an Zapfsäulen mit Zapfhahn tanken,
+3. beim Tanken aus Kanistern großen Trichter mit Schlauch benutzen,
+4. Nachfüllen aus Kanistern bei Wind und bewegter See möglichst vermeiden.
+
+Nummer 57:
+
+Wozu dient das Wendegetriebe eines Motors?
+
+1. Zum Ein- und Auskuppeln des Propellers,
+2. zum Umsteuern des Propellers auf Rückwärtsfahrt,
+3. zur Drehzahluntersetzung.
+
+Nummer 58:
+
+Welche Maßnahmen sind vor dem Anlassen eines eingebauten Motors zu treffen?
+
+1. Hauptstromschalter einschalten,
+2. Kraftstoff- und Kühlwasserventile öffnen,
+3. Getriebe auf "neutral" stellen.
+
+Nummer 59:
+
+Was sollte nach dem Anlassen der Maschine kontrolliert werden?
+
+1. Kühlwasserdurchlauf,
+2. Öldruck und Ladung,
+3. Motorengeräusche und
+4. Auspuffgase.
+
+Nummer 60:
+
+Was können erste Störungsanzeichen im Motorbetrieb sein?
+Ungewöhnliche und fremde Motorengeräusche, Vibrationen, Verfärbung der Abgase, Aufleuchten der Ladekontrolle bzw.
+Öldruckkontrolle und die entsprechenden akustischen Warnungen.
+
+Nummer 61:
+
+Wie können Sie einen Dieselmotor abstellen, wenn die vorgesehene Abstellvorrichtung defekt ist?
+
+1. Kraftstoffzufuhr unterbrechen.
+2. Verschließen des Luftansaugrohres/der Luftansaugrohre.
+
+Nummer 62:
+
+Der Dieselmotor Ihres Bootes startet nicht.
+Welche Fehler, die Sie selber überprüfen können, könnten die Ursache sein?
+
+1. Anlasserdrehzahl zu gering (Batterie zu schwach),
+2. kein Kraftstoff im Tank,
+3. Luft in der Kraftstoffleitung,
+4. falsche Bedienung der Kaltstarthilfe (eventuell Vorglühen zu kurz),
+
+5. Anlasser defekt.
+
+Nummer 63:
+
+Der Motor Ihres Bootes bleibt beim Einkuppeln stehen.
+Nennen Sie mögliche Ursachen.
+1. Propellerwelle durch Tauwerk o. Ä. blockiert,
+2. Schwerlauf des Getriebes wegen defekter Zahnräder, Lagerschaden, dicken Öls oder
+3. verbogene Propellerwelle.
+
+Nummer 64:
+
+Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an.
+Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet.
+1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung
+unwahrscheinlich ist?
+2. Wie können Sie die Störung einfach beheben?
+
+1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o. Ä.) haben den Kühlwassereinlass verstopft.
+2. Mehrmals abwechselnd vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen.
+
+Nummer 65:
+
+Welche Propeller werden auf Yachten mit Einbaumotor eingesetzt?
+Festflügelpropeller, Faltpropeller, Drehflügelpropeller und Verstellpropeller.
+
+Nummer 66:
+
+Was müssen Sie beim Aufstoppen unter Maschine mit einem Faltpropeller beachten?
+Der Propeller entfaltet sich eventuell erst bei relativ hoher Drehzahl und der Wirkungsgrad ist geringer als beim Festflügelpropeller.
+
+Nummer 67:
+
+Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?
+
+Anzahl der Flügel, Größe ihrer Fläche, Durchmesser und Steigung.
+
+Nummer 68:
+
+Was sollten Sie beachten, wenn Sie den kleinen Außenborder mit eingebautem Tank Ihres Beibootes an
+Bord verstauen?
+(Begründung!)
+
+1. Tank und Vergaser müssen leer sein.
+2. Lagerung an Deck oder in einer Backskiste mit Außenentlüftung, niemals unter Deck.
+3. Restbenzin und entweichende Benzingase bilden mit Luft ein leicht entzündliches Gemisch.
+
+Nummer 69:
+
+Wozu dient ein Wasserabscheider in der Kraftstoffleitung?
+In ihm sammelt sich das Kondenswasser aus dem Tank; dadurch werden Startschwierigkeiten vermieden.
+
+Nummer 70:
+
+Warum sollten Sie bei seltener Motorbenutzung den eingebauten Tank eines Dieselmotors möglichst
+voll getankt halten?
+Um Kondenswasserbildung zu verringern, was zu Startschwierigkeiten führen kann.
+
+Nummer 71:
+
+Welche Motor-Ersatzteile bzw. Schmierstoffe sollten Sie mindestens an Bord haben?
+
+1. Impeller für die Wasserpumpe,
+2. Reservekeilriemen,
+3. Motorenöl,
+4. Dichtungsmaterial.
+
+Nummer 72:
+
+1. Was bedeutet die Angabe einer Batteriekapazität "2 x 60 Ah"?
+(Begründung!)
+2. Welche Nettokapazität steht in dem Fall zur Verfügung? (Begründung!)
+
+1. Es handelt sich um 2 Batterien (Akkus) mit jeweils 60 Amperestunden, insgesamt also 120 Ah Nennkapazität.
+2. Dem entspricht eine Nettokapazität von etwa 72 Ah, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden
+kann.
+
+Nummer 73:
+
+Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei
+Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!
+
+Benötigte Strommenge je Verbraucher:
+24 : 12 = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt:
+2 x 2 A x 10 h = 40 Ah.
+
+Nummer 74:
+
+Wie muss Tauwerk beschaffen sein, das für Festmacherleinen, Anker- und Schlepptrossen verwendet
+wird?
+Es muss bruchfest und elastisch sein.
+
+Nummer 75:
+
+Wodurch können Sie verhindern, dass Festmacherleinen durch Schamfilen in Klüsen oder an Kanten
+an der Pier beschädigt werden?
+Durch einen gegen Verrutschen gesicherten Plastikschlauch, der über den Festmacher an der Scheuerstelle gezogen wird,
+hilfsweise mit Tuchstreifen.
+
+Nummer 76:
+
+Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?
+Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten.
+
+Nummer 77:
+
+Wodurch können Sie verhindern, dass bei Tauwerk aus unterschiedlichem Innen- und Außenmaterial
+die Seele in den Mantel rutscht?
+Durch einen genähten Takling.
+
+Nummer 78:
+
+Wie sind längsseits liegende Fahrzeuge festzumachen?
+Ergänzen Sie die Skizze und benennen Sie die Leinen.
+
+1. Achterleine,
+2. Achterspring,
+3. Vorspring,
+4. Vorleine.
+
+Nummer 79:
+
+Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier
+mit vorspringenden Pfählen versehen ist?
+Ergänzen Sie die Skizze mit Leinen.
+
+Nummer 80:
+
+Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?
+Umweltschutzbestimmungen beachten, d. h., das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen
+und Wasser und Schmutz auffangen, also nicht in die Kanalisation leiten.
+
+Nummer 81:
+
+Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht.
+Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?
+
+1. Schlechte Kontakte und Korrosion.
+2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden.
+
+Nummer 82:
+
+Warum müssen Schäden im Gelcoat unverzüglich beseitigt werden?
+Das Laminat unter der Gelcoatschicht nimmt sonst Wasser auf und wird dadurch geschädigt.
+
+Nummer 83:
+
+Welche Daten sollten mindestens an Bord im Logbuch dokumentiert werden?
+
+1. Namen und Funktionen der Crewmitglieder,
+2. Beginn und Ende einer Fahrt und
+3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck.
+
+Nummer 84:
+
+Worauf müssen Sie vor dem Setzen des Großsegels achten?
+Welche Gefahr besteht nach dem Setzen des Großsegels, solange der Wind von vorne kommt?
+
+1. Großschot und Baumniederholer müssen ausreichend Lose haben.
+2. Das Großfall muss frei laufen und darf nicht vertörnt sein.
+3. Verletzungsgefahr durch schlagenden Großbaum.
+
+Nummer 85:
+
+Was tun Sie, wenn Ihr Großsegel unter der untersten Lattentasche einreißt?
+
+1. Untere Latte entfernen.
+2. Segel bis über den Riss reffen.
+
+Nummer 86:
+
+Beschreiben Sie die Schritte für den Reffvorgang mit dem Bindereff.
+
+1. Sicherstellen, dass Dirk angeschlagen oder Baum durch stützenden Baumniederholer in der Höhe gehalten wird,
+2. Fall fieren und Segel etwas herunterholen,
+3. Segelhals in Reffhaken am Lümmelbeschlag einhaken und festsetzen,
+4. Fall wieder dichtholen,
+5. Segelschothorn (hintere Reffkausch) mit Schmeerreep oder Reffleine nach achtern auf den Baum holen und
+6. eventuell loses Segeltuch auftuchen und mit Reffbändseln/Reffleine einbinden.
+
+Nummer 87:
+
+1. Wozu dient ein "Bullenstander"?
+2. Wie wird er gefahren?
+
+1. Er soll das ungewollte Überkommen des Großbaums bei achterlichen Winden verhindern.
+2. Von der Baumnock zum Vorschiff.
+
+Nummer 88:
+
+Warum muss beim Segeln vor dem Wind oder mit raumem Wind der Baumniederholer entsprechend
+der Windstärke durchgesetzt werden?
+Um das Steigen des Baumes zu verhindern.
+
+Nummer 89:
+
+Wenn gleich große Boote im Päckchen oder in der Box zusammenliegen, kann es zu Berührungen und
+Schäden in der Takelage kommen.
+Wie ist das zu verhindern?
+Boote versetzt legen, damit Masten nicht auf gleicher Höhe sind oder im Wechsel Heck-Bug zur Pier legen.
+
+Nummer 90:
+
+Worauf ist beim Liegen in einer Box in Bezug auf benachbarte Boote zu achten, wenn Schwell in den
+Hafen läuft?
+Dass benachbarte Boote mit ihren Masten versetzt liegen und nicht gegeneinander schlagen.
+
+Nummer 91:
+
+Sie sind mit Ihrer Segelyacht auf See.
+Was veranlassen Sie bei einem Gewitteraufzug?
+
+1. Vorsegel rechtzeitig verkleinern,
+2. Großsegel klar zum Reffen oder Bergen,
+3. Schlechtwetterkleidung, Sicherheitsgurte und Rettungswesten anlegen,
+4. Position in Karte eintragen.
+
+Nummer 92:
+
+Sie übernehmen in einem Hafen eine Ihnen unbekannte Yacht.
+Wie machen Sie sich zu Reisebeginn mit den Segeleigenschaften vertraut?
+Ich fahre diverse Manöver - Wende, Halse, Q-Wende, verschiedene Rettungsmanöver - mit unterschiedlicher Geschwindigkeit und
+Besegelung.
+
+Nummer 93:
+
+Wie verhalten Sie sich nach einem Mastbruch, was müssen Sie veranlassen?
+
+1. Nach Möglichkeit den Mast an Bord nehmen und sichern.
+2. Falls nicht möglich, Mast und Wanten kappen, um Rumpfschäden zu vermeiden.
+
+Nummer 94:
+
+Von welchen Faktoren ist die Länge eines Nahezu-Aufschießers zu einer im Wasser treibenden Person
+abhängig?
+Geschwindigkeit, Wind, Seegang, Strömung und Form und Gewicht des Bootes.
+
+Nummer 95:
+
+Sie wollen in eine Box einlaufen.
+Wie bereiten Sie die Achterleinen vor und machen sie fest?
+Achterleinen mit Auge versehen (z. B. Palstek), möglichst früh über die Pfähle legen, bei seitlichem Wind zuerst über den Luvpfahl.
+
+Nummer 96:
+
+Welche Vorbereitung haben Sie für ein Anlegemanöver zu treffen?
+
+1. Crew für Manöver einteilen.
+2. Leinen und Fender bereitlegen.
+
+Nummer 97:
+
+Welchen Nachteil hat ein "Saildrive-Antrieb" insbesondere bei Hafenmanövern?
+Durch den großen Abstand zwischen Propeller und Ruder wird dieses nicht direkt angeströmt. Das kann die Manövrierfähigkeit
+beim Anfahren etwas verschlechtern.
+
+Nummer 98:
+
+Was ist ein Bugstrahlruder und wozu dient es?
+Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein Drehen des Buges bei
+geringen Vorausgeschwindigkeiten erreicht werden kann.
+
+Nummer 99:
+
+Bei welchen Manövern können Sie ein Bugstrahlruder sinnvoll einsetzen?
+
+1. Beim An- und Ablegen.
+2. Beim Drehen auf engem Raum.
+
+Nummer 100:
+
+Sie liegen längsseits mit der Steuerbordseite an einer Pier.
+Beschreiben Sie ein Ablegemanöver unter gleichzeitigem Einsatz von Bugstrahlruder und Maschine.
+1. Hebel für Bugstrahlruder nach Backbord legen, sodass der Bug von der Pier weggedrückt wird (nach Backbord schwenkt) und
+gleichzeitig
+2. Ruderlage deutlich nach Steuerbord und langsame Fahrt voraus, sodass das Heck nach Backbord ausschwenkt.
+
+So wird das Schiff fast parallel von der Pier abgedrückt.
+
+Nummer 101:
+
+Wie können Sie im freien Seeraum auf einer Segelyacht einen Sturm abwettern?
+
+1. Durch Beiliegen; Lenzen vor Topp und Takel, dabei Leinen achteraus schleppen; Liegen vor Treibanker oder
+2. unter Sturmbesegelung aktiv segelnd und nach Möglichkeit brechende Seen aussteuernd.
+
+Nummer 102:
+
+Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich
+werden?
+Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstrom.
+
+Nummer 103:
+
+Warum kann eine Leeküste bei schwerem Wetter einer Segelyacht gefährlich werden?
+Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.
+
+Nummer 104:
+
+Mit welchem Manöver können Sie bei Starkwind das Halsen vermeiden (Name)?
+Vervollständigen Sie die Skizze durch Einzeichnen der Kurslinie und geben Sie die erforderlichen
+Manöver an.
+
+Nummer 105:
+
+Was erreicht man mit dem Ausbringen eines Treibankers bei schwerer See?
+Man hält bei richtiger Leinenlänge den Bug im Wind und verringert die Driftgeschwindigkeit.
+
+Nummer 106:
+
+Worauf müssen Sie achten, wenn Sie in Tidengewässern längsseits einer Pier festgemacht haben?
+
+1. Die Wassertiefe muss auch bei Niedrigwasser ausreichen oder sicheres Aufsetzen muss gewährleistet sein.
+2. Die Leinen müssen für den Tidenstieg oder -fall ausreichend lang sein. Bei größerem Tidenhub darf das Fahrzeug keinesfalls
+unbeaufsichtigt bleiben.
+
+Nummer 107:
+
+Sie kreuzen bei frischem Wind und mitlaufendem Strom (Wind gegen Strom) nach Luv auf.
+Welche Auswirkungen hat ein gegen den Wind setzender Strom auf den Seegang?
+Durch den Strom entsteht eine kurze, steile und kabbelige See.
+
+Nummer 108:
+
+Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeugs und die Loganzeige aus?
+
+1. Der Strom erhöht die Fahrt über Grund.
+2. Das Log zeigt dies nicht an.
+
+Nummer 109:
+
+Welche Hilfsmittel können Sie einsetzen, um einen Überbordgefallenen an Deck zu bekommen?
+Bewegliche (und gesicherte) Badeleiter, eventuell Großschot, beschwerte Trittschlinge, Rettungstalje, Unterfangen mit kleinem
+Segel, Bergegurt, Dingi.
+
+Nummer 110:
+
+Welche Sofortmaßnahmen sind einzuleiten, wenn jemand über Bord gefallen ist?
+
+1. Ruf "Mensch über Bord!"
+
+2. Rettungsmittel zuwerfen,
+3. Ausguck halten, Mensch im Auge behalten,
+4. Maschine starten,
+5. "Mensch-über-Bord-Manöver" einleiten,
+6. Notmeldung abgeben,
+7. ggf. Markierungsblitzboje werfen,
+8. ggf. MOB-Taste eines satellitengestützten Navigationsgerätes drücken,
+9. Bergung durchführen.
+
+Nummer 111:
+
+Welche Maßnahmen können gegen das Überbordfallen getroffen werden?
+
+1. Sicherheitsgurte anlegen und einpicken.
+2. Anbringen von "Streck-" oder Laufleinen vom Bug zum Heck.
+3. Crew auf Befestigungspunkte (Einpickpunkte für Karabinerhaken) hinweisen.
+
+Nummer 112:
+
+Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.
+
+1. Maschine starten,
+2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person,
+3. "Mensch-über-Bord-Manöver", Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung,
+4. Bergung, sicheres und schnelles Anbordnehmen der Person,
+5. Erste Hilfe, Betreuung,
+6. ggf. Notalarm abgeben.
+
+Nummer 113:
+
+Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche
+nach einem Überbordgefallenen sichern?
+
+1. Markierungsblitzboje,
+
+2. MOB-Taste eines satellitengestützten Navigationsgerätes (z. B. GPS).
+
+Nummer 114:
+
+Was gehört u. a. zur Sicherheitsausrüstung z. B. einer 10-m-Yacht?
+Nennen Sie mindestens 6 Ausrüstungsgegenstände.
+
+1. Lenzpumpen und Pützen,
+2. Lecksicherungsmaterial,
+3. Feuerlöscher,
+4. Werkzeuge und Ersatzteile,
+5. Seenotsignalmittel,
+6. Handlampen,
+7. Funkeinrichtung,
+8. Anker,
+9. Erste-Hilfe-Ausrüstung,
+10. Radarreflektor und
+11. Rettungsmittel.
+
+Nummer 115:
+
+Was gehört zur Sicherheitsausrüstung der Besatzung in der Küstenfahrt?
+
+1. Rettungsweste und Sicherheitsgurt (Lifebelt) für jedes Besatzungsmitglied,
+2. Rettungsfloß (Rettungsinsel),
+3. Rettungskragen mit Tag- und Nachtsignal und
+4. Erste-Hilfe-Ausrüstung mit Anleitung.
+
+Nummer 116:
+
+Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines Rettungsfloßes?
+Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft
+über den nächsten Wartungstermin.
+
+Nummer 117:
+
+Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?
+Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette.
+
+Nummer 118:
+
+Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?
+Ein neben der Fußreling verlaufender Draht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum
+Einpicken der Sicherheitsleine (Lifebelt).
+
+Nummer 119:
+
+Welche Seenotsignalmittel sollten Sie an Bord haben?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Handfackeln, rot,
+2. Handraketen, rot,
+3. Rauchfackeln oder Rauchtopf, orange,
+4. Signalpistole mit Munition,
+5. Seewasserfärber,
+6. Signalflaggen N und C,
+7. Signallampe,
+8. Seenotfunkboje.
+
+Nummer 120:
+
+Welche Feuerlöscheinrichtungen sollten an Bord vorhanden sein?
+1. Feuerlöscher (ABC-Pulverlöscher und eventuell CO22-Löscher),
+2. Pütz zum Löschen von Bränden fester Stoffe,
+3. Feuerlöschdecke,
+4. Löschdurchlass für geschlossene Motorräume, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt
+ermöglicht.
+
+Nummer 121:
+
+Welche Feuerlöscharten sind für Sportboote geeignet?
+Wie und wo sind sie an Bord unterzubringen?
+
+1. Der ABC-Pulverlöscher, für geschlossene Motorräume der CO2-Löscher,
+2. Der Feuerlöscher muss gebrauchsfertig und leicht erreichbar sein, CO2-Löscher nicht im Schiffsinneren unterbringen
+(Erstickungsgefahr bei Leckage).
+3. Er soll in der Nähe der Maschinenräume, der Kombüse bzw. der Koch- oder Heizstelle montiert sein.
+
+Nummer 122:
+
+Wie wird die ständige Funktionssicherheit eines Feuerlöschers sichergestellt?
+
+1. Durch Einhaltung des vorgeschriebenen Prüftermins, ersichtlich aus der Prüfplakette.
+2. Der Feuerlöscher muss vor Feuchtigkeit und Korrosion geschützt werden.
+
+Nummer 123:
+
+Wie wird ein Brand an Bord wirksam bekämpft?
+
+1. Alle Öffnungen schließen,
+2. Brennstoffzufuhr (Hauptschalter) unterbrechen,
+3. Feuerlöscher erst am Brandherd betätigen,
+4. Feuer von unten und von vorn bekämpfen,
+5. Löschdecke einsetzen,
+6. Flüssigkeitsbrände nicht mit Wasser bekämpfen.
+
+Nummer 124:
+
+Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Seetüchtigkeit der Yacht,
+2. Zahl und Zustand der Segel,
+
+3. Treibstoffvorrat,
+4. Navigationsunterlagen,
+5. Sicherheitseinweisung der Besatzung,
+6. Rettungsmittel,
+7. Seenotsignale,
+8. Trinkwasser- und Proviantvorräte,
+9. Funktionsfähigkeit des Motors,
+10. Funktionsfähigkeit der elektronischen Navigationsgeräte,
+11. Lenzeinrichtungen,
+12. Feuerlöscher,
+13. Boots- und Personalpapiere,
+14. Betriebsfähigkeit der UKW-Seefunkanlage.
+
+Nummer 125:
+
+Was gehört zur Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn?
+Nennen Sie mindestens 6 Beispiele.
+Einweisung in Gebrauch und Bedienung
+
+1. der Rettungswesten und Sicherheitsgurte,
+2. des Rettungsfloßes,
+3. der Signalmittel,
+4. der Lenzpumpen,
+5. der Seeventile und des Bord-WC,
+6. der Kocheinrichtung,
+7. der Feuerlöscher,
+8. der Motoranlage,
+9. der Elektroanlage,
+10. des Rundfunkgerätes und der UKW-Seefunkanlage,
+11. Verhalten bei "Mensch-über-Bord",
+12. Erkennen und Verhalten bei Seekrankheit.
+
+Nummer 126:
+
+In welche technischen Einrichtungen/Ausrüstungen muss der Schiffsführer die Besatzung vor
+Reiseantritt unbedingt einweisen?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Ankergeschirr,
+2. Lenzeinrichtung,
+3. Feuerlöscheinrichtungen,
+4. Motoranlage,
+5. Seeventile,
+6. UKW-Seefunkanlage,
+7. MOB-Taste von satellitengestützten Navigationsgerät (z. B. GPS),
+8. Seenotsignalmittel,
+9. Notrudereinrichtung.
+
+Nummer 127:
+
+Welche Sicherheitsmaßnahmen sind vor jedem Auslaufen durchzuführen?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Wetterbericht einholen,
+2. Kontrolle der Sicherheitseinrichtung,
+3. Kontrolle von Motor und Schaltung,
+4. Kontrolle der nautischen Geräte,
+5. Kontrolle der Bilge,
+6. Überprüfen des Wasser- und Kraftstoffvorrats,
+7. Kontrolle der Schall- und Lichtsignaleinrichtung,
+8. Kontrolle der Navigationslichter,
+9. Bereitlegen der aktuellen Seekarten und nautischen Veröffentlichungen.
+
+Nummer 128:
+
+Warum sollten alle Crewmitglieder Lage und Funktion sämtlicher Pumpen und Ventile kennen?
+Damit im Bedarfsfall sie jeder bedienen kann.
+
+Nummer 129:
+
+Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?
+Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann.
+
+Nummer 130:
+
+Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines
+Ankermanövers eingewiesen werden?
+Damit jeder den Anker sicher ausbringen und einholen kann.
+
+Nummer 131:
+
+Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?
+
+1. Meldung abgeben.
+2. Je nach Erfordernissen Fahrt aus dem Schiff nehmen.
+3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten.
+4. Küste bzw. flaches Wasser ansteuern.
+5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist.
+
+Nummer 132:
+
+Was tun Sie, wenn Ihr Schiff leckgeschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter
+steigt?
+
+1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten.
+2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen.
+3. Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen.
+
+Nummer 133:
+
+Welche Folgen können Grundberührungen und harte Stöße, z. B. bei Anlegemanövern oder Kollisionen
+mit treibenden Gegenständen haben?
+
+1. Eine Beschädigung der Bordwand kann eintreten.
+2. Es kann Sinkgefahr entstehen.
+
+Nummer 134:
+
+Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen
+werden, wenn Ihr Schiff in Seenot kommt?
+
+1. Ruhe bewahren und überlegt handeln.
+2. Notalarm abgeben, ggf. Radartransponder einschalten.
+3. Rettungsfloß klarmachen.
+4. Rettungsweste und Sicherheitsgurt anlegen.
+5. So lange wie möglich an Bord bleiben.
+6. Wärmende Kleidung anziehen.
+
+Nummer 135:
+
+Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein Rettungsfloß übersteigen?
+
+1. Rettungsweste und Sicherheitsgurt anlegen.
+2. Wärmende Kleidung anziehen.
+3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken.
+4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKWHandsprechfunkgeräte in das Rettungsfloß bringen.
+
+Nummer 136:
+
+Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?
+
+1. Die Überlebensmöglichkeiten sind auf dem Schiff größer.
+2. Ein Schiff ist besser zu orten.
+3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein.
+
+Nummer 137:
+
+Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!
+
+1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken.
+2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen.
+3. Die Arme müssen nach unten gedrückt werden und die Hände sind zu schließen.
+4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden.
+
+Nummer 138:
+
+Wann dürfen Notzeichen gegeben werden?
+Nach Feststellung des Notfalls auf Anordnung des Schiffsführers; bei unmittelbarer Gefahr für das Schiff oder die Besatzung, die
+ohne fremde Hilfe nicht überwunden werden kann.
+
+Nummer 139:
+
+Wann darf ein UKW-Sprechfunkgerät auch ohne entsprechenden Befähigungsnachweis benutzt
+werden?
+In Notfällen.
+
+Nummer 140:
+
+Worauf ist zu achten, wenn Crewmitglieder seekrank sind?
+
+1. Aufenthalt im Cockpit beaufsichtigen und Crewmitglieder gegen Überbordfallen sichern,
+2. Flüssigkeitsverlust ausgleichen (Wasser),
+3. Crewmitglied anhalten, zur Küste oder zum Horizont zu schauen,
+4. mit Arbeiten beschäftigen.
+
+Nummer 141:
+
+Wozu dient ein Reitgewicht (Gleitgewicht, Ankergewicht) beim Ankern?
+Es soll die Ankertrosse auf den Grund ziehen, damit der Anker nicht durch einen zu steilen Winkel aus dem Grund gebrochen wird.
+Es wirkt ruckdämpfend.
+
+Nummer 142:
+
+Warum sollte beim Verwenden einer Ankertrosse ein Kettenvorlauf benutzt werden?
+Damit der Zug auf den Anker nicht zu steil wird.
+
+Nummer 143:
+
+Welcher Ankergrund ist für die üblichen Leichtgewichtsanker
+1. gut geeignet?
+2. mäßig geeignet?
+3. ungeeignet?
+
+1. Sand, Schlick, weicher Ton und Lehm,
+2. harter Ton und Lehm,
+3. steinige, verkrautete und stark schlammige Böden.
+
+Nummer 144:
+
+Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?
+
+1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten.
+2. Auf ausreichenden Platz zum Schwojen achten.
+3. Mögliche Winddrehungen einplanen.
+
+Nummer 145:
+
+Welchen Ankergrund sollten Sie nach Möglichkeit meiden?
+Steinige, verkrautete und stark schlammige Böden.
+
+Nummer 146:
+
+Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z. B. zwischen zwei
+Stegen) nicht die erforderliche Kettenlänge stecken können?
+Mit einem Reitgewicht, um so den Anker besser am Boden zu halten.
+
+Nummer 147:
+
+Sie ankern in einer Bucht.
+Wie können Sie bei zunehmendem Wind die Haltekraft Ihres Ankers verbessern?
+
+1. Mehr Trosse oder Kette stecken,
+2. Reitgewicht verwenden.
+
+Nummer 148:
+
+Sie wollen auf verkrautetem Grund ankern.
+Ihnen steht ein Leichtgewichtsanker und ein Stockanker zur Verfügung.
+Welchen benutzen Sie und warum?
+Den Stockanker, weil er sich insbesondere auch aufgrund seines höheren Gewichtes besser eingräbt.
+
+Nummer 149:
+
+Wozu dient eine Ankerboje?
+
+1. Sie zeigt die Lage des Ankers an.
+2. Mit der Trippleine kann das Bergen eines unklaren Ankers unterstützt werden.
+
+Nummer 150:
+
+Wie erkennen Sie, ob der Anker hält?
+
+1. Vibration von Kette oder Trosse prüfen,
+2. Einrucken des Ankers prüfen,
+3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken,
+4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten.
+
+Nummer 151:
+
+Welche Ankerarten finden überwiegend auf Sportbooten Verwendung?
+Nennen Sie 3.
+
+1. Patentanker,
+
+2. Stockanker (einklappbarer Stock),
+3. Draggen (klappbare Flunken),
+4. Pflugscharanker.
+
+Nummer 152:
+
+Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.
+Bruce-Anker, CQR-Anker, Danforth-Anker, D'Hone-Anker.
+
+Nummer 153:
+
+1. Welches sind die Vorteile einer Ankerkette gegenüber einer Ankerleine?
+2. Wie kombiniert man auf Yachten häufig die Systeme?
+1. Die Kette unterstützt das Eingraben, verkleinert den Schwojeraum, wirkt ruckdämpfend, kann nicht an Steinen durchscheuern
+und erhöht die Haltekraft des Ankers.
+2. Es wird zwischen Anker und Leine ein Kettenvorlauf von 3 bis 5 m gefahren.
+
+Nummer 154:
+
+1. Warum soll eine Ankerleine nicht an den Anker geknotet werden?
+2. Warum muss die Ankerkette mit einem Taustropp am Schiff bzw. im Kettenkasten befestigt werden?
+
+1. Knoten reduzieren die Bruchlast einer Leine um bis zu 50 %.
+2. Damit die Kette im Notfall schnell gekappt werden kann.
+
+Nummer 155:
+
+Sie wollen in einer Bucht ankern, in der das (ausreichend tiefe) Wasser unterschiedliche Färbungen
+zeigt.
+Wo wählen Sie den Akerplatz?
+(Begründung!)
+
+Ich ankere auf hellem Wasser.
+Begründung: Der Grund ist hier sandig, der Anker hält gut. Dunkler Grund weist auf Bewuchs hin, wo der Anker schlecht hält.
+
+Nummer 156:
+
+Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?
+Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten.
+
+Nummer 157:
+
+Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?
+
+1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),
+2. u. U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus,
+3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet,
+4. Beeinträchtigung durch Bugwellen des großen Schiffes,
+5. mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.
+
+Nummer 158:
+
+Warum sollten Sie nicht zu dicht hinter dem Heck eines vorbeifahrenden Schiffes durchfahren?
+Sog und Hecksee können das eigene Boot erheblich gefährden.
+
+Nummer 159:
+
+Was müssen Sie beim Passieren eines großen Schiffes bei dessen Kursänderungen, z. B. in einem
+kurvenreichen Fahrwasser, beachten?
+Bei einer Kursänderung schwenkt das Heck deutlich in die entgegengesetzte Richtung aus, also nach Backbord bei einer
+Kursänderung nach Steuerbord und umgekehrt.
+
+Nummer 160:
+
+Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und
+wovon hängen sie ab?
+Abhängig von Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12fachen Schiffslänge und
+bis zu 8 bis 12 Minuten Dauer (z. B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm,
+Stoppzeit ca. 12 Minuten) zu rechnen.
+
+Nummer 161:
+
+Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage
+eingeleitet wird?
+Nach welcher Distanz verlässt es in etwa die alte Kurslinie?
+Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das
+Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten
+Kursrichtung fort.
+Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d. h. ca. 500 bis 600 m betragen.
+
+Nummer 162:
+
+Auf vielen großen Schiffen ist die Sicht nach vorne eingeschränkt.
+Welchen Abstand vor einem Schiff müssen Sie als nicht einsehbar mindestens berücksichtigen?
+Sichtbeschränkung nach voraus maximal 2 Schiffslängen oder 500 m.
+
+Nummer 163:
+
+Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu
+werden?
+Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen "aktiven"
+Radarreflektor.
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Sie sind hier:
+
+ELWIS
+
+Sportschifffahrt
+
+Sportbootführerscheine
+
+Fragenkatalog SKS
+
+Seemannschaft II
+
+Seemannschaft II (Antriebsmaschine)
+Nummer 1:
+
+Welche Bootsbau-Werkstoffe finden im Sportbootbau für den Rumpf überwiegend Verwendung?
+1. GFK = glasfaserverstärkter Kunststoff,
+2. Stahl,
+3. Aluminium,
+4. wasserfest verleimtes Sperrholz,
+5. Massivholz.
+
+Nummer 2:
+
+Was versteht man unter einem Gleiter (schnelle Schiffe) und welche Fahreigenschaften hat solch ein
+Motorboot?
+Schnelle Schiffe, deren Gewicht überwiegend von Antriebskomponenten getragen wird (flache und breite Konstruktion) und die
+auf glattem Wasser bei höherer Geschwindigkeit in Gleitfahrt kommen. Bei Seegang können die Boote hart aufschlagen, sodass
+die Konstruktionen stark beansprucht werden.
+
+Nummer 3:
+
+Was versteht man unter einem "Verdränger" und welche Fahreigenschaften hat solch ein Motorboot?
+Konventionelle Schiffe - unabhängig vom Tiefgang -, deren Gewicht ausschließlich vom hydrostatischen Auftrieb getragen wird und
+deren Geschwindigkeit dementsprechend beschränkt ist (Rumpfgeschwindigkeit).
+
+Nummer 4:
+
+Was versteht man unter einem "Halbgleiter" und welche Fahreigenschaften hat solch ein Motorboot?
+
+Halbgleiter sind Motorboote mit geringem Tiefgang, sehr hoher Formstabilität und schneller Fahrweise bei starker Motorisierung.
+
+Nummer 5:
+
+Was versteht man im Bootsbau unter Gelcoat?
+Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff.
+
+Nummer 6:
+
+Was versteht man beim GFK-Bootsbau unter Sandwichverfahren (GFK = glasfaserverstärkter
+Kunststoff)?
+Zwischen zwei GFK-Schichten wird eine Zwischenlage zur Versteifung einlaminiert, z. B. aus Balsaholz.
+
+Nummer 7:
+
+Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK =
+glasfaserverstärkter Kunststoff)?
+Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung.
+
+Nummer 8:
+
+Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.
+
+Vorteile:
+zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer.
+
+Nachteile:
+hohes Gewicht, Rostanfälligkeit.
+
+Nummer 9:
+
+Was bedeutet der Betriff "Kategorie" im Zusammenhang mit dem CE-Zeichen für
+Wassersportfahrzeuge?
+Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebit, bis zu welcher Windstärke und bis zu welcher charakteristischen
+Wellenhöhe das Fahrzeug sicher betrieben werden kann.
+
+Nummer 10:
+
+Welche Kategorien können im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge
+vergeben werden?
+
+1. A Hochsee,
+2. B Außerhalb von Küstengewässern,
+3. C Küstennahe Gewässer,
+4. D Geschützte Gewässer.
+
+Nummer 11:
+
+Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene
+Kategorie "B Außerhalb von Küstengewässern"?
+Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und
+signifikante Wellenhöhen bis einschließlich 4 m auftreten können.
+
+Nummer 12:
+
+Beschreiben Sie den Aufbau einer Radsteuerung mit Seilzügen.
+Das Rad dreht ein Zahnrad, über das eine Kette in der Steuersäule nach unten verläuft. Die Kette ist mit den Steuerseilen
+verbunden, welche über Umlenkrollen zum Ruderquadranten führen.
+
+Nummer 13:
+
+Wozu dient der Lenzkorb am Ansaugstutzen einer Lenzpumpe und wie erhalten Sie seine
+Funktionsfähigkeit?
+Der Lenzkorb verhindert Verunreinigungen und Verstopfungen der Lenzpumpe. Er muss regelmäßig überprüft und gereinigt
+werden.
+
+Nummer 14:
+
+Welche Lenzvorrichtungen und -möglichkeiten sollten auf jeder seegehenden Yacht vorhanden sein?
+Zwei voneinander unabhängige Bilgepumpen, von denen eine über Deck bedienbar ist, sowie 2 Pützen mit Leinen.
+
+Nummer 15:
+
+Warum sollten Sie mehr als einen Anker an Bord haben, möglichst unterschiedlicher Art?
+
+1. Als Ersatz bei Verlust,
+2. zum Verwarpen oder Verkatten,
+3. um unterschiedliche Ankergründe berücksichtigen zu können,
+4. um bei schwerem Wetter oder in Tidengewässern vor 2 Ankern liegen zu können.
+
+Nummer 16:
+
+Wie viele Fender und Festmacherleinen sollten Sie mindestens an Bord haben?
+4 Festmacherleinen und 4 Fender.
+
+Nummer 17:
+
+Was sollte auf jeder Motoryacht außer Festmacherleinen an Tauwerk vorhanden sein?
+Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.
+
+Nummer 18:
+
+In welchen Publikationen finden Sie amtliche Informationen über die Ausrüstung und Sicherheit von
+Sportbooten, die auch bei der Beurteilung von Sportbootunfällen herangezogen werden?
+1. "Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler", herausgegeben vom BSH,
+2. "Sicherheit auf dem Wasser, Leitfaden für Wassersportler", herausgegeben vom Bundesministerium für Verkehr, Bau und
+Stadtentwicklung.
+
+Nummer 19:
+
+Warum müssen auf Yachten zusätzlich zu elektrisch oder motorgetriebenen Lenzpumpen auch
+Handlenzpumpen vorhanden sein?
+Weil sie auch bei Strom- und Motorausfall betätigt werden können.
+
+Nummer 20:
+
+Warum ist Flüssiggas (Propan, Butan) auf einer Yacht besonders gefährlich?
+Es ist schwerer als Luft, sinkt nach unten und bildet mit Luft ein explosives Gemisch; es kann sich im Schiffsinneren (z. B. in der
+Bilge) sammeln.
+
+Nummer 21:
+
+Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?
+
+1. Seeventil und Spülwasserschlauch (Seewasser),
+2. Handpumpe für Toilettenspülung,
+3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen),
+4. Abwasserschlauch (via Fäkalientank) zum Seeventil.
+
+Nummer 22:
+
+Beschreiben Sie in 5 Schritten die Bedienung eines Bord-WC auf einer Yacht.
+
+1. Seeventil für Seewasserspülung öffnen,
+2. Handpumpe betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen - ausgiebig spülen,
+3. Seewasserzufuhr unterbrechen (Hebel umlegen),
+4. Becken mit Handpumpe leer pumpen,
+5. Seeventile für Zu- und Abfluss schließen.
+
+Nummer 23:
+
+Was versteht man unter der "Stabilität" eines Schiffes?
+Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung
+wieder aufzurichten.
+
+Nummer 24:
+
+Wovon hängt die Stabilität eines Schiffes in ruhigem Wasser ab?
+Nennen Sie Beispiele für äußere Momente, welche die Stabilität beanspruchen.
+Die Stabilität eines Schiffes hängt ab von:
+
+1. seiner Geometrie (Form),
+2. der Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast).
+
+Beispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seitenwind, Trossenzug oder Drehkreisfahrt bei
+schnellen Motoryachten.
+
+Nummer 25:
+
+Wovon hängt eine in ruhigem Wasser vorhandene Stabilität zusätzlich in schwerem Wetter ab?
+Die Stabilität in schwerem Wetter hängt zusätzlich von Wind und Seegang, besonders von brechenden Wellen ab.
+
+Nummer 26:
+
+Was versteht man unter
+1. Formschwerpunkt (F)?
+2. Massenschwerpunkt (Gewichtsschwerpunkt, G)?
+Welche Kräfte wirken in den beiden Punkten?
+1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die
+Auftriebskraft senkrecht zur Wasseroberfläche nach oben.
+2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In
+G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten.
+
+Nummer 27:
+
+Was geschieht bei einer Neigung des Schiffes, z. B. durch seitlichen Winddruck, solange sich die Lage
+des Massenschwerpunktes (Gewichtsschwerpunktes) nicht verändert?
+(Begründung!)
+Der Formschwerpunkt F wandert zur geneigten Seite aus, weil dort ein größerer Teil des Bootskörpers unter Wasser gelangt. Die
+Wirklinie der Auftriebskraft bekommt dadurch einen seitlichen Abstand zur Wirklinie der Gewichtskraft. Es entsteht ein Kräftepaar,
+der seitliche Abstand zwischen den Wirklinien ist der Hebelarm. Es entsteht ein aufrichtendes Moment, welches gleich dem
+Produkt aus Gewichtskraft und Hebelarm ist.
+
+Nummer 28:
+
+Was verstehen Sie unter "Trimm"?
+
+Der Trimm ist der Unterschied zwischen dem vorderen und dem achteren Tiefgang.
+
+Nummer 29:
+
+Nennen Sie mögliche Trimmlagen einer Motoryacht.
+Ist der vordere Tiefgang größer als der achtere, ergibt dies einen vorlichen Trimm. Ist der achtere Tiefgang größer als der vordere,
+ergibt dies einen achterlichen Trimm. Sind beide gleich, liegt eine Yacht auf ebenem Kiel.
+
+Nummer 30:
+
+Was verstehen Sie unter "Rumpfgeschwindigkeit" und wovon ist sie abhängig?
+Rumpfgeschwindigkeit ist die rechnerische Höchstfahrt eines Verdrängers. Sie ist abhängig von der Wasserlinienlänge.
+
+Nummer 31:
+
+Erklären Sie die wesentlichen Vorteile des Dieselmotors gegenüber dem Benzinmotor.
+
+1. Der zum Betrieb erforderliche Kraftstoff (Diesel) ist weniger feuergefährlich als der für einen Benzinmotor.
+2. Er hat einen geringeren Kraftstoffverbrauch.
+
+Nummer 32:
+
+Erklären Sie die wesentlichen Nachteile des Benzinmotors gegenüber dem Dieselmotor.
+
+1. Das Benzin-Luft-Gemisch birgt Explosions- und Brandgefahr im Schiff.
+2. Die Zündanlage kann störempflindlich gegen Feuchtigkeit und Nässe sein.
+3. Der Motor hat einen höheren Kraftstoffverbrauch als der Dieselmotor.
+
+Nummer 33:
+
+Wozu dient das Wendegetriebe eines Motors?
+
+1. Zum Ein- und Auskuppeln des Propellers,
+2. zum Umsteuern des Propellers auf Rückwärtsfahrt,
+
+3. zur Drehzahluntersetzung.
+
+Nummer 34:
+
+Wodurch unterscheiden sich Einhebel- und Zweihebelschaltung?
+
+1. Bei Einhebelschaltung werden Gas und Getriebe gleichzeitig bedient.
+2. Bei Zweihebelschaltung werden Gas und Getriebe mit 2 Hebeln getrennt bedient.
+
+Nummer 35:
+
+Erklären Sie die Grundstruktur des Zweikreis-Kühlsystems bei der Motorkühlung.
+Das Zweikreis-Kühlsystem besteht aus einem geschlossenen inneren Süßwasserkreislauf mit eigenem Kühlwassertank und einem
+offenen Seewasserkreislauf. Beide Kreisläufe sind in einem thermostatgeregelten Wärmetauscher wärmetechnisch miteinander
+verbunden. Der innere Süßwasserkreislauf durchfließt den Motor.
+
+Nummer 36:
+
+Welchen Vorteil hat die Zweikreis-Kühlung gegenüber der Einkreis-Kühlung?
+Im Zweikreis-Kühlsystem wird im inneren geschlossenen Kühlwasserkreislauf Süßwasser gefahren. Dem geschlossenen
+Kühlwassersystem können Zusätze (z. B. Frostschutzmittel) zugegeben werden. Ablagerungen durch Fremdwasser werden
+verhindert.
+Durch eine thermostatische Regelung des Wärmeaustausches zwischen innerem und äußerem Kreislauf erreicht der Motor
+schneller seine Betriebstemperatur, diese wird auch konstant gehalten.
+
+Nummer 37:
+
+Was sollte nach dem Anlassen der Maschine kontrolliert werden?
+
+1. Kühlwasserdurchlauf,
+2. Öldruck und Ladung,
+3. Motorengeräusche und
+4. Auspuffgase.
+
+Nummer 38:
+
+Was können erste Störungsanzeichen im Motorbetrieb sein?
+Ungewöhnliche und fremde Motorengeräusche, Vibrationen, Verfärbung der Abgase, Aufleuchten der Ladekontrolle bzw.
+Öldruckkontrolle und die entsprechenden akustischen Warnungen.
+
+Nummer 39:
+
+Der Dieselmotor Ihres Bootes startet nicht.
+Welche Teile der Kraftstoffanlage sollten überprüft werden?
+
+1. Kraftstofffüllung,
+2. Kraftstoffabsperrhahn,
+3. Kraftstoffschläuche,
+4. Kraftstofffilter,
+5. Kraftstoffpumpe.
+
+Nummer 40:
+
+Der Benzinmotor Ihres Bootes startet nicht.
+Welche Teile der Kraftstoffanlage sollten überprüft werden?
+
+1. Kraftstofffüllung,
+2. Kraftstoffabsperrhahn,
+3. Kraftstoffschläuche,
+4. Kraftstofffilter,
+5. Kraftstoffpumpe,
+6. Vergaser.
+
+Nummer 41:
+
+Welche Ursachen können zu einer Anzeige eines zu geringen Öldrucks führen?
+
+1. Ein verstopftes Ölsieb (Ölwanne),
+2. ein zu geringer Ölstand,
+3. ein verstopfter Ölfilter,
+4. eine defekte Ölpumpe,
+
+5. ein defektes Öldruckventil,
+6. ein defektes Anzeigegerät.
+
+Nummer 42:
+
+Welche Ursachen kann das Aufleuchten der Warnlampe der Batterie-Ladekontrolle während des
+Betriebes zur Folge haben?
+
+1. Die Kabelverbindungen sind unterbrochen (oxydiert, lose oder gebrochen).
+2. Der Keilriemen zum Antrieb der Lichtmaschine ist defekt und es erfolgt keine Stromerzeugung.
+3. Der Regler oder die Lichtmaschine können defekt sein.
+
+Nummer 43:
+
+Welche Fehlerursachen kann eine schwarze Färbung der Auspuffgase haben?
+Unvollständige Verbrennung durch:
+
+1. kalten Motor,
+2. verschmutzten Luftfilter,
+3. schlechte Kraftstoffqualität,
+4. verstellte Einspritzpumpe,
+5. Überlastung des Motors.
+
+Nummer 44:
+
+Welche Fehlerursachen kann eine weiße Färbung der Auspuffgase haben?
+Verdampfung von Wasser durch z. B.
+
+1. Kondensat im Auspuffsystem bei noch kaltem Motor,
+2. gerissenen Zylinderkopf,
+3. defekte Zylinderkopfdichtung.
+
+Nummer 45:
+
+Welche Vorsichtsmaßnahmen müssen beim Tanken und Umfüllen von Brennstoffen getroffen werden?
+
+1. Maschine abstellen.
+2. Offenes Feuer löschen (Rauchen einstellen).
+3. Keine elektrischen Schalter betätigen.
+4. Alle Öffnungen schließen.
+5. Tragbare Tanks möglichst außerhalb des Bootes befüllen.
+
+Nummer 46:
+
+Welche Maßnahmen sind vor dem Anlassen eines Dieselmotors zu treffen?
+
+1. Hauptstromschalter einschalten.
+2. Kraftstoff- und Kühlwasserventile öffnen.
+3. Getriebe auf "neutral" stellen.
+4. Kühlwasser prüfen (Zweikreis-Kühlsystem).
+
+Nummer 47:
+
+Welche Maßnahmen sind vor dem Anlassen eines Benzinmotors zu treffen?
+
+1. Hauptstromschalter einschalten.
+2. Motorraum mit Bilge entlüften.
+3. Kraftstoff- und Kühlwasserventile öffnen.
+4. Getriebe auf "neutral" stellen.
+5. Kühlwasser prüfen (Zweikreis-Kühlsystem).
+
+Nummer 48:
+
+Wie kontrollieren Sie den ordnungsgemäßen Betrieb des Motors?
+Kontrolle der Anzeigegeräte auf:
+
+1. Öldruck und Öltemperatur,
+2. Kühlwassertemperatur,
+
+3. Motorendrehzahl und
+4. Batterieladung.
+
+Außerdem auf Motorgeräusche, Vibrationen und Farbe der Auspuffgase achten.
+
+Nummer 49:
+
+Welche Maßnahmen treffen Sie nach dem Abstellen des Motors?
+
+1. Kraftstoffventil schließen.
+2. Hauptstromschalter (Batterie) ausschalten.
+3. Seeventile schließen.
+
+Nummer 50:
+
+Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an.
+Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet.
+1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung
+unwahrscheinlich ist?
+2. Wie können Sie die Störung einfach beheben?
+1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o. Ä.) haben den Kühlwassereinlass verstopft.
+2. Mehrmals abwechselnd vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen.
+
+Nummer 51:
+
+Welche Fehlerursachen kann eine blaue Färbung der Auspuffgase haben?
+
+Zweitaktmotor:
+zu fettes Benzin-Öl-Gemisch. Es ist zu viel Schmieröl im Gemisch.
+
+Viertaktmotor:
+zu viel Schmieröl, Ölabstreifringe bzw. Kolbenringe defekt.
+
+In beiden Fällen verbrennt/verdampft Schmieröl.
+
+Nummer 52:
+
+Erklären Sie die Arbeitsweise in Bezug auf die Zündung beim Ottomotor und Dieselmotor.
+
+Beim Ottomotor wird das zündfähige Benzin-Luft-Gemisch im Vergaser durch Einspritzung erzeugt und mit Fremdzündung durch
+die Zündkerze gezündet.
+
+Beim Dieselmotor wird die angesaugte Luft hoch verdichtet und so erwärmt, dass der eingespritzte Dieselkraftstoff sich durch
+Eigenzündung in dieser komprimierten Luft entzündet.
+
+Nummer 53:
+
+Weshalb sollte dringend vermieden werden, dass beim Dieselmotor der Kraftstofftank leer gefahren
+wird?
+In die Einspritzpumpe/Kraftstoffleitung würde Luft gelangen. Startversuche nach dem Tanken wären erfolglos. Vor dem Tanken
+müssten die Leitung und die Einspritzpumpe entlüftet werden. Ablagerungen sowie Kondenswasserbildung durch
+Temperaturschwankungen können entstehen.
+
+Nummer 54:
+
+Während der Fahrt lässt plötzlich die Motordrehzahl abrupt nach und der Motor geht beim Zurücklegen
+des Gashebels gänzlich aus.
+Was kann die Ursache sein?
+Es ist möglicherweise ein schwimmender Fremdkörper (Leine, Trosse, Plane, Persening o. Ä.) in den Propeller geraten und
+behindert bzw. blockiert ihn.
+
+Nummer 55:
+
+In welchen Bereichen werden an Bord Batterien eingesetzt?
+Zum Starten und für das Bordnetz.
+
+Nummer 56:
+
+Was ist beim Laden von Batterien dringend zu beachten?
+Die Batteriekästen bzw. -räume müssen ausreichend be- und entlüftet sein.
+
+Nummer 57:
+
+1. Was bedeutet die Angabe einer Batteriekapazität "2 x 60 Ah"? (Begründung!)
+2. Welche Nettokapazität steht in dem Fall zur Verfügung? (Begründung!)
+
+1. Es handelt sich um 2 Batterien (Akkus) mit jeweils 60 Amperestunden, insgesamt also 120 Ah Nennkapazität.
+2. Dem entspricht eine Nettokapazität von etwa 72 Ah, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden
+kann.
+
+Nummer 58:
+
+Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei
+Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!
+
+Benötigte Strommenge je Verbraucher:
+24 : 12 = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt:
+2 x 2 A x 10 h = 40 Ah.
+
+Nummer 59:
+
+Was könnte zu möglichen Motorschäden bis hin zum Kolbenfresser führen?
+
+Zu wenig Kühlwasser, Dampfblasen im Kühlwasserschauglas,
+Kühlwassertemperatur zu hoch,
+zu niedriger oder stetig fallender Öldruck,
+zu wenig oder nicht geeignetes Öl,
+fallende Drehzahl, zitternde Nadel im Drehzahlmesser, klopfende Motorgeräusche.
+
+Nummer 60:
+
+Wie muss Tauwerk beschaffen sein, das für Festmacherleinen, Anker- und Schlepptrossen verwendet
+wird?
+Es muss bruchfest und elastisch sein.
+
+Nummer 61:
+
+Wodurch können Sie verhindern, dass Festmacherleinen durch Schamfilen in Klüsen oder an Kanten
+an der Pier beschädigt werden?
+Durch einen gegen Verrutschen gesicherten Plastikschlauch, der über den Festmacher an der Scheuerstelle gezogen wird,
+hilfsweise mit Tuchstreifen.
+
+Nummer 62:
+
+Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?
+Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten.
+
+Nummer 63:
+
+Wodurch können Sie verhindern, dass bei Tauwerk aus unterschiedlichem Innen- und Außenmaterial
+die Seele in den Mantel rutscht?
+Durch einen genähten Takling.
+
+Nummer 64:
+
+Wie sind längsseits liegende Fahrzeuge festzumachen?
+Ergänzen Sie die Skizze und benennen Sie die Leinen.
+
+1. Achterleine,
+2. Achterspring,
+3. Vorspring,
+4. Vorleine.
+
+Nummer 65:
+
+Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier
+mit vorspringenden Pfählen versehen ist?
+Ergänzen Sie die Skizze mit Leinen.
+
+Nummer 66:
+
+Was ist beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?
+Umweltschutzbestimmungen beachten, d. h. das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen
+und Wasser und Schmutz auffangen, also nicht in die Kanalisation lassen.
+
+Nummer 67:
+
+Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht.
+Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?
+
+1. Schlechte Kontakte und Korrosion.
+2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden.
+
+Nummer 68:
+
+Warum müssen Schäden im Gelcoat unverzüglich beseitigt werden?
+
+Das Laminat unter der Gelcoatschicht nimmt Wasser auf und wird dadurch geschädigt.
+
+Nummer 69:
+
+Welche Daten sollten an Bord mindestens im Logbuch dokumentiert werden?
+
+1. Namen und Funktionen der Crewmitglieder,
+2. Beginn und Ende einer Fahrt und
+3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck.
+
+Nummer 70:
+
+Welche Sicherheitsmaßnahmen müssen auch bei ruhigem Wetter bei Nachtfahrten beachtet werden?
+
+1. Bei jeder Tätigkeit an Deck Rettungswesten und Sicherheitsgurt tragen.
+2. Nur mit am Schiff eingepickter Sicherheitsleine über Deck gehen.
+
+Nummer 71:
+
+Was verstehen Sie unter "Radeffekt" des Schiffspropellers (Schraube)?
+"Radeffekt" ist die seitliche Versetzung des Hecks durch die drehende Schraube.
+
+Nummer 72:
+
+Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?
+Anzahl der Flügel, Größe ihrer Fläche, Durchmesser und Steigung.
+
+Nummer 73:
+
+Wie wirkt der rechts- bzw. linksdrehende Propeller auf das Schiffsheck bei Rückwärtsfahrt?
+Ein rechtsdrehender Propeller versetzt das Heck bei Rückwärtsfahrt nach Backbord, ein linksdrehender nach Steuerbord.
+
+Nummer 74:
+
+1. Wie drehen bei einem Zweischrauber in der Regel die Propeller?
+2. Welchen manövriertechnischen Vorteil haben Yachten mit 2 Propellern?
+
+1. Gegenläufig.
+2. Mit 2 Propellern kann man nahezu auf der Stelle drehen, indem man einen Propeller vorwärts und einen Propeller rückwärts
+arbeiten lässt. Die Manövrierfähigkeit wird dadurch verbessert.
+
+Nummer 75:
+
+Warum gibt es bei einem Zweischrauben-Schiff (in der Regel) keinen Radeffekt?
+Die Drehrichtungen der Schrauben sind gegenläufig. So heben sich die jeweiligen Radeffekte gegenseitig auf.
+
+Nummer 76:
+
+Was ist ein Bugstrahlruder und wozu dient es?
+Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein Drehen des Buges bei
+geringen Vorausgeschwindigkeiten erreicht werden kann.
+
+Nummer 77:
+
+Wann sollte aus Gründen der Sicherheit auf Motoryachten der Außenfahrstand besetzt werden?
+
+1. Bei verminderter Sicht zum Wahrnehmen der Schallsignale.
+2. Bei Manövern in engen Gewässern zur besseren Rundumsicht.
+
+Nummer 78:
+
+Warum empfiehlt sich beim Schleppen die Verwendung einer Hahnepot und wo sollte sie belegt
+werden?
+1. Eine Hahnepot verteilt die Zugkräfte auf mehrere Belegpunkte für die Schleppleine an der Durchführung an Bug und auf den
+beiden Bootsseiten.
+2. Zum Belegen eignen sich zumeist kräftigere Klampen für die Vorspring auf den Bootsseiten.
+
+Nummer 79:
+
+Sie wollen in eine Box einlaufen.
+Wie bereiten Sie die Achterleinen vor und machen sie fest?
+Achterleinen mit Auge versehen. Möglichst fühzeitig über die Pfähle legen, bei seitlichem Wind zuerst über den Luvpfahl.
+
+Nummer 80:
+
+Welche Vorbereitung haben Sie für ein Anlegemanöver zu treffen?
+
+1. Crew für Manöver einteilen.
+2. Leinen und Fender bereitlegen.
+
+Nummer 81:
+
+Beschreiben Sie das Fahrmanöver mit einem Zweischrauben-Schiff bei einer Drehung auf engem Raum
+über Steuerbord.
+Ruder hart Steuerbord, Steuerbordmaschine rückwärts, Backbordmaschine voraus.
+
+Nummer 82:
+
+Bei welchen Manövern können Sie ein Bugstrahlruder sinnvoll einsetzen?
+
+1. Beim An- und Ablegen.
+2. Beim Drehen auf engem Raum.
+
+Nummer 83:
+
+Sie liegen längsseits mit der Stuerbordseite an einer Pier.
+Beschreiben Sie ein Ablegemanöver unter gleichzeitigem Einsatz von Bugstrahlruder und Maschine.
+1. Hebel für Bugstrahlruder nach Backbord legen, sodass der Bug von der Pier weggedrückt wird (nach Backbord schwenkt) und
+gleichzeitig
+2. Ruderlage deutlich nach Steuerbord und langsame Fahrt voraus, sodass das Heck nach Backbord ausschwenkt.
+
+So wird das Schiff fast parallel von der Pier abgedrückt.
+
+Nummer 84:
+
+Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich
+werden?
+Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstromwirbeln.
+
+Nummer 85:
+
+Sie werden in Küstennähe von einem Sturm überrascht.
+Wie verhalten Sie sich mit einer Motoryacht?
+
+1. Möglichst rasch versuchen, Hafen oder Landschutz anzulaufen.
+2. Ggf. Motoryacht mit langsamer Fahrt gegen die See halten.
+3. Sicherheitsmaßnahmen für die Besatzung treffen.
+
+Nummer 86:
+
+Worauf müssen Sie achten, wenn Sie in Tidengewässern längsseits einer Pier festgemacht haben?
+
+1. Die Wassertiefe muss auch bei Niedrigwasser ausreichen oder sicheres Aufsetzen muss gewährleistet sein.
+2. Die Leinen müssen für den Tidenstieg oder -fall ausreichend lang sein. Bei größerem Tidenhub darf das Fahrzeug keinesfalls
+unbeaufsichtigt bleiben.
+
+Nummer 87:
+
+Sie fahren bei frischem Wind und mitlaufendem Strom (Wind gegen Strom) nach Luv.
+Welche Auswirkungen hat ein gegen den Wind setzender Strom auf den Seegang?
+Durch den Strom entsteht eine kurze, steile und kabbelige See.
+
+Nummer 88:
+
+Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeugs und die Loganzeige aus?
+
+1. Der Strom erhöht die Fahrt über Grund.
+2. Das Log zeigt dies nicht an.
+
+Nummer 89:
+
+Welcher Kurswinkel ist bei schwerer See am besten geeignet, das Aufschlagen des Bootes zu
+verringern?
+Ein Kurswinkel von 20 bis 25° bezogen auf die Seegangsrichtung ist am besten geeignet, hartes Aufschlagen zu verringern.
+
+Nummer 90:
+
+Welche Hilfsmittel können Sie einsetzen, um einen Überbordgefallenen an Deck zu bekommen?
+Bewegliche (und gesicherte) Badeleiter, beschwerte Trittschlinge, Rettungstalje, Bergegurt.
+
+Nummer 91:
+
+Welche Sofortmaßnahmen sind einzuleiten, wenn jemand über Bord gefallen ist?
+
+1. Ruf: "Mensch über Bord!",
+2. Rettungsmittel zuwerfen,
+3. Ausguck halten, Mann im Auge behalten,
+4. Maschine starten,
+5. "Mensch-über-Bord-Manöver" einleiten,
+6. Notmeldung abgeben,
+7. ggf. Markierungsblitzboje werfen,
+8. ggf. MOB-Taste eines satellitengestützten Navigationsgerätes drücken,
+9. Bergung durchführen.
+
+Nummer 92:
+
+Welche Maßnahmen können gegen das Überbordfallen getroffen werden?
+
+1. Sicherheitsgurte anlegen und einpicken.
+2. Anbringen von Strecktau oder Laufleinen von Bug zum Heck.
+3. Crew auf Befestigungspunkte (Einpickpunkte für Karabinerhaken) hinweisen.
+
+Nummer 93:
+
+Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.
+
+1. Maschine starten,
+2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person,
+3. "Mensch-über-Bord-Manöver", Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung,
+4. Bergung, sicheres und schnelles Anbordnehmen der Person,
+5. Erste Hilfe, Betreuung,
+6. ggf. Notalarm abgeben.
+
+Nummer 94:
+
+Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche
+nach einem Überbordgefallenen sichern?
+
+1. Markierungsblitzboje,
+2. MOB-Taste eines satellitengestützten Navigationsgerätes (z. B. GPS).
+
+Nummer 95:
+
+Was gehört u. a. zur Sicherheitsausrüstung z. B. einer 10-m-Yacht?
+Nennen Sie mindestens 6 Ausrüstungsgegenstände.
+
+1. Lenzpumpen und Pützen,
+2. Lecksicherungsmaterial,
+3. Feuerlöscher,
+4. Werkzeug und Ersatzteile,
+5. Seenotsignalmittel,
+6. Handlampen,
+7. Funkeinrichtung,
+8. Anker,
+9. Erste-Hilfe-Ausrüstung,
+10. Radarreflektor und
+11. Rettungsmittel.
+
+Nummer 96:
+
+Was gehört zur Sicherheitsausrüstung der Besatzung in der Küstenfahrt?
+
+1. Rettungsweste und Sicherheitsgurt (Lifebelt) für jedes Besatzungsmitglied,
+2. Rettungsfloß (Rettungsinsel),
+3. Rettungskragen mit Tag- und Nachtsignal und
+4. Erste-Hilfe-Ausrüstung mit Anleitung.
+
+Nummer 97:
+
+Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines Rettungsfloßes?
+Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft
+über den nächsten Wartungstermin.
+
+Nummer 98:
+
+Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?
+Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette.
+
+Nummer 99:
+
+Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?
+Ein neben der Fußreling verlaufender Draht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum
+Einpicken der Sicherheitsleine (Lifebelts).
+
+Nummer 100:
+
+Welche Seenotsignalmittel sollten Sie an Bord haben?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Handfackeln, rot,
+2. Handraketen, rot,
+3. Rauchfackeln oder Rauchtopf, orange,
+
+4. Signalpistole mit Munition,
+5. Seewasserfärber,
+6. Signalflaggen N und C,
+7. Signallampe,
+8. Seenotfunkboje.
+
+Nummer 101:
+
+Welche Feuerlöscheinrichtungen sollten an Bord sein?
+1. Feuerlöscher (ABC-Pulverlöscher und eventuell CO22-Löscher),
+2. Pütz zum Löschen von Bränden fester Stoffe,
+3. Feuerlöschdecke,
+4. Löschdurchlass für geschlossene Motorräume, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt
+ermöglicht.
+
+Nummer 102:
+
+Welche Feuerlöscharten sind für Sportboote geeignet?
+Wie und wo sind sie an Bord unterzubringen?
+
+1. Der ABC-Pulverlöscher, für geschlossene Motorräume der CO2-Löscher.
+2. Der Feuerlöscher muss gebrauchsfertig und leicht erreichbar sein, CO2-Löscher nicht im Schiffsinneren unterbringen
+(Erstickungsgefahr bei Leckage).
+3. Er soll in der Nähe der Maschinenräume, der Kombüse sowie der Koch- oder Heizstelle montiert sein.
+
+Nummer 103:
+
+Wie wird die ständige Funktionssicherheit eines Feuerlöschers sichergestellt?
+
+1. Durch Einhaltung des vorgeschriebenen Prüftermins, ersichtlich aus der Prüfplakette.
+2. Der Feuerlöscher muss vor Feuchtigkeit und Korrosion geschützt werden.
+
+Nummer 104:
+
+Wie wird ein Brand an Bord wirksam bekämpft?
+
+1. Alle Öffnungen schließen,
+2. Brennstoffzufuhr (Hauptschalter) unterbrechen,
+3. Feuerlöscher erst am Brandherd betätigen,
+4. Feuer von unten und von vorn bekämpfen,
+5. Löschdecke einsetzen,
+6. Flüssigkeitsbrände nicht mit Wasser bekämpfen.
+
+Nummer 105:
+
+Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Seetüchtigkeit der Yacht,
+2. Treibstoffvorrat,
+3. Navigationsunterlagen,
+4. Sicherheitseinweisung der Besatzung,
+5. Rettungsmittel,
+6. Seenotsignale,
+7. Trinkwasser- und Proviantvorräte,
+8. Funktionsfähigkeit des Motors,
+9. Funktionsfähigkeit der elektronischen Navigationsgeräte,
+10. Lenzeinrichtungen,
+11. Feuerlöscher,
+12. Boots- und Personalpapiere.
+
+Nummer 106:
+
+Was gehört zur Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn?
+Nennen Sie mindestens 6 Beispiele.
+Einweisung in Gebrauch und Bedienung
+
+1. der Rettungswesten und Sicherheitsgurte,
+
+2. des Rettungsfloßes,
+3. der Signalmittel,
+4. der Lenzpumpen,
+5. der Seeventile und des Bord-WC,
+6. der Kocheinrichtung,
+7. der Feuerlöscher,
+8. der Motoranlage,
+9. der Elektroanlage,
+10. des Rundfunkgerätes und der UKW-Seefunkanlage,
+11. Verhalten bei "Mensch-über-Bord",
+12. Erkennen der Seekrankheit und entsprechendes Verhalten.
+
+Nummer 107:
+
+In welche technischen Einrichtungen/Ausrüstungen muss der Schiffsführer die Besatzung vor
+Reiseantritt unbedingt einweisen?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Ankergeschirr,
+2. Lenzeinrichtung,
+3. Feuerlöscheinrichtungen,
+4. Motoranlage,
+5. Seeventile,
+6. UKW-Seefunkanlage,
+7. MOB-Taste vom satellitengestützten Navigationsgerät (z. B. GPS),
+8. Seenotsignalmittel,
+9. Notrudereinrichtung.
+
+Nummer 108:
+
+Welche Sicherheitsmaßnahmen sind vor jedem Auslaufen durchzuführen?
+Nennen Sie mindestens 6 Beispiele.
+
+1. Wetterbericht einholen,
+
+2. Kontrolle der Sicherheitsausrüstung,
+3. Kontrolle von Motor und Schaltung,
+4. Kontrolle der nautischen Geräte,
+5. Kontrolle der Bilge,
+6. Überprüfen des Wasser- und Kraftstoffvorrats,
+7. Kontrolle der Schall- und Lichtsignaleinrichtung,
+8. Kontrolle der Navigationslichter,
+9. Bereitlegen der aktuellen Seekarten und nautischen Veröffentlichungen.
+
+Nummer 109:
+
+Warum sollten alle Crewmitglieder Lage und Funktion sämtlicher Pumpen und Ventile kennen?
+Damit im Bedarfsfall sie jeder bedienen kann.
+
+Nummer 110:
+
+Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?
+Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann.
+
+Nummer 111:
+
+Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines
+Ankermanövers eingewiesen werden?
+Damit jeder den Anker sicher ausbringen und einholen kann.
+
+Nummer 112:
+
+Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?
+
+1. Meldung abgeben.
+2. Je nach Erfordernissen Fahrt aus dem Schiff nehmen.
+3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten.
+
+4. Küste bzw. flaches Wasser ansteuern.
+5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist.
+
+Nummer 113:
+
+Was tun Sie, wenn Ihr Schiff leckgeschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter
+steigt?
+
+1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten.
+2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen.
+3. Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen.
+
+Nummer 114:
+
+Welche Folgen können Grundberührungen und harte Stöße, z. B. bei Anlegemanövern oder Kollisionen
+mit treibenden Gegenständen, haben?
+
+1. Eine Beschädigung der Bordwand kann eintreten.
+2. Es kann Sinkgefahr entstehen.
+
+Nummer 115:
+
+Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen
+werden, wenn Ihr Schiff in Seenot kommt?
+
+1. Ruhe bewahren und überlegt handeln.
+2. Notalarm abgeben, ggf. Radartransponder einschalten.
+3. Rettungsfloß klarmachen.
+4. Rettungsweste und Sicherheitsgurt anlegen.
+5. So lange wie möglich an Bord bleiben.
+6. Wärmende Kleidung anziehen.
+
+Nummer 116:
+
+Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein Rettungsfloß übersteigen?
+
+1. Rettungsweste und Sicherheitsgurt anlegen.
+2. Wärmende Kleidung anziehen.
+3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken.
+4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKWHandsprechfunkgeräte in das Rettungsfloß bringen.
+
+Nummer 117:
+
+Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?
+
+1. Die Überlebensmöglichkeiten sind auf dem Schiff größer.
+2. Ein Schiff ist besser zu orten.
+3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein.
+
+Nummer 118:
+
+Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!
+
+1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken.
+2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen.
+3. Die Arme müssen nach unten gedrückt werden und die Hände sind zu schließen.
+4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden.
+
+Nummer 119:
+
+Wann dürfen Notzeichen gegeben werden?
+Nach Feststellung des Notfalles auf Anordnung des Schiffsführers; bei unmittelbarer Gefahr für das Schiff oder die Besatzung, die
+ohne fremde Hilfe nicht überwunden werden kann.
+
+Nummer 120:
+
+Wann darf ein UKW-Sprechfunkgerät auch ohne entsprechenden Befähigungsnachweis benutzt
+werden?
+In Notfällen.
+
+Nummer 121:
+
+Worauf ist zu achten, wenn Crewmitglieder seekrank sind?
+
+1. Aufenthalt im Cockpit beaufsichtigen und Crewmitglieder gegen Überbordfallen sichern,
+2. Flüssigkeitsverlust ausgleichen (Wasser),
+3. Crewmitglied anhalten, zur Küste oder zum Horizont zu schauen,
+4. mit Arbeiten beschäftigen.
+
+Nummer 122:
+
+Wozu dient ein Reitgewicht (Gleitgewicht, Ankergewicht) beim Ankern?
+Es soll die Ankertrosse auf den Grund ziehen, damit der Anker nicht durch einen zu steilen Winkel aus dem Grund gebrochen wird.
+Es wirkt ruckdämpfend.
+
+Nummer 123:
+
+Warum sollte beim Verwenden einer Ankertrosse ein Kettenvorlauf benutzt werden?
+Damit der Zug auf den Anker nicht zu steil wird.
+
+Nummer 124:
+
+Welcher Ankergrund ist für die üblichen Leichtgewichtsanker
+1. gut geeignet?
+2. mäßig geeignet?
+3. ungeeignet?
+
+1. Sand, Schlick, weicher Ton und Lehm,
+2. harter Ton und Lehm,
+3. steinige, verkrautete und stark schlammige Böden.
+
+Nummer 125:
+
+Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?
+
+1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten.
+2. Auf ausreichenden Platz zum Schwojen achten.
+3. Mögliche Winddrehungen einplanen.
+
+Nummer 126:
+
+Welchen Ankergrund sollten Sie nach Möglichkeit meiden?
+Steinige, verkrautete und stark schlammige Böden.
+
+Nummer 127:
+
+Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z. B. zwischen zwei
+Stegen) nicht die erforderliche Kettenlänge stecken können?
+Mit einem Reitgewicht, um so den Anker besser am Boden zu halten.
+
+Nummer 128:
+
+Sie ankern in einer Bucht.
+Wie können Sie bei zunehmendem Wind die Haltekraft Ihres Ankers verbessern?
+
+1. Mehr Trosse oder Kette stecken,
+2. Reitgewicht verwenden.
+
+Nummer 129:
+
+Sie wollen auf verkrautetem Grund ankern.
+Ihnen steht ein Leichtgewichtsanker und ein Stockanker zur Verfügung.
+Welchen benutzen Sie und warum?
+Den Stockanker, weil er sich insbesondere auch aufgrund seines höheren Gewichtes besser eingräbt.
+
+Nummer 130:
+
+Wozu dient eine Ankerboje?
+
+1. Sie zeigt die Lage des Ankers an.
+
+2. Mit der Trippleine kann das Bergen eines unklaren Ankers unterstützt werden.
+
+Nummer 131:
+
+Wie erkennen Sie, ob der Anker hält?
+
+1. Vibration von Kette oder Trosse prüfen,
+2. Einrucken des Ankers prüfen,
+3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken,
+4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten.
+
+Nummer 132:
+
+Welche Ankerarten finden überwiegend auf Sportbooten Verwendung?
+Nennen Sie 3.
+
+1. Patentanker,
+2. Stockanker (einklappbarer Stock),
+3. Draggen (klappbare Flunken),
+4. Pflugscharanker.
+
+Nummer 133:
+
+Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.
+Bruce-Anker, CQR-Anker, Danforth-Anker, D'Hone-Anker.
+
+Nummer 134:
+
+1. Welches sind die Vorteile einer Ankerkette gegenüber einer Ankerleine?
+2. Wie kombiniert man auf Yachten häufig die Systeme?
+1. Die Kette unterstützt das Eingraben, verkleinert den Schwojeraum, wirkt ruckdämpfend, kann nicht an Steinen durchscheuern
+und erhöht die Haltekraft des Ankers.
+2. Es wird zwischen Anker und Leine ein Kettenvorlauf von 3 bis 5 m gefahren.
+
+Nummer 135:
+
+1. Warum soll eine Ankerleine nicht an den Anker geknotet werden?
+2. Warum muss die Ankerkette mit einem Taustropp am Schiff bzw. im Kettenkasten befestigt werden?
+
+1. Knoten reduzieren die Bruchlast einer Leine um bis zu 50 %.
+2. Damit die Kette im Notfall schnell gekappt werden kann.
+
+Nummer 136:
+
+Sie wollen in einer Bucht ankern, in der das (ausreichend tiefe) Wasser unterschiedliche Färbungen
+zeigt.
+Wo wählen Sie den Ankerplatz? (Begründung!)
+Ich ankere auf hellem Wasser.
+
+Begründung:
+Der Grund ist hier sandig, der Anker hält gut. Dunkler Grund weist auf Bewuchs hin, wo der Anker schlecht hält.
+
+Nummer 137:
+
+Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?
+Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten.
+
+Nummer 138:
+
+Beschreiben Sie die Vorbereitung eines Ankermanövers.
+Auswählen eines geeigneten Ankerplatzes anhand der Seekarte bzw. des Seehandbuches (Meeresgrund/Wassertiefe
+geeignet?),
+Ermitteln der Wind- und/oder Stromrichtung und -stärke,
+Klarmachen des Ankergeschirrs und des Ankersignals,
+mit langsamster Fahrt - Kurs gegen Strom bzw. Wind - einen Ankerplatz ansteuern.
+
+Nummer 139:
+
+Beschreiben Sie wichtige Elemente eines Ankermanövers.
+
+Geeigneten Ankerplatz festlegen/planen,
+Ansteuerung planen (in der Regel gegen Wind und/oder Strom),
+bei langsamer Fahrt rückwärts über Grund Anker fallen lassen,
+Kette/Leine in Abhängigkeit vom Wetter/Strom bis auf das 3- bzw. 5fache der Wassertiefe stecken,
+Ankerball/Ankerlicht setzen,
+Ankerposition feststellen, dokumentieren und ausreichend kontrollieren.
+
+Nummer 140:
+
+Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?
+
+1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),
+2. u. U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus,
+3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet,
+4. Beeinträchtigung durch Bugwellen des großen Schiffes.
+
+Nummer 141:
+
+Warum sollten Sie nicht zu dicht hinter dem Heck eines vorbeifahrenden Schiffes durchfahren?
+Sog und Hecksee können das eigene Boot erheblich gefährden.
+
+Nummer 142:
+
+Was müssen Sie beim Passieren eines großen Schiffes bei dessen Kursänderungen, z. B. in einem
+kurvenreichen Fahrwasser, beachten?
+Bei einer Kursänderung schwenkt das Heck deutlich in die entgegengesetzte Richtung aus, also nach Backbord bei einer
+Kursänderung nach Steuerbord und umgekehrt.
+
+Nummer 143:
+
+Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und
+wovon hängen sie ab?
+Abhängig von Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12fachen Schiffslänge und
+bis zu 8 bis 12 Minuten Dauer (z. B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm,
+
+Stoppzeit ca. 12 Minuten) zu rechnen.
+
+Nummer 144:
+
+Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage
+eingeleitet wird?
+Nach welcher Distanz verlässt es in etwa die alte Kurslinie?
+Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das
+Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten
+Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d. h. ca. 500 bis 600 m
+betragen.
+
+Nummer 145:
+
+Auf vielen großen Schiffen ist die Sicht nach vorne eingeschränkt.
+Welchen Abstand vor einem Schiff müssen Sie als nicht einsehbar mindestens berücksichtigen?
+Sichtbeschränkung nach voraus maximal 2 Schiffslängen oder 500 m.
+
+Nummer 146:
+
+Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu
+werden?
+Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen "aktiven"
+Radarreflektor.
+
+Stand: 01. Juli 2006
+
+© Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+

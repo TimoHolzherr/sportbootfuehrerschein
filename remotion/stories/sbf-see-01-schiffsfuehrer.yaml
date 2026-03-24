@@ -1,0 +1,485 @@
+id: sbf-see-01-schiffsfuehrer
+fps: 30
+voice: nova
+jingle: audio/jingle-intro.wav
+jingle_voice: audio/jingle-voice.mp3
+scenes:
+  - id: intro
+    type: intro
+    duration_ms: 7000
+    certificate: SBF See
+    topic: Pflichten des Schiffsführers
+    episode: 1
+    question_count: 5
+    transition:
+      type: fade
+      duration_ms: 400
+  - id: q01-setup
+    type: explanation
+    duration_ms: 13464
+    background: images/generated/sbf-see-01-schiffsfuehrer/q01-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic wide shot of five young friends standing on a sunny marina dock beside a modern white motorboat, all
+      looking relaxed and chatting, nobody at the helm, clear blue sky, photorealistic, golden hour light, no text, no
+      watermarks
+    script: >-
+      Fünf Freunde, Sonnenschein, das Boot liegt klar am Steg. Alle wollen los – aber niemand hat vorher festgelegt, wer
+      das Steuer übernimmt. Was muss jetzt passieren, bevor der erste Knoten gelöst wird?
+    audio: audio/generated/sbf-see-01/q01-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q01-frage
+    type: question
+    duration_ms: 20688
+    background: images/generated/sbf-see-01-schiffsfuehrer/q01-setup.png
+    catalog_number: 1
+    question_number: 1
+    question_total: 5
+    question: Was muss geschehen, wenn vor Fahrtantritt nicht feststeht, wer das Sportboot führt?
+    answers:
+      - Der verantwortliche Schiffsführer muss gewählt werden.
+      - Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.
+      - Der verantwortliche Schiffsführer muss bestimmt werden.
+      - Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen.
+    correct: 2
+    reveal_ms: 20488
+    script: >-
+      Was muss geschehen? A: Der verantwortliche Schiffsführer muss gewählt werden. B: Ein Inhaber eines
+      Sportbootführerscheins muss die Fahrzeugführung übernehmen. C: Der verantwortliche Schiffsführer muss bestimmt
+      werden. Oder D: Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen. Kurz nachdenken...
+    audio: audio/generated/sbf-see-01/q01-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q01-erklaerung
+    type: explanation
+    duration_ms: 32108
+    background: images/generated/sbf-see-01-schiffsfuehrer/q01-setup.png
+    image_duration_ms: 1
+    question: Was muss geschehen, wenn vor Fahrtantritt nicht feststeht, wer das Sportboot führt?
+    answers:
+      - Der verantwortliche Schiffsführer muss gewählt werden.
+      - Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.
+      - Der verantwortliche Schiffsführer muss bestimmt werden.
+      - Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen.
+    correct: 2
+    headline: Bestimmen – nicht wählen, nicht einigen
+    body: |
+      - 🎯 Das Gesetz fordert ausdrückliches Bestimmen – kein Konsens, kein Zufall
+      - 📋 Nur weil jemand den Schein hat, trägt er nicht automatisch Verantwortung
+      - ⚖️ Stillschweigende Einigung zählt rechtlich nicht
+      - 🔑 Wer bestimmt wird, haftet für Schiff und alle Personen an Bord
+      💡 Kein Kapitän, kein Ablegen – wie beim Flugzeug.
+    body_scripts:
+      - Das Gesetz fordert ein ausdrückliches Bestimmen – kein Konsens, kein Nicken, kein Zufall.
+      - >-
+        Einen Sportbootführerschein dabeizuhaben bedeutet nur: diese Person könnte es tun – nicht, dass sie es
+        automatisch tun muss.
+      - Eine stille Übereinkunft reicht vor Gericht nicht aus. Es muss klar und ausdrücklich gesagt werden.
+      - Wer als Schiffsführer bestimmt wird, trägt die volle Verantwortung für das Schiff und alle Personen an Bord.
+      - 'Merkhilfe: Kein Kapitän, kein Ablegen. Genau wie beim Flugzeug.'
+    script: Richtig ist C.
+    audio: audio/generated/sbf-see-01/q01-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1764
+      - 7218
+      - 14496
+      - 20670
+      - 27684
+  - id: q02-setup
+    type: explanation
+    duration_ms: 13464
+    background: images/generated/sbf-see-01-schiffsfuehrer/q02-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of friends relaxing on an anchored motorboat in a calm sunny bay, cold drinks in hand, summer
+      atmosphere, one person looking towards the shore thinking about heading home, photorealistic, warm light, no text,
+      no watermarks
+    script: >-
+      Sonniger Samstag, das Boot liegt vor Anker in einer ruhigen Bucht. Kaltgetränke gehen rum, alle entspannen.
+      Irgendwann will jemand den Heimweg antreten. Ab wann ist das Führen des Bootes verboten?
+    audio: audio/generated/sbf-see-01/q02-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q02-frage
+    type: question
+    duration_ms: 19632
+    catalog_number: 2
+    background: images/generated/sbf-see-01-schiffsfuehrer/q02-setup.png
+    question_number: 2
+    question_total: 5
+    question: Wann darf ein Sportboot weder geführt noch dessen Kurs oder Geschwindigkeit eigenständig bestimmt werden?
+    answers:
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 1,0 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,3 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,5 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,8 ‰
+        oder mehr vorliegt.
+    correct: 2
+    reveal_ms: 19432
+    script: >-
+      Wann gilt das Verbot? Bei allen vier Antworten ist die Bedingung dieselbe – körperliche oder geistige Mängel oder
+      Alkohol oder berauschende Mittel. Der Unterschied liegt beim Promillewert. A: 1,0 Promille. B: 0,3 Promille. C:
+      0,5 Promille. Oder D: 0,8 Promille. Was ist richtig?
+    audio: audio/generated/sbf-see-01/q02-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q02-erklaerung
+    type: explanation
+    duration_ms: 33380
+    background: images/generated/sbf-see-01-schiffsfuehrer/q02-setup.png
+    image_duration_ms: 1
+    question: Wann darf ein Sportboot weder geführt noch dessen Kurs oder Geschwindigkeit eigenständig bestimmt werden?
+    answers:
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 1,0 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,3 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,5 ‰
+        oder mehr vorliegt.
+      - >-
+        Wenn man infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer
+        berauschender Mittel in der sicheren Führung behindert ist, oder wenn eine Blutalkoholkonzentration von 0,8 ‰
+        oder mehr vorliegt.
+    correct: 2
+    headline: 0,5 Promille – wie im Auto, auch für den Steuermann nebenan
+    body: |
+      - ⚓ Grenze auf dem Wasser: 0,5‰ – identisch mit dem Straßenverkehr
+      - 👥 Gilt auch für alle, die eigenständig Kurs oder Geschwindigkeit bestimmen
+      - 🏥 Körperliche oder geistige Einschränkungen können das Führen zusätzlich verbieten
+      - ❌ Subjektives Fahrtüchtigkeitsgefühl zählt rechtlich nicht
+      💡 0,5‰ ist Schluss – nicht erst wenn man schwankt.
+    body_scripts:
+      - Die Promillegrenze auf dem Wasser beträgt null Komma fünf – identisch mit dem Straßenverkehr.
+      - >-
+        Das Verbot gilt nicht nur für die Person am Steuer. Auch wer eigenständig Kurs oder Geschwindigkeit bestimmt,
+        fällt darunter.
+      - >-
+        Körperliche oder geistige Einschränkungen können das Führen unabhängig vom Alkohol verbieten – auch komplett
+        nüchtern.
+      - Das eigene Gefühl, noch fit zu sein, zählt rechtlich überhaupt nicht.
+      - 'Merkhilfe: Null Komma fünf ist Schluss. Nicht erst wenn man schwankt.'
+    script: 'Richtig ist C: null Komma fünf Promille.'
+    audio: audio/generated/sbf-see-01/q02-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 3372
+      - 9042
+      - 16464
+      - 23958
+      - 28500
+  - id: q03-setup
+    type: explanation
+    duration_ms: 14712
+    background: images/generated/sbf-see-01-schiffsfuehrer/q03-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic wide shot of a sailboat underway on open sea with several other boats visible in the distance, skipper
+      at the helm, blue water and sky, sense of maritime traffic and responsibility, photorealistic, no text, no
+      watermarks
+    script: >-
+      Ihr seid auf See, mehrere Boote in Sichtweite. Jemand an Bord fragt: wenn jetzt etwas schiefläuft mit den
+      Verkehrsregeln – wer ist dann dran? Wer trägt die Verantwortung dafür, dass die Vorschriften eingehalten werden?
+    audio: audio/generated/sbf-see-01/q03-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q03-frage
+    type: question
+    duration_ms: 16368
+    background: images/generated/sbf-see-01-schiffsfuehrer/q03-setup.png
+    catalog_number: 76
+    question_number: 3
+    question_total: 5
+    question: Wer ist für die Einhaltung der Verkehrsvorschriften verantwortlich?
+    answers:
+      - Der Schiffsführer oder sein Stellvertreter.
+      - Der Schiffsführer und sein Stellvertreter.
+      - Der Schiffsführer und jeder sonst Verantwortliche.
+      - Der Schiffsführer oder jeder sonst Verantwortliche.
+    correct: 0
+    reveal_ms: 16168
+    script: >-
+      Wer ist verantwortlich? A: Der Schiffsführer oder sein Stellvertreter. B: Der Schiffsführer und sein
+      Stellvertreter. C: Der Schiffsführer und jeder sonst Verantwortliche. Oder D: Der Schiffsführer oder jeder sonst
+      Verantwortliche. Was ist richtig?
+    audio: audio/generated/sbf-see-01/q03-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q03-erklaerung
+    type: explanation
+    duration_ms: 34916
+    background: images/generated/sbf-see-01-schiffsfuehrer/q03-setup.png
+    image_duration_ms: 1
+    question: Wer ist für die Einhaltung der Verkehrsvorschriften verantwortlich?
+    answers:
+      - Der Schiffsführer oder sein Stellvertreter.
+      - Der Schiffsführer und sein Stellvertreter.
+      - Der Schiffsführer und jeder sonst Verantwortliche.
+      - Der Schiffsführer oder jeder sonst Verantwortliche.
+    correct: 0
+    headline: Oder – nicht und
+    body: |
+      - 👤 Verantwortlich ist der Schiffsführer – oder ein ausdrücklich bestimmter Stellvertreter
+      - 🚫 Nicht die gesamte Crew, nicht alle gemeinsam
+      - ↗️ Wer kurz ans Steuer darf, übernimmt nicht automatisch Verantwortung
+      - ✍️ Auch der Stellvertreter muss ausdrücklich bestimmt sein
+      💡 Verantwortung ist nicht teilbar – sie liegt bei einer Person.
+    body_scripts:
+      - >-
+        Verantwortlich ist der Schiffsführer – oder ein ausdrücklich bestimmter Stellvertreter. Nicht beides
+        gleichzeitig.
+      - Nicht die gesamte Crew, nicht alle gemeinsam. Verantwortung ist keine Teamleistung.
+      - >-
+        Wer kurz ans Steuer darf, übernimmt damit nicht automatisch die Verantwortung. Das ist kein automatischer
+        Übergang.
+      - Ein Stellvertreter muss genauso ausdrücklich bestimmt werden wie der Schiffsführer selbst.
+      - 'Merkhilfe: Verantwortung ist nicht teilbar. Sie liegt immer bei einer Person.'
+    script: 'Richtig ist A: der Schiffsführer oder sein Stellvertreter.'
+    audio: audio/generated/sbf-see-01/q03-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 4500
+      - 11850
+      - 17112
+      - 24126
+      - 29700
+  - id: q04-setup
+    type: explanation
+    duration_ms: 11952
+    background: images/generated/sbf-see-01-schiffsfuehrer/q04-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of an experienced skipper at the helm of a sailboat in choppy conditions, focused and alert,
+      scanning the horizon, overcast sky with hints of sun, sense of careful seamanship and awareness, photorealistic,
+      no text, no watermarks
+    script: >-
+      Ihr kennt die Verkehrsregeln, ihr kennt die Zeichen. Aber reicht das? Das Gesetz fordert noch etwas mehr: die
+      seemännische Sorgfaltspflicht. Was steckt hinter diesem Begriff?
+    audio: audio/generated/sbf-see-01/q04-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q04-frage
+    type: question
+    duration_ms: 37344
+    background: images/generated/sbf-see-01-schiffsfuehrer/q04-setup.png
+    catalog_number: 77
+    question_number: 4
+    question_total: 5
+    question: Was versteht man unter "seemännischer Sorgfaltspflicht"?
+    answers:
+      - >-
+        Die Verpflichtung zur Beachtung der SeeSchStrO, der KVR, der Grundregeln für das Verhalten im Verkehr und der
+        Ausweichregeln mit dem Manöver des letzten Augenblicks.
+      - >-
+        Die Verpflichtung zur Beachtung der Vorsichtsmaßregeln und Sicherheitsregeln der Verkehrsvorschriften und der
+        Grundregeln für das Verhalten im Verkehr.
+      - >-
+        Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln der KVR, der Grundregeln für das Verhalten im Verkehr und
+        der Ausweichregeln mit dem Manöver des letzten Augenblicks.
+      - >-
+        Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch
+        oder besondere Umstände des Falles erfordern.
+    correct: 3
+    reveal_ms: 37144
+    script: >-
+      Was bedeutet seemännische Sorgfaltspflicht? A: Die Verpflichtung zur Beachtung der Seeschifffahrtsstraßen-Ordnung,
+      der Kollisionsverhütungsregeln, der Grundregeln und der Ausweichregeln. B: Die Verpflichtung zur Beachtung der
+      Vorsichtsmaßregeln und Sicherheitsregeln der Verkehrsvorschriften. C: Die Verpflichtung zur Beachtung von
+      Vorsichtsmaßregeln der Kollisionsverhütungsregeln und der Ausweichregeln. Oder D: Die Verpflichtung zur Beachtung
+      von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch oder besondere Umstände erfordern.
+      Was trifft es?
+    audio: audio/generated/sbf-see-01/q04-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q04-erklaerung
+    type: explanation
+    duration_ms: 35876
+    background: images/generated/sbf-see-01-schiffsfuehrer/q04-setup.png
+    image_duration_ms: 1
+    question: Was versteht man unter "seemännischer Sorgfaltspflicht"?
+    answers:
+      - >-
+        Die Verpflichtung zur Beachtung der SeeSchStrO, der KVR, der Grundregeln für das Verhalten im Verkehr und der
+        Ausweichregeln mit dem Manöver des letzten Augenblicks.
+      - >-
+        Die Verpflichtung zur Beachtung der Vorsichtsmaßregeln und Sicherheitsregeln der Verkehrsvorschriften und der
+        Grundregeln für das Verhalten im Verkehr.
+      - >-
+        Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln der KVR, der Grundregeln für das Verhalten im Verkehr und
+        der Ausweichregeln mit dem Manöver des letzten Augenblicks.
+      - >-
+        Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch
+        oder besondere Umstände des Falles erfordern.
+    correct: 3
+    headline: Vorschriften sind das Minimum – Sorgfalt geht weiter
+    body: |
+      - 📏 Verkehrsvorschriften einhalten ist Pflicht – Sorgfaltspflicht geht darüber hinaus
+      - 🧭 Seemannsbrauch heißt: was ein erfahrener Skipper in dieser Lage tun würde
+      - ⚠️ Besondere Umstände können extra Vorsicht erfordern, auch ohne Regelverstoß
+      - 🏛️ "Ich hab mich ans Gesetz gehalten" reicht nicht immer als Entschuldigung
+      💡 Sorgfalt bedeutet: vorausdenken, nicht nur reagieren.
+    body_scripts:
+      - Verkehrsvorschriften einhalten ist die Mindestpflicht. Die seemännische Sorgfaltspflicht geht darüber hinaus.
+      - >-
+        Seemannsbrauch ist das, was ein erfahrener Skipper in der gleichen Situation tun würde – auch wenn keine Regel
+        es ausdrücklich vorschreibt.
+      - >-
+        Besondere Umstände können extra Vorsicht erfordern – auch ohne formellen Regelverstoß. Beispiel: dichter Verkehr
+        im Nebel.
+      - Regeln kennen und befolgen ist die Basis. Aber situativ vorausdenken ist die Pflicht darüber hinaus.
+      - 'Merkhilfe: Sorgfalt bedeutet vorausdenken – nicht nur reagieren.'
+    script: Richtig ist D.
+    audio: audio/generated/sbf-see-01/q04-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1788
+      - 8922
+      - 17112
+      - 24966
+      - 31524
+  - id: q05-setup
+    type: explanation
+    duration_ms: 10440
+    background: images/generated/sbf-see-01-schiffsfuehrer/q05-setup.png
+    image_duration_ms: 999999
+    image_prompt: >-
+      Cinematic shot of a boat captain briefing a small crew and guests on deck before departure, life jackets and
+      safety equipment visible, marina in background, attentive people listening, photorealistic, warm morning light, no
+      text, no watermarks
+    script: >-
+      Letzte Frage. Ihr seid Schiffsführer, die Crew ist an Bord, gleich geht es los. Was müsst ihr vor dem Ablegen
+      konkret für die Sicherheit aller tun?
+    audio: audio/generated/sbf-see-01/q05-setup.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q05-frage
+    type: question
+    duration_ms: 23784
+    background: images/generated/sbf-see-01-schiffsfuehrer/q05-setup.png
+    catalog_number: 78
+    question_number: 5
+    question_total: 5
+    question: Welche Sicherheitsmaßnahmen hat der Schiffsführer vor Fahrtantritt zum Schutz der Personen an Bord zu treffen?
+    answers:
+      - >-
+        Der Schiffsführer muss Besatzungsmitglieder und Gäste anweisen, sich selbst über die Sicherheitsvorkehrungen zu
+        informieren, die Gebrauchsanweisungen der Rettungs- und Feuerlöschmittel zu lesen und auf Maßnahmen gegen das
+        Überbordfallen zu achten.
+      - >-
+        Der Schiffsführer hat Besatzungsmitglieder und Gäste über die Sicherheitsvorkehrungen an Bord zu unterrichten,
+        in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das Überbordfallen
+        hinzuweisen; zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen erhöhen.
+      - >-
+        Der Schiffsführer hat die verantwortlichen Besatzungsmitglieder über die Sicherheitsvorkehrungen zu
+        unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das
+        Überbordfallen hinzuweisen.
+      - >-
+        Der Schiffsführer hat die Gäste an Bord über die Sicherheitsvorkehrungen zu unterrichten, in die Handhabung der
+        Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das Überbordfallen hinzuweisen.
+    correct: 1
+    reveal_ms: 23584
+    script: >-
+      Was muss der Schiffsführer tun? A: Besatzung und Gäste anweisen, sich selbst zu informieren. B: Besatzung und
+      Gäste persönlich unterrichten, in Rettungs- und Feuerlöschmittel einweisen, auf Überbordfallen hinweisen und auf
+      Rettungswesten hinweisen. C: Nur die verantwortlichen Besatzungsmitglieder unterrichten. Oder D: Nur die Gäste
+      unterrichten. Was ist korrekt?
+    audio: audio/generated/sbf-see-01/q05-frage.mp3
+    transition:
+      type: fade
+      duration_ms: 300
+  - id: q05-erklaerung
+    type: explanation
+    duration_ms: 35228
+    background: images/generated/sbf-see-01-schiffsfuehrer/q05-setup.png
+    image_duration_ms: 1
+    question: Welche Sicherheitsmaßnahmen hat der Schiffsführer vor Fahrtantritt zum Schutz der Personen an Bord zu treffen?
+    answers:
+      - >-
+        Der Schiffsführer muss Besatzungsmitglieder und Gäste anweisen, sich selbst über die Sicherheitsvorkehrungen zu
+        informieren, die Gebrauchsanweisungen der Rettungs- und Feuerlöschmittel zu lesen und auf Maßnahmen gegen das
+        Überbordfallen zu achten.
+      - >-
+        Der Schiffsführer hat Besatzungsmitglieder und Gäste über die Sicherheitsvorkehrungen an Bord zu unterrichten,
+        in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das Überbordfallen
+        hinzuweisen; zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen erhöhen.
+      - >-
+        Der Schiffsführer hat die verantwortlichen Besatzungsmitglieder über die Sicherheitsvorkehrungen zu
+        unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das
+        Überbordfallen hinzuweisen.
+      - >-
+        Der Schiffsführer hat die Gäste an Bord über die Sicherheitsvorkehrungen zu unterrichten, in die Handhabung der
+        Rettungs- und Feuerlöschmittel einzuweisen und auf Maßnahmen gegen das Überbordfallen hinzuweisen.
+    correct: 1
+    headline: Alle einweisen – persönlich, ohne Ausnahme
+    body: |
+      - 👨‍✈️ Der Schiffsführer weist persönlich ein – nicht delegieren, nicht selbst lesen lassen
+      - 👥 Gilt für alle: Crew und Gäste gleichermaßen
+      - 📋 Themen: Rettungsmittel, Feuerlöscher, Schutz gegen Überbordfallen
+      - 🦺 Dazu: Hinweis, dass ständig angelegte Rettungswesten die Überlebenschancen erhöhen
+      💡 Wie das Sicherheitsvideo im Flugzeug – auch wenn man es schon kennt.
+    body_scripts:
+      - Der Schiffsführer weist persönlich ein – nicht delegieren, nicht selbst lesen lassen.
+      - 'Das gilt für alle: Besatzungsmitglieder genauso wie Gäste. Keine Ausnahme.'
+      - >-
+        Die drei Themen: Sicherheitsvorkehrungen an Bord, Handhabung von Rettungs- und Feuerlöschmitteln, und der Schutz
+        gegen das Überbordfallen.
+      - >-
+        Und dazu kommt der ausdrückliche Hinweis: eine ständig angelegte Rettungsweste erhöht die Überlebenschancen im
+        Wasser erheblich.
+      - 'Merkhilfe: Wie das Sicherheitsvideo im Flugzeug – auch wenn die Crew es auswendig kennt.'
+    script: Richtig ist B.
+    audio: audio/generated/sbf-see-01/q05-erklaerung.mp3
+    transition:
+      type: fade
+      duration_ms: 400
+    body_audio_offsets_ms:
+      - 1812
+      - 7290
+      - 11808
+      - 20574
+      - 28932
+  - id: outro
+    type: outro
+    duration_ms: 8000
+    topic: Pflichten des Schiffsführers
+    summary_points:
+      - Vor dem Ablegen muss ein Schiffsführer ausdrücklich bestimmt werden
+      - Ab 0,5 Promille ist das Führen eines Sportboots verboten
+      - Für die Verkehrsvorschriften ist der Schiffsführer oder sein Stellvertreter verantwortlich
+      - Seemännische Sorgfaltspflicht geht über die Verkehrsvorschriften hinaus
+      - Alle an Bord müssen vor dem Ablegen persönlich eingewiesen werden

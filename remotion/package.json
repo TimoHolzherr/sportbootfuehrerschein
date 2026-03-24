@@ -1,0 +1,36 @@
+{
+  "name": "klar-zum-entern-videos",
+  "version": "1.0.0",
+  "description": "YouTube Lernvideos für Sportbootführerscheine — Klar zum Entern",
+  "scripts": {
+    "start": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH remotion studio src/index.ts",
+    "gen:audio": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH ts-node scripts/gen-audio.ts",
+    "gen:images": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH ts-node scripts/gen-images.ts",
+    "gen:jingle": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH ts-node scripts/gen-jingle.ts",
+    "sync:durations": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH ts-node scripts/sync-durations.ts",
+    "render": "PATH=/usr/local/Cellar/node/25.8.0/bin:$PATH remotion render src/index.ts"
+  },
+  "keywords": [],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@remotion/cli": "^4.0.434",
+    "@remotion/media-utils": "^4.0.434",
+    "@remotion/renderer": "^4.0.434",
+    "@types/js-yaml": "^4.0.9",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "dotenv": "^17.3.1",
+    "js-yaml": "^4.1.1",
+    "music-metadata": "^7.14.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.434",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "yaml-loader": "^0.9.0",
+    "zod": "^4.3.6"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.9.4"
+  }
+}

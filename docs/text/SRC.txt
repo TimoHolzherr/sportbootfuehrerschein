@@ -1,0 +1,4716 @@
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+Dies ist eine Leseversion und stellt einen redaktionellen Service dar.
+Rechtsverbindlich sind ausschließlich die im Verkehrsblatt veröffentlichten Texte.
+
+Fragenkatalog I
+Mobiler Seefunkdienst für das beschränkt gültige Funkbetriebszeugnis (Short Range Certificate, SRC)
+
+I.
+
+Mobiler Seefunkdienst und Weltweites Seenotund Sicherheitsfunksystem (GMDSS)....................................................................Fragen
+
+001 – 023
+
+II.
+
+Funkeinrichtungen und Seefunkstellen……………………………………………………….……..Fragen
+
+024 – 052
+
+III.
+
+Digitaler Selektivruf (DSC)…………………………………………………………….…………………...Fragen
+
+053 – 068
+
+IV.
+
+UKW (VHF) – Sprechfunk……………………………………………………………………………...……Fragen
+
+069 – 084
+
+V.
+
+Betriebsverfahren und Rangfolgen………….……………………………………….…….……..… Fragen
+
+085 – 115
+
+VI.
+
+Nautische und Meteorologische
+Warnnachrichten (NAVTEX)……………………………………..……….………………………………Fragen
+
+116 – 124
+
+Suche und Rettung (SAR), Seenotfunkbake
+(EPIRB) und Radartransponder (SART……………………………………………………………….Fragen
+
+125 – 180
+
+VII.
+
+
+
+Richtig ist immer die Antwort 1.
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+2
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+I.
+
+Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem
+(GMDSS)
+
+1.
+
+„Mobiler Seefunkdienst“ ist mobiler Funkdienst …
+
+[1]
+
+1)
+
+zwischen Küstenfunkstellen und Seefunkstellen bzw. zwischen Seefunkstellen
+untereinander
+
+2)
+
+zwischen tragbaren Funkstellen an Bord eines Seefahrzeuges
+
+3)
+
+ausschließlich zwischen Seefunkstellen
+
+4)
+
+zwischen Funkstellen, für die keine Zuteilung (Ship Station Licence) notwendig ist
+
+2.
+
+Welche Funktion hat das „GMDSS“ (Global Maritime Distress and Safety System)?
+
+1)
+
+Hilfe in Seenotfällen und Sicherung der Schifffahrt durch schnelle und genaue
+Alarmierung im Seenotfall
+
+2)
+
+Koordinierung der Alarmierung von Seefunkstellen im Seenotfall
+
+3)
+
+Positionsbestimmung des Havaristen durch geostationäre Satelliten
+
+4)
+
+Störungsfreier Funkverkehr im Seenotfall
+
+3.
+
+Zu welchem Zweck wurde das Weltweite Seenot- und Sicherheitsfunksystem (GMDSS)
+[3]
+eingeführt?
+
+1)
+
+Schnelle und genaue Alarmierung in Not-, Dringlichkeits- und Sicherheitsfällen
+
+2)
+
+Schnelle Alarmierung in Notfällen
+
+3)
+
+Schnelle und genaue Alarmierung in Not- und Dringlichkeitsfällen
+
+4)
+
+Schnelle und genaue Alarmierung in Not- und Sicherheitsfällen
+
+[2]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+3
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+4.
+
+Welche Aufgaben hat die Internationale Fernmeldeunion
+(International Telecommunication Union [ITU])?
+
+1)
+
+Die Internationale Fernmeldeunion (ITU) legt die grundlegenden Regelungen für die
+internationale Telekommunikation fest
+
+2)
+
+Die Internationale Fernmeldeunion (ITU) legt für alle Nationen der UN, die weltweit
+Seeschifffahrt betreiben, die Mindeststandards hinsichtlich der Funkausrüstung von
+Seeschiffen fest
+
+3)
+
+Die Internationale Fernmeldeunion (ITU) führt als internationale Verkehrsbehörde
+weltweit die Überwachung des Funkverkehrs durch
+
+4)
+
+Die Internationale Fernmeldeunion (ITU) rechnet die Gebühren von weltweiten
+Seefunkgesprächen ab
+
+5.
+
+Was regelt die Vollzugsordnung für den Funkdienst
+(VO Funk, engl. Radio Regulations [RR])?
+
+1)
+
+Die Vollzugsordnung für den Funkdienst (RR) regelt u. a. die Zuweisung von
+Frequenzbereichen an die Funkdienste und die Betriebsverfahren im Seefunkdienst
+
+2)
+
+Die Vollzugsordnung für den Funkdienst (RR) regelt die Ausrüstung von Seeschiffen
+bezüglich der Funkeinrichtung
+
+3)
+
+Die Vollzugsordnung für den Funkdienst (RR) regelt den freien Funkverkehr zwischen
+den Seefahrt betreibenden Nationen
+
+4)
+
+Die Vollzugsordnung für den Funkdienst (RR) regelt die Benutzung von Radaranlagen auf
+Seeschiffen auf See und in Häfen
+
+6.
+
+Welche Publikationen des Bundesamtes für Seeschifffahrt und Hydrographie (BSH)
+enthalten speziell für die Sportschifffahrt Informationen zum Seefunk?
+
+1)
+
+Funkdienst für die Klein- und Sportschifffahrt
+
+2)
+
+Nautisches Jahrbuch
+
+3)
+
+Nachrichten für Seefahrer
+
+4)
+
+Mitteilungen für Seefunkstellen und Schiffsfunkstellen
+
+[4]
+
+[5]
+
+[6]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+4
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+7.
+
+Was ist eine „Küstenfunkstelle“?
+
+1)
+
+Ortsfeste Funkstelle des mobilen Seefunkdienstes
+
+2)
+
+Funkstelle an Bord eines Schiffes im Küstenbereich, über die wichtige Informationen
+für die Seeschifffahrt verbreitet werden
+
+3)
+
+Funkstelle des Rundfunkdienstes zur Übermittlung von Wetternachrichten für die
+Schifffahrt
+
+4)
+
+Funkstelle an Bord eines Schiffes für den Empfang von Funkgesprächen aus dem
+Mobilfunknetz
+
+8.
+
+Was bedeutet „öffentlicher Funkverkehr“?
+
+1)
+
+Funkverkehr, der der Allgemeinheit zum Austausch von Nachrichten dient
+
+2)
+
+Funkverkehr, der im Gegensatz zum Nichtöffentlichen Funkverkehr unverschlüsselt
+abgewickelt wird
+
+3)
+
+Funkverkehr, der von jeder Seefunkstelle abgehört werden muss
+
+4)
+
+Funkverkehr, der nicht dem Fernmeldegeheimnis und dem Abhörverbot unterliegt
+
+9.
+
+Für die Teilnahme am öffentlichen Funkverkehr ist – im Gegensatz zur Teilnahme
+am Nicht-öffentlichen Funkverkehr – zusätzlich erforderlich …
+
+1)
+
+Vertrag mit einer Abrechnungsgesellschaft
+
+2)
+
+Besitz eines Seefunkzeugnisses
+
+3)
+
+Zulassung des Funkgeräts
+
+4)
+
+Zuteilung (Ship Station Licence)
+
+[7]
+
+[8]
+
+[9]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+5
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+10.
+
+Wodurch erfährt eine Seefunkstelle von einer Küstenfunkstelle, dass dort Nachrichten
+[10]
+für sie vorliegen?
+
+1)
+
+Individuelle Benachrichtigung oder Abhören von Sammelanrufen
+
+2)
+
+Individuelle Benachrichtigung durch die Abrechnungsgesellschaft
+
+3)
+
+Individuelle Benachrichtigung mittels SMS oder E-Mail
+
+4)
+
+Öffentliche Benachrichtigung mittels NAVTEX
+
+11.
+
+Was sind die Abrechnungsgrundlagen für ein Seefunkgespräch über eine deutsche
+Küstenfunkstelle?
+
+1)
+
+Gesprächsdauer und Preis der Verrechnungseinheiten
+
+2)
+
+Gesprächsdauer und Entfernung zur Küstenfunkstelle
+
+3)
+
+Gesprächsdauer und Frequenznutzungsgebühren
+
+4)
+
+Gesprächsdauer und Dringlichkeit des Gesprächs
+
+12.
+
+Was ist eine „Sea-Area“ im GMDSS?
+
+1)
+
+Festgelegtes Seegebiet
+
+2)
+
+International festgelegtes Seewarngebiet
+
+3)
+
+Im NAVTEX bestimmtes Seegebiet
+
+4)
+
+Weltweites Raster zum schnellen Auffinden von verunglückten Fahrzeugen
+
+[11]
+
+[12]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+6
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+13.
+
+Welche Bezeichnungen tragen die Seegebiete, in denen für Schiffe eine bestimmte
+Funkausrüstung international vorgeschrieben ist?
+
+1)
+
+A1, A2, A3, A4
+
+2)
+
+A, B, C, D
+
+3)
+
+NAVAREAS
+
+4)
+
+Küstengewässer, küstennahe Seegewässer, Hohe See
+
+14.
+
+Eine Yacht befindet sich in einem Seegebiet, das von der Sprechfunkreichweite einer
+UKW-Küstenfunkstelle abgedeckt wird, die ununterbrochen für DSC-Alarmierungen
+zur Verfügung steht. In welchem Seegebiet befindet sich das Fahrzeug?
+
+1)
+
+Seegebiet A1
+
+2)
+
+Seegebiet A2
+
+3)
+
+Seegebiet A3
+
+4)
+
+Seegebiet A4
+
+15.
+
+Welches sind die satellitengestützten Alarmierungssysteme im Weltweiten Seenotund Sicherheitsfunksystem (GMDSS)?
+
+1)
+
+COSPAS-SARSAT, Inmarsat
+
+2)
+
+Eutelsat, Globalstar
+
+3)
+
+EPIRB, AIS
+
+4)
+
+DSC, COSPAS-SARSAT
+
+[13]
+
+[14]
+
+[15]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+7
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+16.
+
+Was wird als „MSI“ bezeichnet?
+
+1)
+
+Nachricht, die die Sicherheit der Seeschifffahrt betrifft
+
+2)
+
+Rufnummer im Seefunkdienst (Maritime Mobile Service Identity)
+
+3)
+
+Mittlere Signalstärke des modulierten Eingangssignals
+
+4)
+
+Landeskennung einer Seefunkstelle
+
+17.
+
+Welche Aussendung wird als „WX" bezeichnet?
+
+1)
+
+Wetterbericht
+
+2)
+
+Nautische Warnnachricht
+
+3)
+
+Aussendung, die zurückgenommen wurde
+
+4)
+
+Funktelexaussendung im GMDSS
+
+18.
+
+Welche Aussendung wird als „NX" bezeichnet?
+
+1)
+
+Nautische Warnnachricht
+
+2)
+
+Wetterbericht
+
+3)
+
+Aussendung, die zurückgenommen wurde
+
+4)
+
+Funktelexaussendung im GMDSS
+
+[16]
+
+[17]
+
+[18]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+8
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+19.
+
+Was versteht man unter „AIS“?
+
+1)
+
+Automatisches Schiffsidentifizierungs- und Überwachungssystem, das statische und
+dynamische Schiffsdaten auf UKW überträgt
+
+2)
+
+Automatische Aussendung der Kennung eines Seeschiffes jede Minute bzw. beim
+Loslassen der Sprechtaste
+
+3)
+
+Allgemeines Informationssystem für die Seeschifffahrt
+
+4)
+
+Identifizierung eines Schiffes mit Hilfe von Radarpeilungen und deren Weitergabe an die
+Schifffahrt zur Kollisionsverhütung
+
+20.
+
+Was bedeutet „ETA“?
+
+1)
+
+Voraussichtliche Ankunftszeit
+
+2)
+
+Voraussichtliche Abfahrtszeit
+
+3)
+
+Voraussichtliche Gesamtfahrtzeit
+
+4)
+
+Voraussichtliche Restfahrtzeit
+
+21.
+
+Wonach richten sich die Zeitangaben im Seefunkdienst?
+
+1)
+
+Koordinierte Weltzeit (Universal Time Co-ordinated [UTC])
+
+2)
+
+Bordzeit, berichtigt nach Sommer- oder Winterzeit
+
+3)
+
+Greenwich-Zeit (Greenwich Mean Time [GMT])
+
+4)
+
+Ortszeit, bezogen auf den Standort des Schiffes (Local Time [LT])
+
+[19]
+
+[20]
+
+[21]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+9
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+22.
+
+Welche Bedeutung hat die Zeitangabe „LT“ (Local Time)?
+
+1)
+
+Ortszeit, bezogen auf den Standort des Schiffes
+
+2)
+
+Zeitzone entsprechend der geografischen Breite des Schiffsortes
+
+3)
+
+Zeit, die bei Funkaussendungen in einem bestimmten Seegebiet zu verwenden ist
+
+4)
+
+Zeit, die automatisch durch ein an die Funkanlage angeschlossenes GPS-Gerät
+übermittelt wird
+
+23.
+
+Wie bezeichnet man ein funkärztliches Beratungsgespräch?
+
+1)
+
+Medico-Gespräch
+
+2)
+
+Emergency-Gespräch
+
+3)
+
+Medical-Transport-Gespräch
+
+4)
+
+Erste-Hilfe-Gespräch
+
+II.
+
+[22]
+
+[23]
+
+Funkeinrichtungen und Seefunkstellen
+
+24.
+
+Was ist eine „Seefunkstelle“?
+
+1)
+
+Funkstelle des mobilen Seefunkdienstes an Bord eines nicht dauernd verankerten
+Seefahrzeuges
+
+2)
+
+Typgeprüfte Funkstelle, die kein ATIS-Signal aussendet
+
+3)
+
+Seefunkgerät samt Antenne, das im UKW- bzw. Grenz- und Kurzwellenbereich
+betrieben wird
+
+4)
+
+Funkstelle, die am GMDSS teilnehmen darf
+
+[24]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+10
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+25.
+
+Welches Funkzeugnis ist auf einem mit einer Seefunkanlage ausgerüsteten
+Sportfahrzeug unter deutscher Flagge für den Schiffsführer vorgeschrieben?
+
+1)
+
+Ein Funkzeugnis, das zum Bedienen der eingebauten Anlage berechtigt,
+z. B. SRC oder LRC
+
+2)
+
+Ein SRC bis zur Grenze der Hoheitsgewässer, darüber hinaus ein LRC
+
+3)
+
+Keines, es genügt, wenn eine Person an Bord ist, die die Funkanlage bedienen darf
+
+4)
+
+Für die Bedienung einer Grenz-/Kurzwellenanlage ist das LRC vorgeschrieben, für die
+Bedienung einer UKW-Anlage zusätzlich das SRC
+
+26.
+
+Welche Funkanlagen darf der Inhaber eines Beschränkt Gültigen
+Funkbetriebszeugnisses (Short Range Certificate [SRC]) bedienen?
+
+1)
+
+UKW-Funkanlagen im Seefunkdienst auf nicht funkausrüstungspflichtigen Fahrzeugen
+und auf Traditionsschiffen
+
+2)
+
+UKW-Funkanlagen für See- und Luftfunkstellen
+
+3)
+
+UKW-Funkanlagen auf Sportbooten im Seefunkdienst und Binnenschifffahrtsfunk
+
+4)
+
+UKW-Funkanlagen auf funkausrüstungspflichtigen und nicht funkausrüstungspflichtigen Seeschiffen
+
+27.
+
+Welche Sportboote müssen mit einer UKW-Seefunkanlage ausgerüstet sein?
+
+1)
+
+Gewerbsmäßig genutzte Sportboote mit einer Länge über alles von 12 m und mehr
+
+2)
+
+Sportboote mit einer Länge über alles von 12 m und mehr
+
+3)
+
+Sportboote mit einer Antriebsmaschine von 3,68 kW und mehr
+
+4)
+
+Gewerbsmäßig genutzte Sportboote mit einer Antriebsmaschine von 3,68 kW
+und mehr
+
+[25]
+
+[26]
+
+[27]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+11
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+28.
+
+Welche rechtlichen Voraussetzungen sind für den Betrieb einer Seefunkstelle auf
+einem Sportfahrzeug und einem Traditionsschiff zu erfüllen?
+
+1)
+
+Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr
+gebrachte Funkgeräte, ausreichendes Seefunkzeugnis des Fahrzeugführers
+
+2)
+
+Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis und
+Sportbootführerschein des Fahrzeugführers
+
+3)
+
+Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis einer Person an Bord
+
+4)
+
+Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr
+gebrachte Funkgeräte, Sportbootführerschein
+
+29.
+
+Welche Urkunde und welcher Befähigungsnachweis müssen bei der Überprüfung
+einer Seefunkstelle auf einem Sportfahrzeug dem Prüfbeamten auf Verlangen
+vorgelegt werden?
+
+1)
+
+Zuteilung (Ship Station Licence) und Seefunkzeugnis des Fahrzeugführers
+
+2)
+
+Zuteilung (Ship Station Licence) und Sportbootführerschein des Fahrzeugführers
+
+3)
+
+Seefunkzeugnis eines Besatzungsmitgliedes und Internationaler Bootsschein (IBS)
+
+4)
+
+Seefunkzeugnis des Fahrzeugführers und Eigentumsnachweis
+
+30.
+
+Die Urkunde über die Zuteilung (Ship Station Licence) zum Betreiben einer
+Seefunkstelle wird in Deutschland ausgestellt durch …
+
+1)
+
+die Bundesnetzagentur (BNetzA), Außenstelle Hamburg
+
+2)
+
+die Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr
+
+3)
+
+das Bundesamt für Seeschifffahrt und Hydrographie (BSH), Rostock
+
+4)
+
+das Wasserstraßen- und Schifffahrtsamt, Hamburg
+
+[28]
+
+[29]
+
+[30]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+12
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+31.
+
+Welche Urkunde für die Seefunkstelle muss auf einem Sportfahrzeug mitgeführt
+werden?
+
+1)
+
+Zuteilungsurkunde (Ship Station Licence) (im Original)
+
+2)
+
+Zuteilungsurkunde (Ship Station Licence) (in Kopie)
+
+3)
+
+Gerätezulassungsurkunde (im Original)
+
+4)
+
+Gerätezulassungsurkunde (in Kopie)
+
+32.
+
+Was und zu welchem Zweck muss ein Schiffseigner bei Änderung des Schiffsnamens
+in Bezug auf seine Seefunkstelle veranlassen?
+
+1)
+
+Namensänderung der Bundesnetzagentur schriftlich mitteilen zwecks Änderung seiner
+Zuteilungsurkunde (Ship Station Licence)
+
+2)
+
+Namensänderung dem Bundesamt für Seeschifffahrt und Hydrographie schriftlich
+mitteilen zwecks Änderung der Gerätezulassungsurkunde)
+
+3)
+
+Namensänderung dem Wasser- und Schifffahrtsamt, Hamburg schriftlich mitteilen
+zwecks Änderung des Kennzeichenausweises
+
+4)
+
+Namensänderung der Zentralen Verwaltungsstelle schriftlich mitteilen zwecks Änderung
+des Kennzeichenausweises
+
+33.
+
+Was muss ein Schiffseigner beim Austausch der UKW-Sprechfunkanlage gegen eine
+UKW-GMDSS-Funkanlage veranlassen?
+
+1)
+
+Schriftliche Mitteilung über die Umrüstung an die Bundesnetzagentur
+
+2)
+
+Schriftliche Mitteilung über die Umrüstung an das Bundesamt für Seeschifffahrt und
+Hydrographie
+
+3)
+
+Schriftliche Mitteilung über die Umrüstung an das Amtsgericht
+
+4)
+
+Schriftliche Mitteilung über die Umrüstung an die Zentrale Verwaltungsstelle
+
+[31]
+
+[32]
+
+[33]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+13
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+34.
+
+Was ist beim Kauf eines UKW-Sprechfunkgeräts für den Seefunkdienst oder eines
+UKW-GMDSS-Funkgeräts zu beachten?
+
+1)
+
+Das Funkgerät muss für den Seefunkdienst zugelassen oder in Verkehr gebracht
+worden sein
+
+2)
+
+Das Funkgerät muss funktionsfähig und TÜV-geprüft sein
+
+3)
+
+Das Funkgerät muss eine NAVTEX-Schnittstelle aufweisen oder Wetterberichte
+empfangen können
+
+4)
+
+Das Funkgerät muss von der Dienststelle Schiffssicherheit der Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr) für Sportboote
+zugelassen sein
+
+35.
+
+Wer stellt in Deutschland Funksicherheitszeugnisse für Sportboote aus, die
+gewerbsmäßig genutzt werden?
+
+1)
+
+Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation (BG Verkehr)
+
+2)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+3)
+
+Wasserstraßen- und Schifffahrtsverwaltung (WSV)
+
+4)
+
+Bundesnetzagentur (BNetzA)
+
+36.
+
+Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis...
+
+1)
+
+bei gewerbsmäßiger Nutzung
+
+2)
+
+bei Regattateilnahme
+
+3)
+
+bei Auslandsfahrten und in internationalen Gewässern
+
+4)
+
+in jedem Fall
+
+[34]
+
+[35]
+
+[36]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+14
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+37.
+
+Welche Sendeleistungen lassen sich bei einer fest installierten UKW-Seefunkanlage
+schalten?
+
+1)
+
+1 Watt oder maximal 25 Watt
+
+2)
+
+25 Watt oder maximal 50 Watt
+
+3)
+
+0,1 Watt oder maximal 2,5 Watt
+
+4)
+
+1 Watt oder maximal 12 Watt
+
+38.
+
+Welche Behörde erteilt in Deutschland sechsstellige Rufzeichen für Seefunkstellen?
+
+1)
+
+Bundesnetzagentur (BNetzA), Außenstelle Hamburg
+
+2)
+
+Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr
+
+3)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH), Hamburg
+
+4)
+
+Wasser- und Schifffahrtsamt (WSA), Hamburg
+
+39.
+
+Welche Behörden in Deutschland sind berechtigt, die Funktionsfähigkeit von
+Seefunkstellen zu überprüfen?
+
+1)
+
+Bundesnetzagentur (BNetzA) und Bundesamt für Seeschifffahrt und
+Hydrographie (BSH)
+
+2)
+
+Wasser- und Schifffahrtsdirektionen
+
+3)
+
+Wasserschutzpolizeibehörden der Küstenländer
+
+4)
+
+Hafenbehörden in den Seehäfen
+
+[37]
+
+[38]
+
+[39]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+15
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+40.
+
+Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das
+mindestens vierstellige Unterscheidungssignal zu?
+
+1)
+
+Seeschiffsregister des zuständigen Amtsgerichts
+
+2)
+
+Wasser- und Schifffahrtsverwaltung (WSV)
+
+3)
+
+Bundesnetzagentur (BNetzA)
+
+4)
+
+Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+
+41.
+
+Welche Art von Funkstelle hat z. B. das Rufzeichen „DDTW“?
+
+1)
+
+Seefunkstelle an Bord eines deutschen Schiffes, eingetragen in einem Seeschiffsregister
+
+2)
+
+Küstenfunkstelle des Schiffsmeldedienstes (SMD)
+
+3)
+
+Funkstelle des Nichtöffentlichen Funkdienstes
+
+4)
+
+Funkstelle an Bord eines SAR-Hubschraubers
+
+42.
+
+Das Abhörverbot und das Fernmeldegeheimnis sind geregelt...
+
+1)
+
+im Telekommunikationsgesetz (TKG)
+
+2)
+
+in der Vollzugsordnung für den Funkdienst (VO Funk)/in den Radio Regulations (RR)
+
+3)
+
+in der Schiffssicherheitsverordnung (SchSV)
+
+4)
+
+im Gesetz über Funkanlagen und Telekommunikationseinrichtungen (FTEG)
+
+[40]
+
+[41]
+
+[42]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+16
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+43.
+
+Wer ist beim Betrieb einer Seefunkstelle auf einem Sportboot zur Wahrung des
+Fernmeldegeheimnisses und des Abhörverbots verpflichtet?
+
+1)
+
+Alle Personen, die eine Seefunkstelle beaufsichtigen, bedienen oder Kenntnis über
+öffentlichen Nachrichtenaustausch erlangt haben
+
+2)
+
+Alle Personen, die ständig an Bord sind
+
+3)
+
+Alle Personen, die das Funkgerät bedienen können
+
+4)
+
+Alle Personen, die vom Schiffsführer ausdrücklich dazu verpflichtet worden sind
+
+44.
+
+Welche Nachrichten dürfen uneingeschränkt aufgenommen und verbreitet werden?
+
+1)
+
+Aussendungen, die „An alle Funkstellen“ gerichtet sind
+
+2)
+
+Aussendungen, die von allgemeinem Interesse sind
+
+3)
+
+Aussendungen im öffentlichen Seefunkdienst
+
+4)
+
+Aussendungen im Seefunkdienst dürfen uneingeschränkt aufgenommen und
+verbreitet werden
+
+45.
+
+Wenn ein Funkgerät ordnungsgemäß in Verkehr gebracht worden ist, trägt es...
+
+1)
+
+das CE-Zeichen
+
+2)
+
+eine Seriennummer
+
+3)
+
+das GS-Prüfzeichen
+
+4)
+
+das VDE-Prüfzeichen
+
+[43]
+
+[4]
+
+[45]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+17
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+46.
+
+Zur Teilnahme am Binnenschifffahrtsfunk muss eine Seefunkstelle...
+
+1)
+
+mit einer umschaltbaren „Kombi-Anlage für Seefunkdienst und Binnenschifffahrtsfunk“
+oder einer zusätzlichen Sprechfunkanlage für den Binnenschifffahrtsfunk ausgerüstet
+werden
+
+2)
+
+mit einer weiteren Seefunkanlage ausgerüstet werden
+
+3)
+
+nicht geändert werden
+
+4)
+
+mit der MMSI auch eine ATIS-Kennung aussenden
+
+47.
+
+Das Seefunkgerät nimmt bei Empfang einen Strom von 0,5 Ampere auf. Wie lange
+kann das Funkgerät im Empfangsbetrieb an einer Batterie ohne Nachladen
+überschlägig betrieben werden, wenn die Kapazität 60 Amperestunden beträgt?
+
+1)
+
+120 Stunden
+
+2)
+
+30 Stunden
+
+3)
+
+60 Stunden
+
+4)
+
+90 Stunden
+
+48.
+
+Welche Auswirkung auf die Betriebsdauer einer Batterie hat der Sendebetrieb einer
+Seefunkanlage im Vergleich zum Empfangsbetrieb?
+
+1)
+
+Betriebsdauer wird verkürzt
+
+2)
+
+Betriebsdauer wird halbiert
+
+3)
+
+Betriebsdauer wird verlängert
+
+4)
+
+Betriebsdauer bleibt gleich
+
+[46]
+
+[47]
+
+[48]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+18
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+49.
+
+Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im
+Empfangsbetrieb?
+
+1)
+
+Je nach Anlage zwischen 0,3 A und 1 A
+
+2)
+
+Je nach Anlage zwischen 0,1 A und 0,2 A
+
+3)
+
+Je nach Anlage zwischen 1 A und 2 A
+
+4)
+
+Je nach Anlage zwischen 2 A und 3 A
+
+50.
+
+Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Sendebetrieb
+bei 25 Watt Sendeleistung?
+
+1)
+
+Zwischen 4 und 8 Ampere
+
+2)
+
+Zwischen 1 und 2 Ampere
+
+3)
+
+Zwischen 2 und 3 Ampere
+
+4)
+
+Zwischen 10 und 12 Ampere
+
+51.
+
+Wozu dient am UKW-Gerät die Rauschsperre (Squelch)?
+
+1)
+
+Der Lautsprecher des Empfängers wird nur ab einem Mindest-Empfangssignalpegel
+aktiviert
+
+2)
+
+Das Rauschen kann stufenlos auf einen angenehmen Wert eingestellt werden
+
+3)
+
+Die Rauschsperre verbessert die Wiedergabe von schwachen Empfangssignalen
+
+4)
+
+Der Lautsprecher des Empfängers wird nur beim Empfang von Notsignalen aktiviert
+
+[49]
+
+[50]
+
+[51]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+19
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+52.
+
+Welche Eigenschaften des „GPS“ sind für eine GMDSS-Funkanlage von besonderer
+Bedeutung?
+
+1)
+
+Mit Hilfe von GPS kann die genaue Position des Fahrzeugs bestimmt und übermittelt
+werden. Ebenso kann die genaue Zeit bestimmt werden
+
+2)
+
+Mit Hilfe von GPS ist ein weltweiter Funkverkehr über Satellit zwischen Schiffen
+untereinander bzw. mit Küstenfunkstellen möglich
+
+3)
+
+Mit Hilfe von GPS besteht die Möglichkeit der Kommunikation über Inmarsat bzw.
+COSPAS-SARSAT
+
+4)
+
+Mit Hilfe von GPS erfolgt die Kommunikation mit der Rettungsleitstelle über Satellit
+
+III.
+
+[52]
+
+Digitaler Selektivruf (DSC)
+
+53.
+
+Was bedeutet „DSC“ im mobilen Seefunkdienst?
+
+1)
+
+Digitaler Selektivruf
+
+2)
+
+Funküberwachung auf zwei Funkkanälen (Dual Watch)
+
+3)
+
+Gegensprechen auf zwei Frequenzen im Gegensatz zu Wechselsprechen auf einer
+Frequenz
+
+4)
+
+Digitales System für die Telekommunikation an Bord
+
+54.
+
+Was ist ein „Digitaler Selektivruf“?
+
+1)
+
+Digitale Aussendung, die bei der gerufenen Funkstelle ein optisches und/oder
+akustisches Signal auslöst
+
+2)
+
+Aussendung eines digitalen Anrufs auf Kanal 16
+
+3)
+
+Funkaussendung an eine ausgewählte Funkstelle
+
+4)
+
+Funkverkehr im GMDSS auf den dafür vorgesehenen Kanälen
+
+[53]
+
+[54]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+20
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+55.
+
+Welches technische Verfahren im GMDSS ermöglicht einer Seefunkstelle die
+Verkehrsaufnahme in den Richtungen Schiff-Küstenfunkstelle und Schiff–Schiff?
+
+1)
+
+DSC
+
+2)
+
+NAVTEX
+
+3)
+
+COSPAS-SARSAT
+
+4)
+
+SMS
+
+56.
+
+Welcher Unterschied besteht in der Reichweite bei analoger (Sprechfunk) und bei
+digitaler Übertragung (DSC) im UKW-Seefunkbereich?
+
+1)
+
+Bei digitaler Übertragung deutlich größere Reichweite im Vergleich zur analogen
+Übertragung
+
+2)
+
+Bei digitaler Übertragung besteht kein Unterschied im Vergleich zur analogen
+Übertragung
+
+3)
+
+Bei digitaler Übertragung vierfache Reichweite im Vergleich zur analogen Übertragung
+
+4)
+
+Bei digitaler Übertragung kürzere Reichweite im Vergleich zur analogen Übertragung
+
+57.
+
+Welcher UKW-Kanal wird im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS)
+für die digitale Ankündigung einer Dringlichkeitsmeldung benutzt?
+
+1)
+
+Kanal 70
+
+2)
+
+Kanal 16
+
+3)
+
+Kanal 10
+
+4)
+
+Kanal 06
+
+[55]
+
+[56]
+
+[5]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+21
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+58.
+
+Auf welchem UKW-Kanal erfolgt die Alarmierung mittels DSC?
+
+1)
+
+Kanal 70
+
+2)
+
+Kanal 16
+
+3)
+
+Kanal 06
+
+4)
+
+Kanal 10
+
+59.
+
+Wie wird eine mit DSC-Einrichtungen ausgerüstete Seefunkstelle gekennzeichnet?
+
+1)
+
+Schiffsname, Rufzeichen, Rufnummer des mobilen Seefunkdienstes (MMSI)
+
+2)
+
+Rufnummer des mobilen Seefunkdienstes (MMSI), Schiffsname
+
+3)
+
+Schiffsname, Heimathafen, Rufzeichen
+
+4)
+
+Registriernummer des Schiffszertifikates, Rufzeichen
+
+60.
+
+Der mit einem DSC-Gerät aufgenommene Notarlarm wird…
+
+1)
+
+automatisch gespeichert
+
+2)
+
+manuell gespeichert
+
+3)
+
+Gespeichert, wenn im Speicher noch genügend Platz ist
+
+4)
+
+nicht gespeichert, sondern ausgedruckt.
+
+[58]
+
+[59]
+
+[60]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+22
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+61.
+
+Was wird als „Maritime Mobile Service Identity (MMSI)“ bezeichnet?
+
+1)
+
+Rufnummer im Seefunkdienst
+
+2)
+
+Maritimes Informationssystem
+
+3)
+
+Landeskennung einer Seefunkstelle (z.B. 211)
+
+4)
+
+Aussendung, die die Sicherheit der Schifffahrt betrifft
+
+62.
+
+Wie lauten die Maritime Identification Digits (MID) für die Bundesrepublik
+Deutschland?
+
+1)
+
+211 und 218
+
+2)
+
+211 und 219
+
+3)
+
+218 und 224
+
+4)
+
+218 und 226
+
+63.
+
+Welche Urkunde enthält die eigene Seefunkstellen-Rufnummer (MMSI)?
+
+1)
+
+Zuteilungsurkunde (Ship Station Licence)
+
+2)
+
+Gerätezulassungsurkunde
+
+3)
+
+Internationaler Bootsschein
+
+4)
+
+Schiffszertifikat
+
+[61]
+
+[62]
+
+[63]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+23
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+64.
+
+Wie setzt sich die Seefunkstellen-Rufnummer (MMSI) zusammen?
+
+1)
+
+Neun Ziffern, wobei die ersten drei Ziffern die Seefunkkennzahl (MID) enthalten
+
+2)
+
+Drei Buchstaben und sechs Ziffern
+
+3)
+
+Sieben Ziffern, wobei die ersten beiden Ziffern Nullen sein müssen
+
+4)
+
+Neun Ziffern, wobei die erste Ziffer eine Null ist
+
+65.
+
+Wie setzt sich die Küstenfunkstellen-Rufnummer (MMSI) zusammen?
+
+1)
+
+Neun Ziffern, die ersten beiden Ziffern Nullen, die nächsten drei Ziffern enthalten die
+Seefunkkennzahl (MID)
+
+2)
+
+Neun Ziffern, die ersten drei Ziffern enthalten die Seefunkkennzahl (MID)
+
+3)
+
+Geografischer Ortsname der Küstenfunkstelle, gefolgt von drei Ziffern, die die
+Seefunkkennzahl (MID) bilden
+
+4)
+
+Internationale Telefon-Vorwahlnummer des Landes, in dem sich die Küstenfunkstelle
+befindet, gefolgt von fünf besonders festgelegten Ziffern
+
+66.
+
+Welche Art von Funkstelle des Seefunkdienstes kennzeichnet die Ziffernfolge
+002111240?
+
+1)
+
+Deutsche Küstenfunkstelle
+
+2)
+
+Deutsche Seefunkstelle
+
+3)
+
+Deutsches SAR-Fahrzeug
+
+4)
+
+Deutsche EPIRB
+
+[64]
+
+[65]
+
+[66]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+24
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+67.
+
+Woran ist die Nationalität der Seefunkstelle in der MMSI erkennbar?
+
+1)
+
+Seefunkkennzahl (MID)
+
+2)
+
+Länderkennung, bestehend aus drei Buchstaben
+
+3)
+
+Letzte drei Ziffern der MMSI
+
+4)
+
+Mittlere drei Ziffern der MMSI
+
+68.
+
+Durch die Verbindung mit welchem Gerät ist gewährleistet, dass bei einem
+DSC-Notalarm die aktuelle Position automatisch mit ausgesendet wird?
+
+1)
+
+GPS-Empfänger
+
+2)
+
+NAVTEX-Empfänger
+
+3)
+
+Radargerät
+
+4)
+
+UKW-Wachempfänger
+
+[67]
+
+[68]
+
+IV. UKW (VHF)–Sprechfunk
+
+69.
+
+Wie wird der Frequenzbereich von 30 bis 300 MHz bezeichnet?
+
+1)
+
+Ultrakurzwelle (UKW/VHF)
+
+2)
+
+Langwelle (LW/LF)
+
+3)
+
+Mittelwelle (MW/MF)
+
+4)
+
+Kurzwelle (KW/HF)
+
+[69]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+25
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+70.
+
+Welches Funkzeugnis muss der Führer eines Sportfahrzeugs oder Traditionsschiffes,
+das mit einer UKW-Seefunkstelle ausgerüstet ist, mindestens besitzen, um am GMDSS
+teilnehmen zu dürfen?
+
+1)
+
+Beschränkt Gültiges Funkbetriebszeugnis (Short Range Certificate)
+
+2)
+
+Allgemeines Sprechfunkzeugnis für den Seefunkdienst
+
+3)
+
+UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+
+4)
+
+Allgemeines Betriebszeugnis für Funker (General Operator’s Certificate)
+
+71.
+
+An welchem Funkdienst darf der Inhaber eines Beschränkt Gültigen
+Funkbetriebszeugnisses (SRC) teilnehmen?
+
+1)
+
+Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF)
+
+2)
+
+Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich Satellitenfunk
+
+3)
+
+Mobiler Seefunkdienst auf Kurzwelle (KW/HF) und Grenzwelle (GW/MF), außer
+Satellitenfunk
+
+4)
+
+Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich
+Grenzwelle/Kurzwelle
+
+72.
+
+Was kennzeichnet die Betriebsart „Duplex“?
+
+1)
+
+Gegensprechen auf zwei Frequenzen
+
+2)
+
+Wechselsprechen auf einer Frequenz
+
+3)
+
+Gegensprechen auf einer Frequenz
+
+4)
+
+Wechselsprechen auf zwei Frequenzen
+
+[70]
+
+[71]
+
+[72]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+26
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+73.
+
+Was kennzeichnet die Betriebsart „Simplex“?
+
+1)
+
+Wechselsprechen auf einer Frequenz
+
+2)
+
+Gegensprechen auf einer Frequenz
+
+3)
+
+Wechselsprechen auf zwei Frequenzen
+
+4)
+
+Gegensprechen auf zwei Frequenzen
+
+74.
+
+Welche Betriebsart wird als „Semi-Duplex“ bezeichnet?
+
+1)
+
+Wechselsprechen auf zwei Frequenzen
+
+2)
+
+Gegensprechen auf zwei Frequenzen
+
+3)
+
+Gegensprechen auf einer Frequenz
+
+4)
+
+Wechselsprechen auf einer Frequenz
+
+75.
+
+Welche UKW-Kanäle sind international ausschließlich für den Funkverkehr zwischen
+Seefunkstellen vorgesehen?
+
+1)
+
+Kanäle 06, 08, 72 und 77
+
+2)
+
+Kanäle 15 und 17
+
+3)
+
+Kanäle 16, 69, 70 und 82
+
+4)
+
+Kanäle 16 und 18, ersatzweise 70
+
+[73]
+
+[74]
+
+[75]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+27
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+76.
+
+Für welchen Funkverkehr dürfen die UKW-Kanäle 75 und 76 benutzt werden?
+
+1)
+
+Funkverkehr, der ausschließlich die Navigation betrifft
+
+2)
+
+Funkverkehr, der ausschließlich See-Land-Verbindungen betrifft
+
+3)
+
+Funkverkehr unter Behördenfahrzeugen
+
+4)
+
+Funkverkehr, der ausschließlich Land-See-Verbindungen betrifft
+
+77.
+
+Atmosphärische Störungen des Funkverkehrs sind …
+
+1)
+
+im Seefunkverkehr im VHF-Bereich kein Problem
+
+2)
+
+im Seefunkverkehr im VHF-Bereich ein großes Problem
+
+3)
+
+gleichzeitig im VHF-Bereich und beim NAVTEX-Empfang vorhanden
+
+4)
+
+im VHF-Bereich nur bei Verwendung von nicht vertikal angebrachten Antennen
+vorhanden
+
+78.
+
+Wie breiten sich Ultrakurzwellen (UKW/VHF) aus?
+
+1)
+
+Geradlinig und quasioptisch
+
+2)
+
+Abhängig von der Tageszeit
+
+3)
+
+Der Erdkrümmung folgend bis weit hinter den Horizont
+
+4)
+
+In der Ionosphäre reflektiert
+
+[76]
+
+[77]
+
+[78]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+28
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+79.
+
+Wie werden die internationalen Kanäle im UKW-Seefunkbereich bezeichnet?
+
+1)
+
+Kanal 1 bis 28 und 60 bis 88
+
+2)
+
+Kanal 1 bis 20 und 68 bis 88
+
+3)
+
+Kanal 1 bis 28 und 60 bis 87
+
+4)
+
+Kanal 1 bis 28 und 68 bis 88
+
+80.
+
+Wovon hängt die Reichweite einer UKW-Funkanlage hauptsächlich ab?
+
+1)
+
+Antennenhöhe
+
+2)
+
+Bordnetzspannung
+
+3)
+
+Tageszeit
+
+4)
+
+Wetter
+
+81.
+
+Wie sollen UKW-Antennen ausgerichtet werden?
+
+1)
+
+Vertikal
+
+2)
+
+Horizontal
+
+3)
+
+Radial
+
+4)
+
+Diagonal
+
+[79]
+
+[80]
+
+[81]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+29
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+82.
+
+Wodurch kann die Abstrahlung der Sendeenergie einer UKW-Anlage auf einem Schiff
+wesentlich beeinträchtigt werden?
+
+1)
+
+Metallische Gegenstände in der Nähe der Antenne
+
+2)
+
+Schräglage des Schiffs
+
+3)
+
+Metallische Gegenstände in der Nähe des Antennenkabels
+
+4)
+
+Wetter
+
+83.
+
+Was hat keinen Einfluss auf die Reichweite eines UKW-Handsprechfunkgerätes?
+
+1)
+
+Schlechtes Wetter
+
+2)
+
+Niedrige Antennenhöhe
+
+3)
+
+Geringer Ladezustand des Akkus
+
+4)
+
+Geringe Sendeleistung
+
+84.
+
+Ist das Senden auf UKW in ausländischen Häfen gestattet?
+
+1)
+
+Abhängig von entsprechenden Vorschriften des Landes
+
+2)
+
+Es ist immer gestattet
+
+3)
+
+Nur am Tage, in der Nacht herrscht Funkstille
+
+4)
+
+Außer in Notfällen ist es überall verboten
+
+[82]
+
+[83]
+
+[84]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+30
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+V.
+
+Betriebsverfahren und Rangfolgen
+
+85.
+
+Wie ist die Rangfolge der Aussendungen im Seefunkdienst festgelegt?
+
+1)
+
+Not, Dringlichkeit, Sicherheit, Routine
+
+2)
+
+Not, Sicherheit, Dringlichkeit, Routine
+
+3)
+
+Routine, Sicherheit, Dringlichkeit, Not
+
+4)
+
+Routine, Dringlichkeit, Sicherheit, Not
+
+86.
+
+Welche Vorkommnisse im Seefunkdienst sollen im Schiffstagebuch dokumentiert
+werden?
+
+1)
+
+Der Not-, Dringlichkeits- und Sicherheitsverkehr sowie wichtige Vorkommnisse, die den
+Seefunkdienst betreffen
+
+2)
+
+Der Not-, Dringlichkeits- und Sicherheitsverkehr sowie der Routineverkehr zwischen
+Seefunkstellen und Küstenfunkstellen
+
+3)
+
+Der gesamte DSC-Verkehr sowie wichtige Vorkommnisse, die den Seefunkdienst
+betreffen
+
+4)
+
+Der GMDSS-Verkehr zwischen Seefunkstellen sowie Fehlalarme und andere wichtige
+Vorkommnisse, die den Seefunkdienst betreffen
+
+87.
+
+Welchem Funkverkehr ist der Nachrichtenaustausch zwischen Küstenfunkstellen des
+Revier- und Hafenfunkdienstes und Seefunkstellen zuzuordnen?
+
+1)
+
+Nichtöffentlicher Funkverkehr
+
+2)
+
+On Board Traffic
+
+3)
+
+Port Radio
+
+4)
+
+Öffentlicher Funkverkehr
+
+[85]
+
+[86]
+
+[87]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+31
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+88.
+
+Wozu dient der Revier- und Hafenfunkdienst?
+
+1)
+
+Übermittlung von Nachrichten, die ausschließlich das Führen, die Fahrt und die
+Sicherheit von Schiffen auf dem Revier, innerhalb oder in der Nähe von Häfen betreffen
+
+2)
+
+Zuweisung von Liegeplätzen innerhalb oder in der Nähe von Häfen
+
+3)
+
+Verbreitung von Wetterberichten auf dem Revier, innerhalb oder in der Nähe von Häfen
+
+4)
+
+Nachrichtenaustausch innerhalb oder in der Nähe von Häfen über das öffentliche Netz
+
+89.
+
+Welcher Funkdienst gehört neben dem Revier- und Hafenfunkdienst ebenfalls zum
+Sicherheitsfunkdienst innerhalb des mobilen Seefunkdienstes?
+
+1)
+
+Schiffslenkungsfunkdienst
+
+2)
+
+Lotsenfunk
+
+3)
+
+Schleusenfunk
+
+4)
+
+Binnenschifffahrtsfunk
+
+90.
+
+Wer bestimmt bei einer Verbindung zwischen See- und Küstenfunkstelle den für die
+weitere Verkehrsabwicklung zu benutzenden Arbeitskanal?
+
+1)
+
+Küstenfunkstelle
+
+2)
+
+Seefunkstelle
+
+3)
+
+On-Scene Co-ordinator (OSC)
+
+4)
+
+Rufende Funkstelle
+
+[88]
+
+[89]
+
+[90]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+32
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+91.
+
+Wie ist eine Küstenfunkstelle des Revier- und Hafenfunkdienstes gekennzeichnet?
+
+1)
+
+Geografischer Name des Ortes, dem die Art des Dienstes und das Wort Radio folgen
+
+2)
+
+Wort Radio, dem die Art des Dienstes und der geografische Name des Ortes folgen
+
+3)
+
+Geografischer Name des Ortes, dem das Wort Radio und die Art des Dienstes folgen
+
+4)
+
+Radio, dem der geografische Name des Ortes und die Art des Dienstes folgen
+
+92.
+
+Welche Funkstelle wird mit dem Rufnamen „Warnemünde Traffic“ gerufen?
+
+1)
+
+Küstenfunkstelle des Revierfunkdienstes in Warnemünde
+
+2)
+
+Wasserschutzpolizei Warnemünde
+
+3)
+
+Seefunkstelle der DGzRS-Station Warnemünde
+
+4)
+
+Funkstelle des Hafenmeisters der Marina in Warnemünde
+
+93.
+
+Was zeigt das Dringlichkeitszeichen an?
+
+1)
+
+Die rufende Funkstelle hat eine sehr dringende Meldung auszusenden, welche die
+Sicherheit einer mobilen Einheit oder einer Person betrifft
+
+2)
+
+Die rufende Funkstelle hat eine Meldung auszusenden, dass ein Schiff von einer ernsten
+und unmittelbaren Gefahr bedroht ist und sofortige Hilfe benötigt
+
+3)
+
+Die rufende Funkstelle hat eine eilige Meldung auszusenden, die eine nautische
+Warnnachricht zum Inhalt hat
+
+4)
+
+Die rufende Funkstelle hat eine wichtige Meldung auszusenden, welche den Empfang
+einer Seenotfunkbake (EPIRB) bestätigt
+
+[91]
+
+[92]
+
+[93]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+33
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+94.
+
+Wie lautet das Dringlichkeitszeichen im Sprechfunk?
+
+1)
+
+PAN PAN
+
+2)
+
+SECURITE
+
+3)
+
+MAYDAY
+
+4)
+
+URGENCY
+
+95.
+
+Was wird im Sprechfunk durch das Zeichen PAN PAN angekündigt?
+
+1)
+
+Dringlichkeitsmeldung
+
+2)
+
+Notmeldung
+
+3)
+
+Sicherheitsmeldung
+
+4)
+
+Routinemeldung
+
+96.
+
+Wie ist im GMDSS zu verfahren, wenn eine dringende Meldung im UKW-Bereich
+auszusenden ist, welche die Sicherheit einer Person betrifft?
+
+1)
+
+Ankündigung per Digitalen Selektivruf (DSC) auf Kanal 70 und Aussendung der
+Dringlichkeitsmeldung im Sprechfunk auf Kanal 16
+
+2)
+
+Ankündigung und Aussendung der Dringlichkeitsmeldung im Sprechfunk auf Kanal 16
+
+3)
+
+Ankündigung im Sprechfunk auf Kanal 16 und Aussendung der Dringlichkeitsmeldung
+auf einem Schiff-Schiff-Kanal
+
+4)
+
+Ankündigung per Digitalem Selektivruf (DSC) auf Kanal 70 und Aussendung der
+Dringlichkeitsmeldung auf einem Schiff-Schiff-Kanal
+
+[94]
+
+[95]
+
+[96]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+34
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+97.
+
+Was bedeutet im DSC-Controller die Anzeige „URGENCY“?
+
+1)
+
+Die nachfolgende Meldung ist dringend und betrifft die Sicherheit einer mobilen
+Einheit oder einer Person
+
+2)
+
+Die nachfolgende Meldung ist eine Notmeldung und die Seefunkstelle erbittet
+sofortige Hilfe
+
+3)
+
+Die nachfolgende Meldung ist dringend und die Seefunkstelle erbittet nautische
+Beratung
+
+4)
+
+Die nachfolgende Meldung ist eine Wetterwarnung und betrifft die Sicherheit
+der Schifffahrt
+
+98.
+
+An wen dürfen Dringlichkeitsmeldungen im Seefunkdienst grundsätzlich gerichtet
+werden?
+
+1)
+
+An alle Funkstellen oder an eine bestimmte Funkstelle
+
+2)
+
+An alle Funkstellen im Seegebiet A1 oder an eine bestimmte Funkstelle im Seegebiet A1
+
+3)
+
+An alle Küstenfunkstellen oder an alle Funkstellen im Seegebiet A1
+
+4)
+
+An alle Küstenfunkstellen oder die Seenotleitung (MRCC)
+
+99.
+
+Wie ist zu verfahren, wenn eine an alle Funkstellen ausgesendete Dringlichkeitsmeldung erledigt ist?
+
+1)
+
+Dringlichkeitsmeldung muss durch eine Meldung an alle Funkstellen aufgehoben werden
+
+2)
+
+Dringlichkeitsmeldung muss bei dem Fall „Mensch über Bord“ durch eine Meldung
+an alle Funkstellen aufgehoben werden
+
+3)
+
+Dringlichkeitsmeldung muss durch eine Meldung an die nächste Küstenfunkstelle
+aufgehoben werden
+
+4)
+
+Dringlichkeitsmeldung muss durch die Meldung SILENCE FINI aufgehoben werden
+
+[97]
+
+[98]
+
+[99]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+35
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+100.
+
+Wie lautet das Sicherheitszeichen im Seefunkdienst?
+
+1)
+
+SECURITE
+
+2)
+
+URGENCY
+
+3)
+
+PAN PAN
+
+4)
+
+MAYDAY
+
+101.
+
+Welche Meldung wird mit SECURITE eingeleitet?
+
+1)
+
+Sicherheitsmeldung
+
+2)
+
+Notmeldung
+
+3)
+
+Dringlichkeitsmeldung
+
+4)
+
+Routinemeldung
+
+102.
+
+Welchen Inhalt kann eine Sicherheitsmeldung haben?
+
+1)
+
+Wichtige nautische Warnnachricht oder eine wichtige Wetterwarnung
+
+2)
+
+Wichtige nautische Warnnachricht oder die Weiterleitung eines Notalarms
+
+3)
+
+Aufhebung eines Fehlalarms oder eine wichtige Wetterwarnung
+
+4)
+
+Aufhebung einer Dringlichkeitsmeldung oder ein Medico-Gespräch
+
+[100]
+
+[101]
+
+[102]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+36
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+103.
+
+Welche UKW-Kanäle benutzen Sportfahrzeuge für den Funkverkehr untereinander
+vorzugsweise in den deutschen Hoheitsgewässern?
+
+1)
+
+Kanäle 69 oder 72
+
+2)
+
+Kanäle 69 oder 70
+
+3)
+
+Kanäle 10 oder 13
+
+4)
+
+Kanäle 06 oder 16
+
+104.
+
+Für welche Verkehrsabwicklungen werden UKW-Handsprechfunkgeräte vorzugsweise verwendet?
+
+1)
+
+Funkverkehr an Bord, Funkverkehr Schiff–Überlebensfahrzeug
+
+2)
+
+Funkverkehr Schiff–Schiff, Funkverkehr Schiff–SAR-Hubschrauber)
+
+3)
+
+Funkverkehr an Bord, Funkverkehr Schiff–Hafen
+
+4)
+
+Funkverkehr mit Küstenfunkstellen, Funkverkehr Schiff–Überlebensfahrzeug
+
+105.
+
+Was ist bei Testsendungen im Sprech-Seefunkdienst zu beachten?
+
+1)
+
+Die Aussendungen dürfen 10 Sekunden nicht überschreiten, müssen mit dem Wort
+„Test“ und mit einer Kennung des Schiffes ausgestrahlt werden
+
+2)
+
+Die Aussendungen dürfen 20 Sekunden nicht überschreiten und müssen mit einer
+Kennung des Schiffes ausgestrahlt werden
+
+3)
+
+Die Aussendungen dürfen nur einmal nach Einbau des Gerätes ohne Antenne erfolgen
+und müssen mit dem Wort „Test“ gekennzeichnet werden
+
+4)
+
+Die Aussendungen dürfen nur außerhalb der Hoheitsgewässer erfolgen
+
+[103]
+
+[104]
+
+[105]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+37
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+106.
+
+Betriebsart wird für den Schiff-Schiff-Verkehr auf UKW im Sprechfunkverfahren
+verwendet?
+
+1)
+
+Wechselsprechen auf einer Frequenz
+
+2)
+
+Gegensprechen auf einer Frequenz
+
+3)
+
+Wechselsprechen auf zwei Frequenzen
+
+4)
+
+Gegensprechen auf zwei Frequenzen
+
+107.
+
+Der UKW-Kanal 70 dient ausschließlich dem Zweck der Aussendung ...
+
+1)
+
+des Digitalen Selektivrufs
+
+2)
+
+von Peilzeichen
+
+3)
+
+von Positionsmeldungen
+
+4)
+
+von Küstenfunkstellen
+
+108.
+
+Welchen Zwecken dient der UKW-Kanal 16 (156,8 MHz) im Seefunkdienst?
+
+1)
+
+Notverkehr, Dringlichkeitsmeldung, Ankündigung einer Sicherheitsmeldung, Anrufkanal
+
+2)
+
+Notverkehr, Ankündigung einer Sicherheitsmeldung, Routineverkehr, Anrufkanal
+
+3)
+
+Aussendung des digitalen Selektivrufs
+
+4)
+
+Funkverkehr zwischen Fischereifahrzeugen
+
+[106]
+
+[107]
+
+[108]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+38
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+109.
+
+Auf welchem UKW-Kanal muss ein Sportfahrzeug empfangsbereit sein, wenn es sich
+auf See befindet und mit einer GMDSS-Seefunkanlage ausgerüstet ist?
+
+1)
+
+Kanal 70
+
+2)
+
+Kanal 16
+
+3)
+
+Kanal 69
+
+4)
+
+Kanal 72
+
+110.
+
+Auf welchem UKW-Kanal sollte ein Sportfahrzeug in der Regel empfangsbereit sein,
+wenn es sich auf See befindet und nur mit einer UKW-Sprechfunkanlage ausgerüstet
+ist?
+
+1)
+
+Kanal 16
+
+2)
+
+Kanal 70
+
+3)
+
+Kanal 69
+
+4)
+
+Kanal 06
+
+111.
+
+Welcher UKW-Kanal ist vorzugsweise für den Schiff-Schiff-Verkehr und für
+koordinierte Such- und Rettungseinsätze (SAR) vorgesehen?
+
+1)
+
+Kanal 06
+
+2)
+
+Kanal 10
+
+3)
+
+Kanal 16
+
+4)
+
+Kanal 72
+
+[109]
+
+[110]
+
+[111]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+39
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+112.
+
+Welchen Zwecken dienen der Anrufkanal und ein Arbeitskanal?
+
+[112]
+
+1)
+
+Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung des Weiteren
+Funkverkehrs
+
+2)
+
+Anrufkanal zur Verbindungsaufnahme, Arbeitskanal nur zur Abwicklung von Notfällen
+
+3)
+
+Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung von Reiseplanungen
+
+4)
+
+Anrufkanal zur Verbindungsaufnahme mit Teilnehmern an Land, Arbeitskanal zur
+Zuweisung des Schleusenranges
+
+113.
+
+Auf welchem Kanal ist eine Küstenfunkstelle zu rufen, die sowohl auf dem Kanal 70 als
+[113]
+auch auf Kanal 16 sowie auf einem veröffentlichten Arbeitskanal empfangsbereit ist?
+
+1)
+
+Kanal 70 oder Arbeitskanal
+
+2)
+
+Kanal 16 oder Kanal 70
+
+3)
+
+Kanal 70 oder Kanal 72
+
+4)
+
+Kanal 16 oder Arbeitskanal
+
+114.
+
+Auf welchem Kanal wird eine Küstenfunkstelle ohne DSC im Routineverkehr gerufen?
+
+1)
+
+Arbeitskanal
+
+2)
+
+Kanal 16
+
+3)
+
+Ankündigung auf Kanal 16, dann Wechsel zum Arbeitskanal
+
+4)
+
+Kanal 70
+
+[114]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+40
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+115.
+
+Was ist vor dem Anruf auf einem Arbeitskanal zu beachten?
+
+1)
+
+Der laufende Funkverkehr darf nicht gestört werden
+
+2)
+
+Die geringste Sendeleistung muss eingestellt werden
+
+3)
+
+Die Küstenfunkstelle muss den Arbeitskanal freigeben
+
+4)
+
+Der laufende Funkverkehr muss aufgefordert werden, den Funkverkehr zu beenden
+
+[115]
+
+VI. Nautische und Meteorologische Warnnachrichten (NAVTEX)
+
+116.
+
+Was bedeutet „NAVTEX“?
+
+1)
+
+Nautische Warnnachrichten im Funktelexverfahren
+
+2)
+
+Navigationssystem, das Vorgaben im Funktelexverfahren erhält
+
+3)
+
+MW-Empfänger an Bord eines Seeschiffes zur Aufzeichnung von Wetterberichten
+
+4)
+
+Satellitengestütztes Navigationssystem für den Seenotfall
+
+117.
+
+Wie heißt der Dienst, in dem Nachrichten für die Sicherheit der Seeschifffahrt (MSI)
+über terrestrische Frequenzen verbreitet werden?
+
+1)
+
+NAVTEX
+
+2)
+
+SafetyNET
+
+3)
+
+AIS
+
+4)
+
+AMVER
+
+[116]
+
+[117]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+41
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+118.
+
+Welchen Dienst bieten der Deutsche Wetterdienst (DWD) und das Bundesamt für
+Seeschifffahrt und Hydrographie (BSH) auf den Frequenzen 518 kHz und 490 kHz
+gemeinsam an?
+
+1)
+
+NAVTEX
+
+2)
+
+SafetyNET
+
+3)
+
+TELEX
+
+4)
+
+AMVER
+
+119.
+
+Bis zu welcher Entfernung vom Standort des Senders können Sicherheitsmeldungen
+für die Seeschifffahrt im NAVTEX-Dienst empfangen werden?
+
+1)
+
+Ca. 600 sm
+
+2)
+
+Ca. 30 sm
+
+3)
+
+Ca. 1000 sm
+
+4)
+
+Ca. 1500 sm
+
+120.
+
+Worauf muss beim Einstellen eines NAVTEX-Empfängers geachtet werden?
+
+1)
+
+Einstellen der jeweiligen NAVTEX-Sender und Auswählen der Art der benötigten
+Meldungen
+
+2)
+
+Auswählen der gewünschten NAVTEX-Sender und Eingeben der MMSI-Rufnummer
+
+3)
+
+Eingeben der eigenen Position und Auswählen der Art der benötigten Meldungen
+
+4)
+
+Auswählen der Sprache, in der die Nachricht empfangen werden soll, und Unterdrücken
+nicht benötigter Meldungen
+
+[118]
+
+[119]
+
+[120]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+42
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+121.
+
+Welche Informationen können bei der Programmierung eines NAVTEX-Empfängers
+nicht unterdrückt werden?
+
+1)
+
+Navigationswarnungen, Meteorologische Warnungen und SAR-Meldungen
+
+2)
+
+Navigationswarnungen, Wettervorhersagen und SAR-Meldungen
+
+3)
+
+Sat-Nav-Warnungen, Meteorologische Warnungen und Navigationswarnungen
+
+4)
+
+Meteorologische Warnungen, Revierinformationen und SAR-Meldungen
+
+122.
+
+In welcher Sprache werden Nachrichten für die Sicherheit der Seeschifffahrt (MSI)
+im NAVTEX-Dienst auf 490 kHz verbreitet?
+
+1)
+
+Landessprache der Funkstelle
+
+2)
+
+Englisch
+
+3)
+
+Niederländisch
+
+4)
+
+Französisch
+
+123.
+
+In welchen Zeitabständen werden die regelmäßigen NAVTEX-Informationen vom
+deutschen NAVTEX-Sender ausgesendet?
+
+1)
+
+4 Stunden
+
+2)
+
+1 Stunde
+
+3)
+
+12 Stunden
+
+4)
+
+24 Stunden
+
+[121]
+
+[122]
+
+[123]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+43
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+124.
+
+Was bezeichnet „NAVAREA“?
+
+1)
+
+International festgelegtes Vorhersage- und Seewarngebiet
+
+2)
+
+Internationales Seegebiet, das nicht befahren werden darf
+
+3)
+
+Internationales Seegebiet, das in vier Gruppen eingeteilt ist (A1 bis A4)
+
+4)
+
+Internationales Seegebiet, das von Seeschiffen befahren werden darf
+
+[124]
+
+VII. Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und
+Radartransponder (SART)
+
+125.
+
+Was bezeichnet „SAR“?
+
+1)
+
+Suche und Rettung
+
+2)
+
+Seenotfunkbake
+
+3)
+
+Sanitätsdienst
+
+4)
+
+Radartransponder
+
+126.
+
+Welche Aufgabe hat ein „RCC“ im Seenotfall?
+
+1)
+
+Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte und Abwicklung
+des Notverkehrs
+
+2)
+
+Stationierung von Seenotrettungskreuzern rund um die Uhr
+
+3)
+
+Alarmierung von SAR-Fahrzeugen im Seenotfall über Satellit
+
+4)
+
+Erteilung von Ratschlägen an den Havaristen
+
+[125]
+
+[126]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+44
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+127.
+
+Welche Aufgabe hat ein „MRCC“ im Seenotfall?
+
+1)
+
+Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte
+
+2)
+
+Bereithaltung von Rettungsfahrzeugen im Seenotfall
+
+3)
+
+Erarbeitung von Richtlinien für das Verhalten im Seenotfall
+
+4)
+
+Erteilung von Ratschlägen an den Havaristen
+
+128.
+
+Was ist „On-Scene Communication“?
+
+1)
+
+Funkverkehr vor Ort im Seenotfall
+
+2)
+
+Funkverkehr in Reichweite einer Küstenfunkstelle für UKW
+
+3)
+
+Funkverkehr im Hafenfunk (Port Radio)
+
+4)
+
+Funkverkehr von Behördenfahrzeugen
+
+129.
+
+Welche Aufgabe hat der „On-Scene Coordinator“ (OSC) im SAR-Fall?
+
+1)
+
+Leitung der Such- und Rettungsmaßnahmen vor Ort
+
+2)
+
+Kooperation mit der nächstgelegenen Küstenfunkstelle des Revierfunkdienstes
+
+3)
+
+Festlegung der DSC-Kanäle zur Verständigung der SAR-Einheiten
+
+4)
+
+Verbreitung wichtiger SAR-Meldungen rund um die Uhr
+
+[127]
+
+[128]
+
+[129]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+45
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+130.
+
+Was bedeutet „Funkverkehr vor Ort“?
+
+1)
+
+Funkverkehr zwischen dem Schiff in Not und den Fahrzeugen, die Hilfe leisten sowie
+dem Schiff in Not und dem Fahrzeug, das die Suche und Rettung koordiniert
+
+2)
+
+Funkverkehr zwischen dem Fahrzeug, das die Suche und Rettung koordiniert, und der
+Küstenfunkstelle
+
+3)
+
+Funkverkehr zwischen der Küstenfunkstelle und dem On-Scene Coordinator
+
+4)
+
+Funkverkehr zwischen dem Schiff in Not und in der Nähe befindlichen Luftfunkstellen
+
+131.
+
+Wer darf das Aussenden einer Notmeldung im Seefunkdienst veranlassen?
+
+1)
+
+Fahrzeugführer
+
+2)
+
+Crewmitglied
+
+3)
+
+Rudergänger
+
+4)
+
+Rettungsleitstelle
+
+132.
+
+Auf welchem UKW-Kanal müssen alle mit DSC ausgerüsteten seegehenden Schiffe
+im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS empfangsbereit sein?
+
+1)
+
+Kanal 70
+
+2)
+
+Kanal 16
+
+3)
+
+Kanal 06
+
+4)
+
+Kanal 10
+
+[130]
+
+[131]
+
+[132]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+46
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+133.
+
+Wie lautet das Notzeichen im Sprechfunk?
+
+1)
+
+MAYDAY
+
+2)
+
+PAN PAN
+
+3)
+
+DISTRESS
+
+4)
+
+SOS
+
+134.
+
+Womit wird der Notverkehr im Sprechfunk eingeleitet?
+
+1)
+
+MAYDAY
+
+2)
+
+Schiffsname
+
+3)
+
+DISTRESS
+
+4)
+
+SOS
+
+135.
+
+Wann liegt ein Seenotfall vor, der das Aussenden des Notzeichens im Sprechfunk
+rechtfertigt?
+
+1)
+
+Wenn ein Schiff oder eine Person von einer ernsten und unmittelbaren Gefahr bedroht
+ist und sofortige Hilfe benötigt
+
+2)
+
+Wenn ein Schiff manövrierbehindert ist und Hilfe benötigt
+
+3)
+
+Wenn eine nautische Warnnachricht vorliegt, die unbedingt beachtet werden muss
+
+4)
+
+Wenn ein medizinischer Notfall vorliegt, der unmittelbare funkärztliche Beratung
+erfordert
+
+[133]
+
+[134]
+
+[135]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+47
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+136.
+
+Welche Priorität der Alarmierung ist zu wählen, wenn sich eine Person in
+Lebensgefahr befindet und Hilfe benötigt?
+
+1)
+
+Notfall
+
+2)
+
+Dringlichkeit
+
+3)
+
+Sicherheit
+
+4)
+
+Routine
+
+137.
+
+Welche Frequenzen dürfen neben den Notfrequenzen für die Aussendung einer
+Notmeldung im Seefunkdienst benutzt werden?
+
+1)
+
+Jede andere verfügbare und geeignete Frequenz
+
+2)
+
+UKW Kanal 06 (internationaler Verkehr)
+
+3)
+
+Keine andere Frequenz
+
+4)
+
+Nur Schiff-Schiff-Frequenzen
+
+138.
+
+Auf welchem UKW-Kanal findet der Notverkehr vorzugsweise statt?
+
+1)
+
+Kanal 16
+
+2)
+
+Kanal 70
+
+3)
+
+Kanal 69
+
+4)
+
+Kanal 06
+
+[136]
+
+[137]
+
+[138]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+48
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+139.
+
+Welche Meldungen dürfen im Weltweiten Seenot- und Sicherheitsfunksystem
+(GMDSS) auf UKW-Kanal 16 (156,8 MHz) übermittelt werden?
+
+1)
+
+Notmeldungen, Dringlichkeitsmeldungen und die Ankündigung von
+Sicherheitsmeldungen
+
+2)
+
+Dringlichkeitsmeldungen und Meldungen im öffentlichen Funkverkehr
+
+3)
+
+Sicherheits-, Dringlichkeitsmeldungen und Nichtöffentlicher Funkverkehr
+
+4)
+
+Notmeldungen und Routinemeldungen
+
+140.
+
+Wann und warum wird die Einleitung eines Notverkehrs wiederholt?
+
+1)
+
+Wenn die aussendende Seefunkstelle keine Antwort auf ihren DSC-Alarm oder ihre
+Notmeldung erhalten hat oder wenn sie es aus anderen Gründen für notwendig hält
+
+2)
+
+Wenn der DSC-Notalarm nur von einer Küstenfunkstelle bestätigt worden ist
+
+3)
+
+Die Einleitung des Notverkehrs darf nicht wiederholt werden, um Fehlalarme zu
+vermeiden
+
+4)
+
+Die Einleitung des Notverkehrs wird nach 6 Minuten wiederholt, wenn keine Bestätigung
+erfolgt ist
+
+141.
+
+An wen soll eine Seefunkstelle den Notalarm für ein anderes in Not befindliches
+Schiff richten?
+
+1)
+
+Grundsätzlich an die nächstgelegene Küstenfunkstelle oder sonst an alle Funkstellen
+
+2)
+
+Grundsätzlich an alle Seefunkstellen in der Nähe
+
+3)
+
+Grundsätzlich an das Maritime Lagezentrum beim Havariekommando
+
+4)
+
+Grundsätzlich an ein Local User Terminal oder sonst an alle Seefunkstellen
+
+[139]
+
+[140]
+
+[141]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+49
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+142.
+
+Welche Voraussetzung muss eine Seefunkstelle erfüllen, die den Empfang eines
+DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigt?
+
+1)
+
+Sie muss Hilfe leisten können
+
+2)
+
+Eine sichere Funkverbindung muss möglich sein
+
+3)
+
+Sie muss die Seefunkstelle in Not spätestens nach einer Stunde erreichen können
+
+4)
+
+Notalarme werden in jedem Fall bestätigt
+
+143.
+
+Wann darf eine Seefunkstelle, wenn sie Hilfe leisten kann, den Empfang eines
+DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigen?
+
+1)
+
+Nach Bestätigung durch eine Küstenfunkstelle oder einer angemessenen Wartefrist
+
+2)
+
+Sofort nach Empfang des DSC-Notalarms
+
+3)
+
+Nach einer Wartefrist von 3 Minuten
+
+4)
+
+DSC-Notalarme dürfen grundsätzlich nur von Küstenfunkstellen bestätigt werden
+
+144.
+
+Auf welchem UKW-Kanal und in welchem Verfahren bestätigt eine Seefunkstelle den
+auf Kanal 70 empfangenen Notalarm?
+
+1)
+
+Kanal 16, Sprechfunkverfahren
+
+2)
+
+Kanal 70, DSC
+
+3)
+
+Arbeitskanal, Sprechfunkverfahren
+
+4)
+
+Kanal 16, DSC
+
+[142]
+
+[143]
+
+[144]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+50
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+145.
+
+Wann wird im Seefunkdienst die Aufforderung SILENCE MAYDAY ausgesendet?
+
+1)
+
+Wenn die Funkstelle, die den Notverkehr leitet, störende Funkstellen zur Einhaltung der
+Funkstille auffordert
+
+2)
+
+Wenn die Situation des Schiffes in Not besonders kritisch ist
+
+3)
+
+Wenn die Funkstelle, die den Notverkehr leitet, die Beendigung des Notverkehrs
+ankündigen will
+
+4)
+
+Wenn eine Funkstelle sich besondere Aufmerksamkeit für die Verbreitung einer
+Dringlichkeits- oder Sicherheitsmeldung erbittet
+
+146.
+
+Wer fordert in einem Seenotfall eine störende Funkstelle mit den Wörtern SILENCE
+MAYDAY zur Einhaltung der Funkstille auf?
+
+1)
+
+Die Funkstelle, die den Notverkehr leitet
+
+2)
+
+Die Funkstelle in Not oder eine Hilfe leistende Luftfunkstelle
+
+3)
+
+Die Funkstelle, die die störende Funkstelle als erste empfangen hat
+
+4)
+
+Die Funkstelle, die der störenden Funkstelle nächstgelegen ist
+
+147.
+
+Welche Aufgaben übernimmt die Seenotleitung (Maritime Rescue Co-ordination
+Centre [MRCC]) nach Eingang eines Notalarms?
+
+1)
+
+Koordinierung und Information über die SAR-Maßnahmen
+
+2)
+
+Leitung des Notverkehrs auf Kanal 70
+
+3)
+
+Bestimmung des On-Scene Co-ordinators (OSC)
+
+4)
+
+Überwachung Kanäle 16 und 70 sowie Dokumentation der SAR-Maßnahmen
+
+[145]
+
+[146]
+
+[147]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+51
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+148.
+
+Auf welchen UKW-Kanälen ist Bremen Rescue Radio empfangsbereit?
+
+1)
+
+Kanal 16 (Sprechfunk), Kanal 70 (DSC)
+
+2)
+
+Kanal 10 (Sprechfunk), Kanal 70 (DSC)
+
+3)
+
+Kanal 16 (Sprechfunk), Kanal 10 (DSC)
+
+4)
+
+Kanal 06 (Sprechfunk), Kanal 70 (DSC)
+
+149.
+
+Nach welchem Betriebsverfahren wird der Funkverkehr in Notfällen zwischen
+Seefunkstellen und SAR-Hubschraubern abgewickelt?
+
+1)
+
+Betriebsverfahren des mobilen Seefunkdienstes
+
+2)
+
+Betriebsverfahren des mobilen Flugfunkdienstes
+
+3)
+
+Betriebsverfahren des Navigationsfunkdienstes
+
+4)
+
+Betriebsverfahren des Revierfunkdienstes
+
+150.
+
+Welche Veröffentlichung enthält Angaben zu Verfahren, Abkürzungen und
+international entwickelte Redewendungen für Notfälle?
+
+1)
+
+Handbuch “Suche und Rettung”
+
+2)
+
+Handbuch „Funkdienst für die Klein- und Sportschifffahrt“
+
+3)
+
+Nachrichten für Seefahrer
+
+4)
+
+Mitteilungen für Seefunkstellen und Schiffsfunkstellen
+
+[148]
+
+[149]
+
+[150]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+52
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+151.
+
+In welchem Frequenzbereich kann mit SAR-Einheiten Seefunkverkehr abgewickelt
+werden?
+
+1)
+
+UKW-Bereich
+
+2)
+
+UHF-Bereich
+
+3)
+
+MW-Bereich
+
+4)
+
+VLF-Bereich
+
+152.
+
+Im Funkverkehr zwischen Seefunkstellen und SAR-Hubschraubern gilt das
+Betriebsverfahren...
+
+1)
+
+des Seefunkdienstes
+
+2)
+
+des Flugfunkdienstes
+
+3)
+
+der Rettungsdienste
+
+4)
+
+des Binnenschifffahrtsfunks
+
+153.
+
+Auf welchen UKW-Kanälen dürfen zu Sicherheitszwecken Seefunkstellen mit
+SAR-Hubschraubern Funkverkehr vorzugsweise abwickeln?
+
+1)
+
+Kanal 16, Kanal 06
+
+2)
+
+Kanal 16, Kanal 10
+
+3)
+
+Kanal 06, Kanal 10
+
+4)
+
+Kanal 70, Kanal 16
+
+[151]
+
+[152]
+
+[153]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+53
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+154.
+
+Wodurch werden in der Regel bei einer Rettungsaktion mit SAR Hubschraubern
+die Kanäle 16 und 06 überwacht?
+
+1)
+
+Zweikanal-Überwachung (Dual Watch)
+
+2)
+
+Zwei unabhängige Seefunkgeräte
+
+3)
+
+Regelmäßiges manuelles Umschalten
+
+4)
+
+Bedarfsweises manuelles Umschalten
+
+155.
+
+Welchen UKW-Kanal soll ein Schiff in Not bis zur Ankunft eines SAR-Hubschraubers
+abhören?
+
+1)
+
+Kanal 16
+
+2)
+
+Kanal 06
+
+3)
+
+Kanal 10
+
+4)
+
+Kanal 70
+
+156.
+
+Wie ist zu verfahren, wenn während eines Notverkehrs auf Kanal 16 die Ankündigung
+einer Dringlichkeits- oder Sicherheitsmeldung „An alle Funkstellen“ vorgenommen
+werden soll?
+
+1)
+
+Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Ankündigung während
+einer Pause im Notverkehr auf Kanal 16, Aussendung der Meldung auf einem SchiffSchiff-Kanal
+
+2)
+
+Ankündigung auf Kanal 06, Information an die Küstenfunkstelle/RCC über den Inhalt der
+Meldung auf einem Arbeitskanal
+
+3)
+
+Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Information „An alle
+Funkstellen“ über den Inhalt der Meldung auf Kanal 16
+
+4)
+
+Ankündigung auf Kanal 16 während einer Pause im Notverkehr, Aussendung auf einem
+Schiff-Schiff-Kanal
+
+[154]
+
+[155]
+
+[156]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+54
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+157.
+
+Was ist zu tun, wenn irrtümlich von einer Seefunkstelle ein Notalarm
+auf Kanal 70 ausgelöst worden ist?
+
+1)
+
+a. Gerät umgehend zurücksetzen
+b. Wenn möglich, den Fehlalarm per DSC zurücknehmen
+c. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+
+2)
+
+a. Gerät ausschalten, um weitere Sendungen zu verhindern
+b. Eintragung der irrtümlichen Aussendung im Schiffstagebuch
+c. Zuständiges MRCC telefonisch informieren
+
+3)
+
+a. Ankündigung der Rücknahme des Notalarms mit DSC
+b. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+c. Schiffsführer informieren
+
+4)
+
+a. Gerät umgehend zurücksetzen
+b. Ankündigung der Rücknahme des Notalarms mit DSC
+c. Mit Meldung auf Kanal 13 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+
+158.
+
+Womit können im Notfall nach dem Verlassen des havarierten Schiffes keine
+Such- und Rettungsarbeiten ausgelöst bzw. erleichtert werden?
+
+1)
+
+UKW-Empfänger
+
+2)
+
+Transponder für Suche und Rettung (SART)
+
+3)
+
+Seenotfunkbake (EPIRB)
+
+4)
+
+Handsprechfunkgeräte
+
+159.
+
+Welche Komponenten des Weltweiten Seenot- und Sicherheitsfunksystems (GMDSS)
+werden für die Aussendung von Signalen zur Ortsbestimmung eingesetzt?
+
+1)
+
+SART, EPIRB
+
+2)
+
+NAVTEX, EGC
+
+3)
+
+DSC, EPIRB
+
+4)
+
+NAVTEX, SART
+
+[157]
+
+[158]
+
+[159]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+55
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+160.
+
+Wo soll eine Satelliten-Seenotfunkbake (EPIRB) an Bord eines Sportbootes installiert
+werden?
+
+1)
+
+Im äußeren Decksbereich
+
+2)
+
+In der Backskiste
+
+3)
+
+In mindestens 1 m Entfernung von Metallteilen
+
+4)
+
+Geschützt unter Deck
+
+161.
+
+Wann darf eine Satelliten-Seenotfunkbake (EPIRB) für eine Aussendung aktiviert
+werden?
+
+1)
+
+Nur im Notfall
+
+2)
+
+Zu Testzwecken
+
+3)
+
+Im Notfall und zu Testzwecken
+
+4)
+
+Beim Herannahen von Rettungsfahrzeugen
+
+162.
+
+Wie kann eine Satelliten-Seenotfunkbake (EPIRB) im Notfall aktiviert werden?
+
+1)
+
+Manuell oder automatisch
+
+2)
+
+Nur manuell
+
+3)
+
+Nur automatisch
+
+4)
+
+Durch das COSPAS-SARSAT-System
+
+[160]
+
+[161]
+
+[162]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+56
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+163.
+
+Wodurch wird eine EPIRB im Seenotfall automatisch aktiviert?
+
+[163]
+
+1)
+
+Wasserdruckauslöser
+
+2)
+
+Rüttelkontakt
+
+3)
+
+GPS-Signale
+
+4)
+
+Radar-Signale
+
+164.
+
+Welche Informationen enthält die Aussendung einer Satelliten-Seenotfunkbake
+(EPIRB)?
+
+1)
+
+a. Notsignal
+b. Identifikationsmerkmal
+c. Position mittels GPS, wenn vorhanden
+
+2)
+
+a. Notsignal
+b. Schiffstyp
+c. Art des Notfalls
+
+3)
+
+a. Position mittels GPS, wenn vorhanden
+b. Identifikationsmerkmal
+c. Zielhafen
+
+4)
+
+a. Art des Notfalls
+b. Position mittels GPS, wenn vorhanden
+c. Rufzeichen
+
+165.
+
+Wie lange dauert es in den Seegebieten A1 bis A3, bis der Alarm einer COSPASSARSAT- Satelliten-Seenotfunkbake (EPIRB) bei der zuständigen Seenotleitung (MRCC) [165]
+aufläuft?
+
+1)
+
+Wenige Minuten
+
+2)
+
+Bis zu 30 Minuten
+
+3)
+
+Bis zu 2 Stunden
+
+4)
+
+Bis zu 4 Stunden
+
+[164]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+57
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+166.
+
+Wie lange kann es unter ungünstigen Bedingungen von der Aktivierung einer COSPASSARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC
+dauern?
+
+1)
+
+Bis zu 4 Stunden
+
+2)
+
+Bis zu 8 Stunden
+
+3)
+
+Bis zu 12 Stunden
+
+4)
+
+Bis zu einem Tag
+
+167.
+
+Warum dauert es unter ungünstigen Bedingungen von der Aktivierung einer
+COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der
+Position im MRCC bis zu vier Stunden?
+
+1)
+
+Es müssen Überflüge der umlaufenden COSPAS-SARSAT-Satelliten (LEOSAR) abgewartet
+werden
+
+2)
+
+Die niedrige Datenrate im Uplink ermöglicht keine hohe Übertragungsgeschwindigkeit
+
+3)
+
+Hoher Seegang behindert die Funkwellenausbreitung zum geostationären
+COSPAS-SARSAT-Satelliten (GEOSAR)
+
+4)
+
+Schlechte Wetterverhältnisse behindern die Übertragung der Daten vom
+COSPAS-SARSAT-Satelliten zur Bodenstation (LUT)
+
+168.
+
+Wie groß ist die maximale Abweichung der ermittelten von der tatsächlichen Position
+einer COSPAS-SARSAT-Seenotfunkbake (EPIRB) ohne GPS?
+
+1)
+
+2 sm
+
+2)
+
+10 sm
+
+3)
+
+100 sm
+
+4)
+
+150 sm
+
+[166]
+
+[167]
+
+[168]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+58
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+169.
+
+Zu welchem Zweck benutzen Satelliten-Seenotfunkbaken (EPIRB) die Frequenzen
+121,5 MHz und 406 MHz?
+
+1)
+
+121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Alarmierung und Positionsbestimmung
+
+2)
+
+121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Kommunikation
+
+3)
+
+121,5 MHz zur Identifikation, 406 MHz zur Zielfahrt (Homing)
+
+4)
+
+121,5 MHz zur Kommunikation, 406 MHz zur Alarmierung und Positionsbestimmung
+
+170.
+
+Welche Informationen müssen an einer Satelliten-Seenotfunkbake (EPIRB)
+erkennbar sein?
+
+1)
+
+a. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+b. Seriennummer
+c. Haltbarkeitsdatum der Batterie
+d. Haltbarkeitsdatum des Wasserdruckauslösers
+
+2)
+
+a. Herstellerfirma
+b. Haltbarkeitsdatum des Wasserdruckauslösers
+c. Zulassungsdatum der EPIRB
+d. Kurzanleitung
+
+3)
+
+a. Herstellerfirma
+b. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+c. Prüfdatum
+d. Sendefrequenz
+
+4)
+
+a. Kurzanleitung
+b. Zulassungsdatum der EPIRB
+c. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+d. Haltbarkeitsdatum der Batterie
+
+[169]
+
+[170]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+59
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+171.
+
+Was ist zu tun, bevor die Satelliten-Seenotfunkbake (EPIRB) für Wartungszwecke aus
+ihrer Halterung entfernt werden soll?
+
+1)
+
+Sicherstellen, dass kein Fehlalarm ausgelöst wird
+
+2)
+
+Sicherung lösen
+
+3)
+
+MRCC informieren
+
+4)
+
+Keine besonderen Vorkehrungen treffen
+
+172.
+
+Welche Prüfungen sind an einer Satelliten-Seenotfunkbake (EPIRB) durchzuführen?
+
+1)
+
+Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers, Funktion
+entsprechend den Herstellerangaben
+
+2)
+
+Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers,
+Befestigung am Schiffskörper
+
+3)
+
+Funktion entsprechend den Herstellerangaben, Haltbarkeitsdatum der Batterie,
+Festigkeit der Sicherheitsleine
+
+4)
+
+Haltbarkeitsdatum des Wasserdruckauslösers, Lesbarkeit der Beschriftung, Kontakte der
+Batterien
+
+173.
+
+Wie erscheint die Aussendung eines Transponders für Suche und Rettung (SART) auf
+einem Radarbildschirm?
+
+1)
+
+Als Linie von mindestens zwölf Zeichen
+
+2)
+
+Die Aussendung eines Transponders ist auf dem Radarschirm nicht sichtbar
+
+3)
+
+Als lange aus einem Zeichen bestehende Linie
+
+4)
+
+Als Linie von mindestens drei Zeichen
+
+[171]
+
+[172]
+
+[173]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+60
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+174.
+
+Welches Navigationsgerät empfängt das Signal eines aktivierten Transponders für
+Suche und Rettung (SART)?
+
+1)
+
+Radargerät
+
+2)
+
+GPS-Empfänger
+
+3)
+
+DSC-Controller
+
+4)
+
+NAVTEX-Gerät
+
+175.
+
+Welche Vorteile hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon in einer
+Notsituation?
+
+1)
+
+Allgemeine und sichere Alarmierungsmöglichkeit
+
+2)
+
+Hohe und gleichbleibende Sprachqualität
+
+3)
+
+Wahrung des Fernmeldegeheimnisses und des Abhörverbots
+
+4)
+
+Digitale und sichere Sprachübertragung
+
+176.
+
+Welchen Vorteil hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon, wenn
+in einer Notsituation andere Fahrzeuge in Sicht sind und um Hilfe gebeten werden
+sollen?
+
+1)
+
+Erreichbarkeit aller in Funkreichweite befindlichen Seefunkstellen
+
+2)
+
+Erreichbarkeit aller Seefunkstellen im Seegebiet A1
+
+3)
+
+Erreichbarkeit aller Rettungsfahrzeuge in Küstennähe
+
+4)
+
+Erreichbarkeit aller Seefunkstellen in den Seegebieten A1 und A2
+
+[174]
+
+[175]
+
+[176]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+61
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+177.
+
+Warum ist ein Mobiltelefon gegenüber einer UKW-Seefunkanlage keine Alternative,
+wenn in einer Notsituation die Such- und Rettungsmaßnahmen anderen Fahrzeugen
+bekannt gemacht werden müssen?
+
+1)
+
+Telefongespräche können von weiteren Fahrzeugen nicht mitgehört werden, wichtige
+Informationen zur Hilfeleistung und Rettung sind nicht für alle Beteiligten verfügbar
+
+2)
+
+Telefongespräche können von weiteren Fahrzeugen nicht bestätigt werden, der
+Seenotleitung (MRCC) fehlen daher wichtige Informationen
+
+3)
+
+Telefongespräche können von Küstenfunkstellen nicht bestätigt werden, wichtige
+Informationen fehlen daher für die Koordination vor Ort
+
+4)
+
+Telefongespräche können vom On-Scene-Coordinator (OSC) nicht mitgehört werden,
+wichtige Informationen sind nur bei der Seenotleitung (MRCC) vorhanden
+
+178.
+
+Mit welcher Meldung werden die Funkstellen davon unterrichtet,
+dass der Notverkehr beendet ist?
+
+1)
+
+Meldung, die mit SILENCE FINI abschließt
+
+2)
+
+Meldung, die mit SILENCE MAYDAY abschließt
+
+3)
+
+Meldung, die mit OVER AND OUT abschließt
+
+4)
+
+Meldung, die mit MASTER abschließt
+
+[177]
+
+[178]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+62
+
+Gesamtfragenkatalog für das das beschränkt gültige Funkbetriebszeugnis (SRC, Short Range Certificate)
+
+179.
+
+Welche Funktion hat ein Transponder für Suche und Rettung
+(Search and Rescue Transponder [SART])?
+
+1)
+
+Aussendung von Ortungsfunksignalen, die im Seenotfall das Auffinden des
+verunglückten Fahrzeuges mittels Radar erleichtern sollen
+
+2)
+
+Automatische Aussendung der Notposition über UKW an Küsten- bzw. Schiffsfunkstellen
+
+3)
+
+Automatische Übermittlung der Position des in Not befindlichen Fahrzeuges über die
+COSPAS-SARSAT-Satelliten
+
+4)
+
+Reflexion von Radarstrahlen und Erzeugung eines deutlichen Echos auf
+Radarbildschirmen
+
+180.
+
+Welche Funktion hat eine Satelliten-Seenotfunkbake
+(Emergency Position-Indicating Radiobeacon [EPIRB])?
+
+1)
+
+Alarmierung und Kennzeichnung der Notposition
+
+2)
+
+Kommunikation im VHF-Band zwischen Überlebensfahrzeug und SAR- Fahrzeugen bzw.
+dem MRCC
+
+3)
+
+Aussendung einer Notmeldung auf den Notfrequenzen der Luftfahrt
+(121,5 MHz bzw. 243 MHz), die von den Luftfahrzeugen bestätigt wird
+
+4)
+
+Ermöglichen der Ortung mittels Radar und Erleichterung des Auffindens des Havaristen
+
+[179]
+
+[180]
+
+Alle Rechte vorbehalten. Abdruck, Vervielfältigung und Veröffentlichung - auch auszugsweise - nur mit ausdrücklicher Genehmigung der FVT Koblenz.
+Stand: 10/2018 Korrektur 07012019
+
+63
+
+
